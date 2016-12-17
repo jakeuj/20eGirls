@@ -1,0 +1,1292 @@
+﻿[SCRIPTEVENT]0
+ Name=魔法少女-成神
+Condition
+ L=[Turn/=]3
+ L=[FactionExist/=]魔法少女
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=鹿目圓化身為女神圓存在於天地之間。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=為了讓小圓晚點領便當，所以偷偷把便當錢給奈葉請求庇護了呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[COMMANDER]
+ L=魔法少女/鹿目圓
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]1
+ Name=機動六課-守護
+Condition
+ L=[Turn/=]4
+ L=[FactionExist/=]機動六課
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=魔法少女奈葉出第五季了呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=為了照顧後輩魔法少女，所以只好與小圓先同盟一陣子。
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLIANCE]
+ L=機動六課/魔法少女
+ L=[SETMONEY]
+ L=機動六課/500
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]2
+ Name=少女兵器-被竄改的歷史
+Condition
+ L=[Turn/=]5
+ L=[FactionExist/=]少女兵器
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=指揮官日誌CH5：
+ L=本來我們以為，姆大陸上僅存在原生種與少女兵器。然而越深入，
+ L=呈現在眾人面前的設施與景象，卻是足以否定我們過去的種種認知...
+ L=難道歷史被人刻意隱瞞與竄改了嗎?
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=經過這段時間的冒險，我們勢必要對姆大陸的情況重新評估，
+ L=總覺得越加深入越是危險..
+ L=但幸好有少女們陪著我，在這危機四伏的情勢下也是一種幸福
+ L=啊!!
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=經過探索，我們發現的新地點有四處：劍刃基地、刀鋒機場、
+ L=戰火之都與詛咒廢墟..
+ L=接下來會有甚麼在這裡面等著我們呢...
+ L=恩....夜深了，明天吃飽睡足之後，再帶著小秘書與少女們一起
+ L=去探險吧..
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=(但是...我為什麼要一直讓自己陷入危險之....Z z z z...中呢....Z z z 
+ L=z...Z z z Z z z...)
+ L=[TX]
+ L=[WAIT]
+
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]3
+ Name=少女兵器-倒錯的真相
+Condition
+ L=[Turn/=]6
+ L=[FactionExist/=]少女兵器
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=指揮官日誌CH6：
+ L=
+ L=戰火的痕跡、文明的遺址，逐漸發現的事物，
+ L=一點一滴訴說著過去人們的生活然而在長久的探索之中，
+ L=卻從未見過任何一個「人類」的蹤跡，幽靈少女再度於眾人面前現身，
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=對於我們來說，是危機，或是轉機？又或者，這代表著我們在
+ L=姆大陸上探索，即將抵達盡頭．．．
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=越深入的探索，越覺得困難重重，堅甲龜、導彈鯊魚、EI.巨鑽手等等更棘手的敵人在前方等著我們。
+ L=並發現四處：邊境葦原、荒蕪城跡、逆襲之地與秘密狹道...
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=接下來會有甚麼在這裡面等著我們呢...
+ L=相信我們小秘書與少女們不管遇到任何困難，都可以一起解決的!!
+ L=[TX]
+ L=[WAIT]
+
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]4
+ Name=少女兵器-暴風雨前的寧靜
+Condition
+ L=[Turn/=]7
+ L=[FactionExist/=]少女兵器
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=指揮官日誌CH7：
+ L=
+ L=不期而遇的巧合，令伊塔奈爾再次出現於我們面前，
+ L=基於看守人的身分，修復出錯的伊甸網格，或許已是她僅存的
+ L=職責，
+ L=就在修復的當下，一起突發的狀況，打斷了這短暫的平靜，
+ L=為了讓伊塔奈爾安心前往修復，眾人決定前往現場進行確認。 
+ L=
+ L=然而，在那等待我們到來的，居然是─── 
+ L=[TX]
+ L=[WAIT]
+
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]5
+ Name=少女兵器-黃龍帝國的未來
+Condition
+ L=[Turn/=]9
+ L=[FactionExist/=]少女兵器
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=指揮官日誌CH9：
+ L=
+ L=突如其來的戰鬥，令我驚醒在基地的緊急醫護所內！
+ L=黃龍帝國皇子們的到臨，也為戰爭蒙上一層迷霧... 
+ L=為了阻止世界三大勢力持續搶奪資源，集合眾少女兵器們共同為姆大陸爭取世界和平的願景！
+ L=
+ L=但是，人算不如天算... 更深層的陰謀悄悄的進行著…… 
+ L=[TX]
+ L=[WAIT]
+
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]6
+ Name=黑色騎士團
+Condition
+ L=[Turn/=]8
+ L=[FactionExist/=]黑色騎士團
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=皇曆2010年8月10日，超級大國「不列顛尼亞帝國」為了奪取日本的地下資源而侵略日本，
+ L=在不列顛尼亞帝國強大的兵器Knightmare進攻下，日本在不到一個月的時間內被征服。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=日本被剝奪了自由、權利甚至是國家的名字，不列顛尼亞帝國將「日本」改稱為「11區」，「日本人」這名詞則被11這數字所取代。
+ L=表面上看來不列顛尼亞帝國的統治似乎牢不可破，但其中早已出現了裂痕。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=七年後的2017年，在生死邊緣獲得C.C.授予「Geass」的力量，
+ L=立志要粉碎不列顛尼亞帝國的黑色皇子魯路修，以及獲得第七世代人型機甲蘭斯洛特，
+ L=立志從帝國內部進行改革的白色騎士樞木朱雀，影響了整個世界。
+ L=[TX]
+ L=[WAIT]
+
+ L=[GAINOFFBOARDIP]
+ L=黑色騎士團/1
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]7
+ Name=聖杯戰爭
+Condition
+ L=[Turn/=]10
+ L=[FactionExist/=]聖杯戰爭
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=聖杯：傳說中可實現持有者一切願望的寶物。而為了得到聖杯的儀式就被稱為聖杯戰爭。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=參加聖杯戰爭的7名由聖杯選出的魔術師被稱為御主（マスター
+ L=，英文Master），與7名被稱為從者（日文：サーヴァント；英
+ L=文Servant）的使魔訂定契約。他們是由聖杯選擇的七位英靈，
+ L=被分為七個職階，以使魔的身份被召喚出來。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=能獲得聖杯的只有一組，這7組人馬各自為了成為最後的那一組
+ L=而互相殘殺。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=缺乏學習魔術的才能的魔術師主角衛宮士郎，偶然地與從者中
+ L=的劍士·Saber（セイバー）訂定契約，被捲入聖杯戰爭當中。
+ L=[TX]
+ L=[WAIT]
+
+ L=[GAINOFFBOARDSP]
+ L=聖杯戰爭/1
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]8
+ Name=灼眼夏娜
+Condition
+ L=[Turn/=]11
+ L=[FactionExist/=]灼眼夏娜
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=「序章」 平凡的高中生坂井悠二，感覺每日的平凡跟無趣的同
+ L=樣生活，在回家的商店街上與忽然出現的少女被捲入非日常的
+ L=世界。這位少女，「炎髮灼眼的討伐者」夏娜──討伐干擾世界
+ L=秩序的紅世之徒的火霧戰士的一員，告知了悠二他已經是已死
+ L=的存在。為了保護身為特殊火炬「密斯提斯」的悠二，夏娜與
+ L=欲針對他的紅世之徒展開戰鬥。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=原以為坂井悠二，也會是一個怕死的火炬「密斯提斯」，卻沒
+ L=想到悠二是個很關心他人的怪人物，在校園被火霧戰士的獵人
+ L=法利亞格尼襲擊時，夏娜使用了悠二身上的存在之力，因而發
+ L=現了藏在悠二身上的寶具『零時迷子』。往後的日子將會有許
+ L=許多多的紅世魔王跟使徒一一來襲，夏娜的個人觀跟感情也因
+ L=為悠二而受到了影響。
+ L=[TX]
+ L=[WAIT]
+
+ L=[GAINOFFBOARDTP]
+ L=灼眼夏娜/1
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]9
+ Name=東方軍
+Condition
+ L=[Turn/=]12
+ L=[FactionExist/=]東方軍
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=東方Project的故事主要發生在虛構世界「幻想鄉」中。起初，幻想鄉僅僅被稱為「東之國中遠離人里的邊境之地」。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=幻想鄉是以日本東北及四國為原型的地區，而各種非人生物住在這裡，亦有少數人類居住於此地。於古代，幻想鄉並未以結界將內外分離。到了《紅魔鄉》故事發生的500年前，因人類的急速發展，迫使幻想鄉用結界孤立自己，以平衡妖怪與人類的勢力。
+ L=[TX]
+ L=[WAIT]
+
+ L=[GAINMONEY]
+ L=東方軍/50
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]10
+ Name=涼宮春日
+Condition
+ L=[Turn/=]13
+ L=[FactionExist/=]涼宮春日
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=「我對普通的人類沒有興趣，你們之中要是有外星人、未來人、異世界人、超能力者，就儘管來找我吧！以上——」
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=才剛開學，涼宮春日的自我介紹就如此勁爆。坐在他前面的男學生阿虛，也有過涼宮那樣的想法，但早就放棄了。不過涼宮認真的態度還是吸引了他觀察。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=結果一句無心的言語令他被扯進一個謎樣團體—SOS團，還有外
+ L=星人、未來人、異世界人、超能力者等等的逼真怪事……涼宮春
+ L=日擁有改變世界的力量，SOS團裡的人卻設法不讓她知道，因
+ L=為不想影響世界的法則。
+ L=[TX]
+ L=[WAIT]
+
+ L=[GAINBATTLEBONUS]
+ L=涼宮春日/1
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]11
+ Name=零之使魔
+Condition
+ L=[Turn/=]14
+ L=[FactionExist/=]零之使魔
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=在異世界「哈爾凱尼亞」，被露易絲當作使魔召喚出來的日本高中生平賀才人被捲入了這個世界的一切。召喚才人出來的是長相可愛但完全沒有魔法才能的露易絲。一臉茫然的才人突然被露易絲強吻之後，他的手背出現了一個[盧恩文字](符文)，才人自此變成了露易絲的使魔。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=故事主要圍繞在托里斯汀（即露易絲等人所在的王國）所發生的大小事情，並描述露易絲和才人從最差的主僕關係逐漸親近的成長過程。
+ L=[TX]
+ L=[WAIT]
+
+ L=[GAINATTACKBONUS]
+ L=零之使魔/2
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]12
+ Name=神崎亞莉亞
+Condition
+ L=[Turn/=]15
+ L=[FactionExist/=]神崎亞莉亞
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=為對抗殘暴罪犯，存在著警察無法應對的治安危機的世界之中，出現了一種彌補警察不足的武裝偵探，在法律限制內解決個人或組織的委託，通稱「武偵」。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=東京武偵高中是專門培育武偵的特殊學校，學生的義務是必須攜帶槍械與刀劍，在這所學校偵探科二年級的男主角遠山金次，被自己所擁有的某種特殊體質（一種會在某種契機之下使大腦細胞高度活性化，並且附帶某種奇怪的副作用）所深深困擾著，對於這一點他始終希望對其他人保密，只祈求能過平凡的校園生活…
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=可惜事與願違，二年級的遠山金次在某天上學途中被捲入一起
+ L=「武偵殺手」的炸彈魔攻擊，在身處絕境時，一位美少女從天
+ L=而降，從此金次與強襲科的超精英─S級武偵神崎·H·亞莉亞相遇
+ L=（外表可愛、身材嬌小卻非常有能力，同時也是個狂暴並富有
+ L=攻擊性的女孩），就這樣，被迫與最強武偵亞莉亞組隊的金次
+ L=，開始了面對兇惡罪犯的日常生活，而他冀望的平凡生活也逐
+ L=漸遠去…
+ L=[TX]
+ L=[WAIT]
+
+ L=[GAINDEFENSEBONUS]
+ L=神崎亞莉亞/3
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]13
+ Name=薔薇少女
+Condition
+ L=[Turn/=]16
+ L=[FactionExist/=]薔薇少女
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=櫻田純是一名不願上學而長期足不出戶的中學二年生。他熱衷於網上購物，喜歡在購買物品後的退貨限期內退回物品，只是房間裡還是放有許多奇奇怪怪的詛咒物品。有一天，他收到一張傳單，上面只寫了一句「上發條 不上發條」的選項。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=在好奇心驅使下，純選擇了「上發條」，之後房間就出現了一個神秘的皮箱，裡面裝著一個非常美麗、質感近似真人的人偶。使用附帶發條轉動背部的開關後，人偶像有生命般活動起來，向純說：「我的名字是真紅，薔薇少女的第五人偶。」
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=伴隨這次相遇而來的，是更多相似的人偶，與及身份神秘的旁
+ L=觀者。他們一同為著某個失蹤良久的認同而努力，展開一場潛
+ L=越世界和時間所限的遊戲……
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLLOYALITY]
+ L=薔薇少女/1
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]14
+ Name=魔法少女小圓
+Condition
+ L=[Turn/=]17
+ L=[FactionExist/=]魔法少女
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=出身於良好家庭，親朋好友團聚，有哭有笑，是誰都擁有的日常生活。就讀市立見瀧原中學2年級的少女鹿目圓，如此平凡地過著幸福的每一天。直至1名神秘轉學生曉美焰的出現，讓圓的命運開始改變。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=當天，圓與好友美樹沙耶香在返家途中，撞見一隻傷痕累累，被焰所獵殺的不明生物丘比（QB）。風波過後，QB希望少女們和自己交換契約，成為「魔法少女」討伐人類之敵。然而此後，隨著殘酷真相漸遭揭露，圓的想法也一再受到衝擊……
+ L=[TX]
+ L=[WAIT]
+
+ L=[FULLRECOVER]
+ L=魔法少女
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]15
+ Name=魔法少女奈葉
+Condition
+ L=[Turn/=]18
+ L=[FactionExist/=]機動六課
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=主角高町奈葉是個平凡的小學三年級女生，與好友在如同日常
+ L=作息的前往補習途中，發現了從異世界米德其路達（又譯米德
+ L=芝爾達）來的雪貂尤諾·斯克萊亞。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=他利用心靈感應告訴奈葉，
+ L=他來到這個世界的理由是為了回收他所挖掘到的太古遺產（平
+ L=行次元中的高度文明的遺產）「寶石種子」。奈葉為了保護可
+ L=能因為寶石種子暴走被破壞的城鎮，決定代替尤諾出面回收。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=不料，這卻只是一連串事件的開端。他們遇見，與他們一樣目
+ L=的，因為回收寶石種子而出現的謎樣金髮魔法少女到底是……
+ L=[TX]
+ L=[WAIT]
+
+ L=[FULLRECOVER]
+ L=機動六課
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]16
+ Name=少女兵器-503
+Condition
+ L=[Turn/=]1
+ L=[FactionExist/=]少女兵器
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=HTTP Error 503 Service unavailable...
+ L=[TX]
+ L=[WAIT]
+
+ L=[RUBBISH]
+ L=少女兵器/1
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]17
+ Name=少女兵器-補償
+Condition
+ L=[Turn/=]2
+ L=[FactionExist/=]少女兵器
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=哎呀，不好意思，剛剛系統發生錯誤了！
+ L=馬上發送補償，請繼續對我們寄予厚望唷！
+ L=[TX]
+ L=[WAIT]
+
+ L=[GAINMONEY]
+ L=少女兵器/100
+ L=[GAINOFFBOARDSP]
+ L=少女兵器/1
+ L=[GAINOFFBOARDTP]
+ L=少女兵器/1
+ L=[GAINOFFBOARDIP]
+ L=少女兵器/1
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]18
+ Name=魔法少女小圓-學姊
+Condition
+ L=[Turn/=]19
+ L=[FactionExist/=]魔法少女
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=為了學姐！
+ L=[TX]
+ L=[WAIT]
+
+ L=[LEVELUP]
+ L=巴麻美/1
+ L=[LEADERALIAS]
+ L=巴麻美/金髮學姊
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]19
+ Name=魔法少女奈葉-團結
+Condition
+ L=[Turn/=]20
+ L=[FactionExist/=]機動六課
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=團結！
+ L=[TX]
+ L=[WAIT]
+
+ L=[UNITCLASS]
+ L=琳芙絲/親衛隊
+ L=[LOYALITY]
+ L=八神疾風/200
+ L=[LOYALITY]
+ L=菲特/200
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]20
+ Name=魔法少女小圓-神蹟
+Condition
+ L=[Turn/=]21
+ L=[FactionExist/=]魔法少女
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=神蹟！
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLLEVELUP]
+ L=魔法少女/1
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]21
+ Name=魔法少女奈葉-空降
+Condition
+ L=[Turn/=]22
+ L=[FactionExist/=]機動六課
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=空降！
+ L=[TX]
+ L=[WAIT]
+
+ L=[FREEUPGRADE]
+ L=機動六課/三菱時子
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]22
+ Name=少女兵器-獎勵
+Condition
+ L=[Turn/=]23
+ L=[FactionExist/=]少女兵器
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=遊戲活動，儲值獎勵！
+ L=[TX]
+ L=[WAIT]
+
+ L=[SETBASICARMY]
+ L=少女兵器/5/20
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]23
+ Name=魔法少女小圓-出門
+Condition
+ L=[Turn/=]21
+ L=[FactionExist/=]魔法少女
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=今天少女們出門去了！
+ L=[TX]
+ L=[WAIT]
+
+ L=[NEUTRALITY]
+ L=魔法少女/1
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]24
+ Name=魔法少女奈葉-乖巧
+Condition
+ L=[Turn/=]24
+ L=[FactionExist/=]機動六課
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=今天少女們都很乖！
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLPOLICE]
+ L=機動六課/10
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]25
+ Name=少女兵器-抉擇
+Condition
+ L=[Turn/=]25
+ L=[FactionExist/=]少女兵器
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=今日伺服器維護...
+ L=[TX]
+ L=[WAIT]
+
+ L=[QUESTION]
+ L=少女們怎麼了呢？
+ L=[TX]
+ L=[ANSWER]
+ L=歷史/休息計畫！
+ L=假想/聯誼計畫！
+ L=[ASK]
+ L=少女兵器/歷史
+ L=[END]
+ L=[LABEL]
+ L=歷史
+ L=[TEXT]
+ L=因為在家休息所以勢力治安似乎變好些了呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLPOLICE]
+ L=少女兵器/10
+ L=[END]
+ L=[LABEL]
+ L=假想
+ L=[TEXT]
+ L=因為與其他勢力聯誼所以全世界治安似乎變好些了呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLPOLICE]
+ L=AnyPlayer/10
+ L=[END]
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]26
+ Name=魔法少女小圓-圓環
+Condition
+ L=[Event/=]魔法少女小圓-出門
+ L=[FactionDefeat/=]魔法少女
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=就讀於中學2年級的平凡少女，但在正片時間軸的故事中，因其良好的魔法少女的資質，被丘比執拗地推銷契約。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=起初對魔法少女充滿華麗的夢想，但在麻美慘死、得知靈魂寶
+ L=石的真相之後有了不同的認識，對於是否締結魔法少女的契約
+ L=顯得膽怯而猶豫不決，以「影響當事者的旁觀者」的立場干
+ L=涉其他魔法少女的行動。
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=劇末終於確定自己的願望，為了終結
+ L=魔法少女的悲劇而與丘比締約，成為消滅魔女的概念固定在宇
+ L=宙中，在魔法少女之間以「圓環之理」（円環の理；Law of 
+ L=Cycles）的名稱流傳。
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLPOLICE]
+ L=AnyPlayer/10
+ L=[GAINMONEY]
+ L=AnyPlayer/-100
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]27
+ Name=魔法少女奈葉-奧援
+Condition
+ L=[FactionExist/=]機動六課
+ L=[FactionExist/=]少女兵器
+ L=[WarCount/機動六課]5
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=最近常常敲敲打打的呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[QUESTION]
+ L=今天感覺？
+ L=[TX]
+ L=[ANSWER]
+ L=歷史/有點累呢！
+ L=假想/活力滿滿！
+ L=[ASK]
+ L=機動六課/歷史
+ L=[END]
+ L=[LABEL]
+ L=歷史
+ L=[TEXT]
+ L=請個假來去找隔壁少女玩吧！
+ L=[TX]
+ L=[WAIT]
+
+ L=[NEUTRALITY]
+ L=機動六課/1
+ L=[PEACE]
+ L=機動六課/少女兵器
+ L=[END]
+ L=[LABEL]
+ L=假想
+ L=[TEXT]
+ L=奧援！天上掉下來的禮物！
+ L=[TX]
+ L=[WAIT]
+
+ L=[NEUTRALITY]
+ L=機動六課/1
+ L=[GAINMONEY]
+ L=機動六課/100
+ L=[END]
+ L=[END]
+ L=
+[/SCRIPTEVENT]
+[SCRIPTEVENT]28
+ Name=少女兵器-富翁
+Condition
+ L=[FactionExist/=]少女兵器
+ L=[MoneyMore/少女兵器]300
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=有點錢了！
+ L=[TX]
+ L=[WAIT]
+
+ L=[QUESTION]
+ L=遇到乞丐乞討三百元該怎麼辦呢？
+ L=[TX]
+ L=[ANSWER]
+ L=歷史/詐騙集團！
+ L=假想/把錢給她！
+ L=[ASK]
+ L=少女兵器/歷史
+ L=[END]
+ L=[LABEL]
+ L=歷史
+ L=[TEXT]
+ L=打擊犯罪，治安似乎變好些了呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLPOLICE]
+ L=少女兵器/10
+ L=[END]
+ L=[LABEL]
+ L=假想
+ L=[TEXT]
+ L=幫助乞丐後，治安似乎變差了呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[TEXT]
+ L=是因為乞丐變多了嗎？但有些東西似乎也變多了起來！
+ L=[TX]
+ L=[WAIT]
+
+ L=[GAINMONEY]
+ L=少女兵器/-300
+ L=[ALLPOLICE]
+ L=少女兵器/-10
+ L=[GAINOFFBOARDSP]
+ L=少女兵器/15
+ L=[GAINOFFBOARDTP]
+ L=少女兵器/10
+ L=[GAINOFFBOARDIP]
+ L=少女兵器/5
+ L=[END]
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]29
+ Name=魔法少女小圓-擴張
+Condition
+ L=[FactionExist/=]魔法少女
+ L=[FactionCityMore/魔法少女]15
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=玩耍的地方似乎變多了呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLLOYALITY]
+ L=魔法少女/10
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]30
+ Name=魔法少女奈葉-熱鬧
+Condition
+ L=[FactionExist/=]機動六課
+ L=[UnitNumber/機動六課]24
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=玩伴似乎變多了呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[FULLRECOVER]
+ L=機動六課
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]31
+ Name=少女兵器-政治
+Condition
+ L=[FactionExist/=]少女兵器
+ L=[FactionPPMore/少女兵器]30
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=政治到底是甚麼呢？
+ L=[TX]
+ L=[WAIT]
+
+ L=[FREEUPGRADE]
+ L=少女兵器/伍緹絲
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]32
+ Name=魔法少女-競爭
+Condition
+ L=[FactionExist/=]魔法少女
+ L=[FactionExist/=]機動六課
+ L=[AtWar/魔法少女]機動六課
+ L=[OR]
+ L=[AtWar/機動六課]魔法少女
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=到底誰才是正牌魔法少女呢？
+ L=[TX]
+ L=[WAIT]
+
+ L=[GAINDEFENSEBONUS]
+ L=魔法少女/5
+ L=[GAINDEFENSEBONUS]
+ L=機動六課/5
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]33
+ Name=魔法少女-友誼
+Condition
+ L=[Turn/>]50
+ L=[FactionExist/=]魔法少女
+ L=[FactionExist/=]機動六課
+ L=[BothCountryRelation/魔法少女/機動六課]>=60
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=友誼長存，輕鬆百合？
+ L=[TX]
+ L=[WAIT]
+
+ L=[FULLRECOVER]
+ L=魔法少女
+ L=[FULLRECOVER]
+ L=機動六課
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]34
+ Name=少女兵器-出征
+Condition
+ L=[FactionExist/=]少女兵器
+ L=[AtWar/少女兵器]AnyPlayer
+Script
+ L=[FACE1]
+ L=可蘿嵐左/指揮官
+ L=[SAY1]
+ L=真是...來到這個奇妙的大陸，卻完全不知道該往哪個方向走，
+ L=這樣下去真的可以達成使命嗎？
+ L=[TX]
+ L=[WAIT]
+
+ L=[SAY1]
+ L=舉目所及都是一些不知名植物，和閃著光芒的奇特礦石...傳送
+ L=過來時座標錯誤，又沒帶補給品。再這樣走下去，我寧願把這
+ L=些礦石都吃掉，成為這片大陸第一個被礦石撐死的人...
+ L=[TX]
+ L=[WAIT]
+
+ L=[SAY1]
+ L=不行了...好餓，必須多少...吃點東西才行，食物、什麼食物都好
+ L=...
+ L=[TX]
+ L=[WAIT]
+
+ L=[SAY1]
+ L=啊啊...這個草、好鮮豔的草...看起來好像...很美味...！
+ L=[TX]
+ L=[WAIT]
+
+ L=[SAY1]
+ L=我昏倒了、食物中毒，昏倒在荒野之中。然後我被救了...被那
+ L=個充滿元氣的少女，可蘿嵐 。
+ L=[TX]
+ L=[WAIT]
+
+ L=[FACE2]
+ L=可蘿嵐右/可蘿嵐
+ L=[SAY2]
+ L=指揮官指揮官指揮官指揮官指揮官！你回來了！！！事情太多
+ L=了、可蘿嵐只要再差一步就要逃走了喔。
+ L=[TX]
+ L=[WAIT]
+
+ L=[SAY1]
+ L=...最讓我頭痛的就是這傢伙...好了好了，我知道了！
+ L=[TX]
+ L=[WAIT]
+
+ L=[SAY2]
+ L=那這邊就拜託你嘍 ，  指揮官！
+ L=[TX]
+ L=[WAIT]
+
+ L=[SAY1]
+ L=唉...真拿她沒辦法，好...開始做事吧！
+ L=[TX]
+ L=[WAIT]
+
+ L=[SAY1]
+ L=首先，就先從看起來最基本的開始建起吧。
+ L=[TX]
+ L=[WAIT]
+
+ L=[LEVELUP]
+ L=可蘿嵐/1
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]35
+ Name=魔法少女小圓-委屈
+Condition
+ L=[FactionExist/=]魔法少女
+ L=[CityNotOwner/魔法少女]天水
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=世界往毀滅傾斜中...
+ L=啟動保護政策！
+ L=[TX]
+ L=[WAIT]
+
+ L=[GAINDEFENSEBONUS]
+ L=魔法少女/10
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]36
+ Name=神崎亞莉亞-連理
+Condition
+ L=[FactionExist/=]神崎亞莉亞
+ L=[CityNotOwner/神崎亞莉亞]雲中
+ L=[FactionExist/=]東方軍
+ L=[FactionExist/=]黑色騎士團
+ L=[FactionExist/=]涼宮春日
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=被打得滿頭包了呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[QUESTION]
+ L=為了避免兩面夾擊...
+ L=[TX]
+ L=[ANSWER]
+ L=歷史/請東方喝個杯下午茶！
+ L=假想/買本涼宮春日的憂鬱！
+ L=[ASK]
+ L=神崎亞莉亞/歷史
+ L=[END]
+ L=[LABEL]
+ L=歷史
+ L=[TEXT]
+ L=請完客後變好姊妹了呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLIANCE]
+ L=神崎亞莉亞/東方軍
+ L=[KOWLOON]
+ L=同盟/已發生
+ L=[END]
+ L=[LABEL]
+ L=假想
+ L=[TEXT]
+ L=雖然看了之後還是挺憂鬱的...但碰巧遇到ZERO大人也在看呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[PEACE]
+ L=神崎亞莉亞/黑色騎士團
+ L=[Kowloon/同盟]未發生
+ L=[END]
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]37
+ Name=涼宮春日-奮起
+Condition
+ L=[Event/=]36
+ L=[FactionExist/=]涼宮春日
+ L=[FactionExist/=]神崎亞莉亞
+ L=[Kowloon/同盟]已發生
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=對手竟然不看我的書還跑去喝茶！
+ L=[TX]
+ L=[WAIT]
+
+ L=[LEVELUP]
+ L=涼宮春日/1
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]38
+ Name=黑色騎士團-加油
+Condition
+ L=[FactionExist/=]黑色騎士團
+ L=[FactionExist/=]東方軍
+ L=[Kowloon/同盟]已發生
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=東方竟然有茶喝，咱也要加油囉！
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLLEVELUP]
+ L=黑色騎士團/2
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]39
+ Name=聖杯戰爭-財神
+Condition
+ L=[FactionExist/=]聖杯戰爭
+ L=[MoneyMore/聖杯戰爭]500
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=財神到！
+ L=[TX]
+ L=[WAIT]
+
+ L=[GAINMONEY]
+ L=聖杯戰爭/200
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]40
+ Name=灼眼夏娜-連環
+Condition
+ L=[Event/=]36
+ L=[FactionExist/=]灼眼夏娜
+ L=[FactionExist/=]神崎亞莉亞
+ L=[Kowloon/同盟]未發生
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=神崎亞莉亞來給我們上了一課呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[LEVELUP]
+ L=灼眼夏娜/1
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]41
+ Name=東方軍-福神
+Condition
+ L=[FactionExist/=]東方軍
+ L=[MoneyMore/聖杯戰爭]800
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=福神到！
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLPOLICE]
+ L=東方軍/10
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]42
+ Name=零之使魔-領域
+Condition
+ L=[FactionExist/=]零之使魔
+ L=[MoneyMore/零之使魔]1000
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=有點錢了，拿來鞏固下自己的領域吧！
+ L=[TX]
+ L=[WAIT]
+
+ L=[GAINMONEY]
+ L=零之使魔/-100
+ L=[FULLRECOVER]
+ L=[ALLPOLICE]
+ L=零之使魔/10
+ L=[GAINDEFENSEBONUS]
+ L=零之使魔/5
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]43
+ Name=薔薇少女-出遊
+Condition
+ L=[FactionExist/=]薔薇少女
+ L=[MoneyMore/薔薇少女]1000
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=荷包滿滿，外出買些東西給姊妹們吧！
+ L=[TX]
+ L=[WAIT]
+
+ L=[GAINMONEY]
+ L=薔薇少女/-100
+ L=[ALLLOYALITY]
+ L=薔薇少女/100
+ L=[GAINBATTLEBONUS]
+ L=薔薇少女/1
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]44
+ Name=少女兵器-少女心
+Condition
+ L=[FactionExist/=]少女兵器
+ L=[MoneyMore/少女兵器]1000
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=荷包君說該買新衣服了呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLPOLICE]
+ L=少女兵器/10
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]45
+ Name=聖杯戰爭-秘密
+Condition
+ L=[Event/=]37
+ L=[FactionExist/=]聖杯戰爭
+ L=[FactionExist/=]涼宮春日
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=撿到了一本叫做涼宮春日的憂鬱的書呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[LEVELUP]
+ L=聖杯戰爭/1
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]46
+ Name=東方軍-神起
+Condition
+ L=[Event/=]40
+ L=[FactionExist/=]東方軍
+ L=[FactionExist/=]神崎亞莉亞
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=神崎亞莉亞竟然給我喝涼水！
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLLOYALITY]
+ L=東方軍/10
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]47
+ Name=少女兵器-除錯
+Condition
+ L=[FactionExist/=]少女兵器
+ L=[WarCount/少女兵器]4
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=劇情觸發條件一直報錯呢！讓我DEBUG一下吧！
+ L=[TX]
+ L=[WAIT]
+
+ L=[NEUTRALITY]
+ L=少女兵器/3
+ L=[END]
+[/SCRIPTEVENT]
+[SCRIPTEVENT]48
+ Name=少女兵器-危機
+Condition
+ L=[FactionExist/=]少女兵器
+ L=[FactionExist/=]灼眼夏娜
+ L=[FactionExist/=]薔薇少女
+ L=[CityNotOwner/少女兵器]夷州
+Script
+ L=[PICTURE]
+ L=Default/成神
+ L=[TEXT]
+ L=隔海也能打過來呀？
+ L=[TX]
+ L=[WAIT]
+
+ L=[QUESTION]
+ L=該怎麼辦呢？
+ L=[TX]
+ L=[ANSWER]
+ L=歷史/雖然都是少女但是布偶跟兵器終究還是無理！
+ L=假想/同是少女應該可以互相理解吧？
+ L=[ASK]
+ L=少女兵器/歷史
+ L=[END]
+ L=[LABEL]
+ L=歷史
+ L=[TEXT]
+ L=雖然夏娜一直說囉嗦囉嗦囉嗦...但總歸交到朋友了呢？
+ L=[TX]
+ L=[WAIT]
+
+ L=[PEACE]
+ L=少女兵器/灼眼夏娜
+ L=[END]
+ L=[LABEL]
+ L=假想
+ L=[TEXT]
+ L=雖然看了之後還是挺憂鬱的...但碰巧遇到ZERO大人也在看呢！
+ L=[TX]
+ L=[WAIT]
+
+ L=[ALLIANCE]
+ L=少女兵器/薔薇少女
+ L=[END]
+ L=[END]
+[/SCRIPTEVENT]

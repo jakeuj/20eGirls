@@ -1,0 +1,2343 @@
+﻿[GRAND]0
+ MapWidth=5120
+ MapHeight=3200
+ StartYear=2014
+ StartMonth=8
+ UnitBuff0=1
+ UnitBuff1=1
+ UnitBuff2=2
+ UnitBuff3=3
+ UnitBuff4=4
+ MAXUnitBuff0=0
+ MAXUnitBuff1=100
+ MAXUnitBuff2=100
+ MAXUnitBuff3=100
+ MAXUnitBuff4=100
+ UnitAid0=0
+ UnitAid1=1
+ UnitAid2=3
+ UnitAid3=2
+ UnitAid4=4
+ ApplicationTitle=萌國無雙
+ YearPrefix=萌國
+ BattleBGM=BGM2.mp3
+ DefaultBGM=BGM1.mp3
+ AIBGM=BGM2.mp3
+ SPPhrase=銷售量
+ TPPhrase=版稅金
+ IPPhrase=技術力
+ APPhrase=行動力
+ PPPhrase=政治力
+ TP_Limit=9999
+ SP_Limit=9999
+ REFORM_Limit=999
+ UNITLVCOVER_Limit=6
+ MaxAP=100
+ NavyLength=5
+ MPRecoverySpeed=10
+ RPGLvName=名聲等級
+ RPGGemPerLv=2
+ RandomNameClear=1
+ RandomName1=佐藤
+ RandomName1=鈴木
+ RandomName1=高橋
+ RandomName1=田中
+ RandomName1=渡邊
+ RandomName1=伊藤
+ RandomName1=山本
+ RandomName1=中村
+ RandomName1=小林
+ RandomName1=斎藤
+ RandomName1=加藤
+ RandomName1=吉田
+ RandomName1=山田
+ RandomName1=佐佐木
+ RandomName1=山口
+ RandomName1=松本
+ RandomName1=井上
+ RandomName1=木村
+ RandomName1=林
+ RandomName1=清水
+ RandomName1=山崎
+ RandomName1=中島
+ RandomName1=池田
+ RandomName1=阿部
+ RandomName1=橋本
+ RandomName1=山下
+ RandomName1=森
+ RandomName1=石川
+ RandomName1=前田
+ RandomName1=小川
+ RandomName1=藤田
+ RandomName1=岡田
+ RandomName1=後藤
+ RandomName1=長穀川
+ RandomName1=石井
+ RandomName1=村上
+ RandomName1=近藤
+ RandomName1=阪本
+ RandomName1=遠藤
+ RandomName1=青木
+ RandomName1=藤井
+ RandomName1=西村
+ RandomName1=福田
+ RandomName1=太田
+ RandomName1=三浦
+ RandomName1=藤原
+ RandomName1=岡本
+ RandomName1=松田
+ RandomName1=中川
+ RandomName1=中野
+ RandomName1=原田
+ RandomName1=小野
+ RandomName1=田村
+ RandomName1=竹內
+ RandomName1=金子
+ RandomName1=和田
+ RandomName1=中山
+ RandomName1=石田
+ RandomName1=上田
+ RandomName1=森田
+ RandomName1=小島
+ RandomName1=柴田
+ RandomName1=原
+ RandomName1=宮崎
+ RandomName1=酒井
+ RandomName1=工藤
+ RandomName1=橫山
+ RandomName1=宮本
+ RandomName1=內田
+ RandomName1=高木
+ RandomName1=安藤
+ RandomName1=島田
+ RandomName1=穀口
+ RandomName1=大野
+ RandomName1=高田
+ RandomName1=丸山
+ RandomName1=今井
+ RandomName1=河野
+ RandomName1=藤本
+ RandomName1=村田
+ RandomName1=武田
+ RandomName1=上野
+ RandomName1=杉山
+ RandomName1=増田
+ RandomName1=小山
+ RandomName1=大塚
+ RandomName1=平野
+ RandomName1=菅原
+ RandomName1=久保
+ RandomName1=松井
+ RandomName1=千葉
+ RandomName1=岩崎
+ RandomName1=櫻井
+ RandomName1=木下
+ RandomName1=野口
+ RandomName1=松尾
+ RandomName1=菊地
+ RandomName1=野村
+ RandomName1=新井
+ RandomName1=渡部
+ RandomNameClear=2
+ RandomName2=乃
+ RandomName2=山
+ RandomName2=巴
+ RandomName2=卯
+ RandomName2=玉
+ RandomName2=禾
+ RandomName2=凪
+ RandomName2=吉
+ RandomName2=圭
+ RandomName2=佑
+ RandomName2=妍
+ RandomName2=希
+ RandomName2=杏
+ RandomName2=玖
+ RandomName2=町
+ RandomName2=谷
+ RandomName2=京
+ RandomName2=侑
+ RandomName2=和
+ RandomName2=弦
+ RandomName2=林
+ RandomName2=空
+ RandomName2=芙
+ RandomName2=芭
+ RandomName2=芽
+ RandomName2=金
+ RandomName2=俐
+ RandomName2=昭
+ RandomName2=洛
+ RandomName2=玲
+ RandomName2=珈
+ RandomName2=紀
+ RandomName2=茉
+ RandomName2=修
+ RandomName2=姬
+ RandomName2=娩
+ RandomName2=桂
+ RandomName2=桑
+ RandomName2=桔
+ RandomName2=海
+ RandomName2=琉
+ RandomName2=茜
+ RandomName2=高
+ RandomName2=彗
+ RandomName2=梓
+ RandomName2=梧
+ RandomName2=淋
+ RandomName2=淳
+ RandomName2=渚
+ RandomName2=球
+ RandomName2=莉
+ RandomName2=莫
+ RandomName2=雫
+ RandomName2=喬
+ RandomName2=惠
+ RandomName2=森
+ RandomName2=湊
+ RandomName2=湘
+ RandomName2=琥
+ RandomName2=琳
+ RandomName2=菖
+ RandomName2=菩
+ RandomName2=萊
+ RandomName2=萌
+ RandomName2=陽
+ RandomName2=雲
+ RandomName2=楓
+ RandomName2=楠
+ RandomName2=瑞
+ RandomName2=萩
+ RandomName2=萱
+ RandomName2=葉
+ RandomName2=葡
+ RandomName2=路
+ RandomName2=靖
+ RandomName2=嘉
+ RandomName2=實
+ RandomName2=榛
+ RandomName2=瑤
+ RandomName2=碧
+ RandomName2=綠
+ RandomName2=綾
+ RandomName2=蒔
+ RandomName2=蓉
+ RandomName2=遙
+ RandomName2=颯
+ RandomName2=凜
+ RandomName2=慧
+ RandomName2=蓮
+ RandomName2=諄
+ RandomName2=橘
+ RandomName2=橙
+ RandomName2=鮎
+ RandomName2=檎
+ RandomName2=瞳
+ RandomName2=薰
+ RandomName2=麗
+ RandomNameClear=3
+ RandomName3=
+ RandomName3=子
+ RandomName3=美
+ RandomName3=雪
+ RandomName3=恵
+ RandomName3=香
+[/GRAND]
+[UNITCLASS]0
+ Name=粉絲團
+ AnimePath=unit-211
+ WS=12
+ BS=3
+ DEF=0
+ I=4
+ IconIndex=0
+ Huge=0
+ LevelWS=5
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=150
+ Melee=1
+ Range=0
+ UnitCost=5
+ LevelCost=3
+ UnitSkill=Defenser
+ UnitSkillLevel=1
+ UnitType=Irregular
+ Morale=3
+ Special=0
+ SPCost=1
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]1
+ Name=後援會
+ AnimePath=unit-212
+ WS=12
+ BS=3
+ DEF=0
+ I=4
+ IconIndex=0
+ Huge=0
+ LevelWS=5
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=150
+ Melee=1
+ Range=0
+ UnitCost=20
+ LevelCost=3
+ UnitSkill=Rest
+ UnitSkillLevel=1
+ UnitType=Irregular
+ Morale=3
+ Special=0
+ SPCost=1
+ Upgrade1=2
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]2
+ Name=親衛隊
+ AnimePath=unit-213
+ WS=12
+ BS=3
+ DEF=0
+ I=4
+ IconIndex=67
+ Huge=0
+ LevelWS=5
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=150
+ Melee=1
+ Range=0
+ UnitCost=30
+ LevelCost=3
+ UnitSkill=Mob
+ UnitSkillLevel=1
+ UnitType=Irregular
+ Morale=3
+ Special=0
+ SPCost=1
+ Upgrade1=3
+ Upgrade2=7
+ Upgrade3=11
+[/UNITCLASS]
+[UNITCLASS]3
+ Name=美樹沙耶香
+ AnimePath=unit-205
+ WS=16
+ BS=3
+ DEF=0
+ I=5
+ IconIndex=0
+ Huge=0
+ LevelWS=2
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=120
+ Melee=1
+ Range=0
+ UnitCost=50
+ LevelCost=3
+ UnitSkill=Defenser
+ UnitSkillLevel=1
+ UnitType=Infactry
+ Morale=3
+ Special=0
+ SPCost=2
+ Upgrade1=4
+ Upgrade2=5
+ Upgrade3=6
+[/UNITCLASS]
+[UNITCLASS]4
+ Name=佐倉杏子
+ AnimePath=unit-204
+ WS=16
+ BS=3
+ DEF=0
+ I=5
+ IconIndex=0
+ Huge=0
+ LevelWS=2
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=120
+ Melee=1
+ Range=0
+ UnitCost=100
+ LevelCost=3
+ UnitSkill=Attacker
+ UnitSkillLevel=1
+ UnitType=Infactry
+ Morale=3
+ Special=0
+ SPCost=2
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]5
+ Name=曉美焰
+ AnimePath=unit-207
+ WS=16
+ BS=3
+ DEF=0
+ I=5
+ IconIndex=0
+ Huge=0
+ LevelWS=2
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=120
+ Melee=1
+ Range=0
+ UnitCost=100
+ LevelCost=3
+ UnitSkill=Rifleman
+ UnitSkillLevel=1
+ UnitType=Infactry
+ Morale=3
+ Special=0
+ SPCost=2
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]6
+ Name=菲特
+ AnimePath=unit-202
+ WS=16
+ BS=3
+ DEF=0
+ I=5
+ IconIndex=0
+ Huge=0
+ LevelWS=2
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=120
+ Melee=1
+ Range=0
+ UnitCost=100
+ LevelCost=3
+ UnitSkill=Fist
+ UnitSkillLevel=1
+ UnitType=Infactry
+ Morale=3
+ Special=0
+ SPCost=2
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]7
+ Name=丘比
+ AnimePath=unit-209
+ WS=20
+ BS=3
+ DEF=0
+ I=8
+ IconIndex=0
+ Huge=0
+ LevelWS=2
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=100
+ Melee=3
+ Range=1
+ UnitCost=150
+ LevelCost=3
+ UnitSkill=Defenser
+ UnitSkillLevel=1
+ UnitType=Cavalry
+ Morale=3
+ Special=0
+ SPCost=3
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]8
+ Name=葛羅莉雅．鷹
+ AnimePath=big-unit-101
+ WS=20
+ BS=3
+ DEF=0
+ I=8
+ IconIndex=0
+ Huge=0
+ LevelWS=2
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=100
+ Melee=0
+ Range=0
+ UnitCost=200
+ LevelCost=3
+ UnitSkill=Attacker
+ UnitSkillLevel=1
+ UnitType=Cavalry
+ Morale=3
+ Special=0
+ SPCost=3
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]9
+ Name=裴綻英
+ AnimePath=big-unit-107
+ WS=20
+ BS=3
+ DEF=0
+ I=8
+ IconIndex=0
+ Huge=0
+ LevelWS=2
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=100
+ Melee=0
+ Range=0
+ UnitCost=200
+ LevelCost=3
+ UnitSkill=Knight
+ UnitSkillLevel=1
+ UnitType=Cavalry
+ Morale=3
+ Special=0
+ SPCost=3
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]10
+ Name=鈴世
+ AnimePath=big-unit-106
+ WS=20
+ BS=3
+ DEF=0
+ I=8
+ IconIndex=0
+ Huge=0
+ LevelWS=2
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=100
+ Melee=0
+ Range=0
+ UnitCost=200
+ LevelCost=3
+ UnitSkill=Chaos
+ UnitSkillLevel=1
+ UnitType=Cavalry
+ Morale=3
+ Special=0
+ SPCost=3
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]11
+ Name=巴麻美
+ AnimePath=unit-206
+ WS=11
+ BS=6
+ DEF=0
+ I=6
+ IconIndex=0
+ Huge=0
+ LevelWS=5
+ LevelBS=2
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=100
+ Melee=0
+ Range=2
+ UnitCost=150
+ LevelCost=3
+ UnitSkill=Defenser
+ UnitSkillLevel=1
+ UnitType=Artillery
+ Morale=3
+ Special=0
+ SPCost=3
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]12
+ Name=女神圓
+ AnimePath=unit-208
+ WS=11
+ BS=6
+ DEF=0
+ I=6
+ IconIndex=0
+ Huge=0
+ LevelWS=5
+ LevelBS=2
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=100
+ Melee=0
+ Range=2
+ UnitCost=200
+ LevelCost=3
+ UnitSkill=Healer
+ UnitSkillLevel=1
+ UnitType=Artillery
+ Morale=3
+ Special=0
+ SPCost=3
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]13
+ Name=奈葉
+ AnimePath=unit-201
+ WS=11
+ BS=6
+ DEF=0
+ I=6
+ IconIndex=0
+ Huge=0
+ LevelWS=5
+ LevelBS=2
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=100
+ Melee=0
+ Range=2
+ UnitCost=200
+ LevelCost=3
+ UnitSkill=Engineer
+ UnitSkillLevel=1
+ UnitType=Artillery
+ Morale=3
+ Special=0
+ SPCost=3
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]14
+ Name=八神疾風
+ AnimePath=unit-203
+ WS=11
+ BS=6
+ DEF=0
+ I=6
+ IconIndex=0
+ Huge=0
+ LevelWS=5
+ LevelBS=2
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=100
+ Melee=0
+ Range=2
+ UnitCost=200
+ LevelCost=3
+ UnitSkill=Shell
+ UnitSkillLevel=1
+ UnitType=Artillery
+ Morale=3
+ Special=0
+ SPCost=3
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]15
+ Name=可蘿嵐
+ AnimePath=big-unit-100
+ WS=20
+ BS=8
+ DEF=1
+ I=7
+ IconIndex=0
+ Huge=0
+ LevelWS=5
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=100
+ Melee=0
+ Range=2
+ UnitCost=300
+ LevelCost=3
+ UnitSkill=Defenser
+ UnitSkillLevel=1
+ UnitType=Armor
+ Morale=3
+ Special=0
+ SPCost=4
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]16
+ Name=朵拉
+ AnimePath=big-unit-102
+ WS=20
+ BS=8
+ DEF=1
+ I=7
+ IconIndex=0
+ Huge=0
+ LevelWS=5
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=100
+ Melee=0
+ Range=2
+ UnitCost=250
+ LevelCost=3
+ UnitSkill=Shell
+ UnitSkillLevel=1
+ UnitType=Armor
+ Morale=3
+ Special=0
+ SPCost=4
+ Upgrade1=19
+ Upgrade2=20
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]17
+ Name=依碧絲
+ AnimePath=big-unit-103
+ WS=20
+ BS=8
+ DEF=1
+ I=7
+ IconIndex=0
+ Huge=0
+ LevelWS=5
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=100
+ Melee=0
+ Range=2
+ UnitCost=300
+ LevelCost=3
+ UnitSkill=Shield
+ UnitSkillLevel=1
+ UnitType=Armor
+ Morale=3
+ Special=0
+ SPCost=4
+ Upgrade1=19
+ Upgrade2=20
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]18
+ Name=蜜朗琪
+ AnimePath=big-unit-108
+ WS=20
+ BS=8
+ DEF=1
+ I=7
+ IconIndex=0
+ Huge=0
+ LevelWS=5
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=100
+ Melee=0
+ Range=2
+ UnitCost=300
+ LevelCost=3
+ UnitSkill=I+1
+ UnitSkillLevel=1
+ UnitType=Armor
+ Morale=3
+ Special=0
+ SPCost=4
+ Upgrade1=19
+ Upgrade2=20
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]19
+ Name=伍緹絲
+ AnimePath=big-unit-104
+ WS=20
+ BS=8
+ DEF=1
+ I=7
+ IconIndex=0
+ Huge=0
+ LevelWS=5
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=100
+ Melee=0
+ Range=2
+ UnitCost=300
+ LevelCost=3
+ UnitSkill=-5% damage
+ UnitSkillLevel=1
+ UnitType=Armor
+ Morale=3
+ Special=0
+ SPCost=4
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[UNITCLASS]20
+ Name=三菱時子
+ AnimePath=big-unit-105
+ WS=20
+ BS=8
+ DEF=1
+ I=7
+ IconIndex=0
+ Huge=0
+ LevelWS=5
+ LevelBS=5
+ LevelI=5
+ LevelHP=10
+ LevelSP=5
+ HP=100
+ Melee=0
+ Range=2
+ UnitCost=300
+ LevelCost=3
+ UnitSkill=Machine
+ UnitSkillLevel=1
+ UnitType=Armor
+ Morale=3
+ Special=0
+ SPCost=4
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
+[/UNITCLASS]
+[BASICEVENT]103
+ Title=利多政策
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]104
+ Title=徵收
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]105
+ Title=召喚
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]106
+ Title=推銷
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]107
+ Title=校園巡邏
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]109
+ Title=宣戰
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]110
+ Title=祈禱
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]111
+ Title=奉獻
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]120
+ Title=學生會議
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]121
+ Title=學生政策進展
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]122
+ Title=完成學生改革
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]130
+ Title=學生運動
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]140
+ Title=外國援助
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]141
+ Title=列強援助
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]149
+ Title=後宮成員
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]150
+ Title=收編勢力
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]151
+ Title=培養感情
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]152
+ Title=和平談判
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]153
+ Title=結盟
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]159
+ Title=譴責
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]202
+ Title=遷移未來道具研究所
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]210
+ Title=建置未來道具研究所
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]433
+ Title=萌娘爭奪戰
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]489
+ Title=轉進
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]498
+ Title=壓制
+ Picture=0
+[/BASICEVENT]
+[BASICEVENT]499
+ Title=佔領
+ Picture=0
+[/BASICEVENT]
+[TERRAIN]0
+ Name=平原
+ ID=Plain
+ Picture=-1
+ MaxSP=7
+ Police=75
+ Delay=2
+ DR0=-5
+ DR1=-5
+ DR2=10
+ DR3=-5
+ DR4=20
+ DI0=0
+ DI1=0
+ DI2=0
+ DI3=0
+ DI4=0
+[/TERRAIN]
+[TERRAIN]1
+ Name=山丘
+ ID=Hill
+ Picture=-1
+ MaxSP=6
+ Police=100
+ Delay=4
+ DR0=-10
+ DR1=-15
+ DR2=-25
+ DR3=-20
+ DR4=-30
+ DI0=0
+ DI1=0
+ DI2=0
+ DI3=0
+ DI4=0
+[/TERRAIN]
+[TERRAIN]2
+ Name=崗哨
+ ID=Wild forest
+ Picture=-1
+ MaxSP=3
+ Police=100
+ Delay=8
+ DR0=-20
+ DR1=-25
+ DR2=-40
+ DR3=-30
+ DR4=-35
+ DI0=0
+ DI1=0
+ DI2=0
+ DI3=0
+ DI4=0
+[/TERRAIN]
+[TERRAIN]3
+ Name=高原
+ ID=Highland
+ Picture=-1
+ MaxSP=5
+ Police=100
+ Delay=8
+ DR0=-15
+ DR1=-25
+ DR2=-5
+ DR3=-30
+ DR4=-10
+ DI0=0
+ DI1=0
+ DI2=0
+ DI3=0
+ DI4=0
+[/TERRAIN]
+[TERRAIN]4
+ Name=沼澤
+ ID=Watertown
+ Picture=-1
+ MaxSP=6
+ Police=100
+ Delay=8
+ DR0=-5
+ DR1=-15
+ DR2=-30
+ DR3=-20
+ DR4=-25
+ DI0=0
+ DI1=0
+ DI2=0
+ DI3=0
+ DI4=0
+[/TERRAIN]
+[TERRAIN]5
+ Name=沙漠
+ ID=Desert
+ Picture=-1
+ MaxSP=4
+ Police=100
+ Delay=8
+ DR0=-15
+ DR1=-20
+ DR2=-5
+ DR3=-25
+ DR4=-10
+ DI0=0
+ DI1=0
+ DI2=0
+ DI3=0
+ DI4=0
+[/TERRAIN]
+[TERRAIN]6
+ Name=城市
+ ID=Urban
+ Picture=-1
+ MaxSP=10
+ Police=50
+ Delay=2
+ DR0=10
+ DR1=-15
+ DR2=-30
+ DR3=-25
+ DR4=-35
+ DI0=0
+ DI1=0
+ DI2=0
+ DI3=0
+ DI4=0
+[/TERRAIN]
+[TERRAIN]7
+ Name=世界
+ ID=World
+ Picture=-1
+ MaxSP=10
+ Police=25
+ Delay=10
+ DR0=-40
+ DR1=-10
+ DR2=0
+ DR3=10
+ DR4=20
+ DI0=0
+ DI1=0
+ DI2=0
+ DI3=0
+ DI4=0
+[/TERRAIN]
+[TERRAIN]8
+ Name=異次元
+ ID=Cube
+ Picture=-1
+ MaxSP=10
+ Police=75
+ Delay=15
+ DR0=10
+ DR1=-20
+ DR2=-30
+ DR3=0
+ DR4=-10
+ DI0=0
+ DI1=0
+ DI2=0
+ DI3=0
+ DI4=0
+[/TERRAIN]
+[TERRAIN]9
+ Name=東南亞城市
+ ID=Terrain09
+ Picture=-1
+ MaxSP=10
+ Police=100
+ Delay=3
+ DR0=0
+ DR1=0
+ DR2=0
+ DR3=0
+ DR4=0
+ DI0=0
+ DI1=0
+ DI2=0
+ DI3=0
+ DI4=0
+[/TERRAIN]
+[IMPROVEMENT]0
+ ID=Police
+ Caption=治安部
+ Description0=維持學校秩序不可或缺的機構
+ Description1=於暴動時將協助鎮壓以減低暴動影響
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=25
+ Icon=0
+ Unique=0
+ Value0=10
+ Value1=50
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]1
+ ID=Court
+ Caption=學生自治會
+ Description0=將提高秩序並減緩秩序下降速度且降低工口值
+ Description1=降低暴動影響並於經濟戰時增加對方成本
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=100
+ Icon=1
+ Unique=1
+ Value0=20
+ Value1=2
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]2
+ ID=InfSchool
+ Caption=學生寮
+ Description0=可召喚步兵
+ Description1=持續回步兵與民兵且提升其戰力
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=100
+ Icon=2
+ Unique=1
+ Value0=1
+ Value1=20
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]3
+ ID=CavSchool
+ Caption=騎馬部
+ Description0=可召喚騎兵，馬匹據點可祈禱
+ Description1=持續回騎兵且提升其戰力
+ UpgradeFrom=7
+ Resource=2
+ Basic_Cost=200
+ Icon=3
+ Unique=1
+ Value0=1
+ Value1=10
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]4
+ ID=ArtSchool
+ Caption=弓箭部
+ Description0=可召喚遠攻兵種，都市據點可祈禱
+ Description1=持續回復遠攻兵種且提升其戰力
+ UpgradeFrom=6
+ Resource=-1
+ Basic_Cost=400
+ Icon=4
+ Unique=1
+ Value0=2
+ Value1=25
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]5
+ ID=ArmSchool
+ Caption=特別派遣嚮導技術部
+ Description0=可召喚機動兵器，都市據點具有高研院後可祈禱
+ Description1=持續回復機動兵器且提升其戰力
+ UpgradeFrom=8
+ Resource=5
+ Basic_Cost=800
+ Icon=5
+ Unique=1
+ Value0=1
+ Value1=1
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]6
+ ID=Industry1
+ Caption=初級研究院
+ Description0=可升級為弓箭部
+ Description1=提升技術力並且持續回復騎兵以外兵科
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=50
+ Icon=6
+ Unique=0
+ Value0=1
+ Value1=0
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]7
+ ID=Industry2
+ Caption=中級研究院
+ Description0=於馬匹產地可升級為騎馬部
+ Description1=提升技術力並且持續回復騎兵以外兵科
+ UpgradeFrom=6
+ Resource=-1
+ Basic_Cost=100
+ Icon=7
+ Unique=0
+ Value0=2
+ Value1=0
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]8
+ ID=Industry3
+ Caption=高級研究院
+ Description0=於都市可升級為特別派遣嚮導技術部
+ Description1=提升技術力並且持續回復騎兵以外兵科
+ UpgradeFrom=7
+ Resource=-1
+ Basic_Cost=200
+ Icon=8
+ Unique=0
+ Value0=3
+ Value1=0
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]9
+ ID=Defense
+ Caption=學園圍牆
+ Description0=學園圍牆可抵擋外來侵略
+ Description1=防守失敗後學園圍牆將會消失
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=50
+ Icon=9
+ Unique=1
+ Value0=0
+ Value1=0
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]10
+ ID=Newspaper
+ Caption=輕音社
+ Description0=提高影響力、煽動與反煽動能力
+ Description1=提升全國秩序並持續恢復民兵
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=25
+ Icon=10
+ Unique=0
+ Value0=1
+ Value1=0
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]11
+ ID=Broadcast
+ Caption=新聞部
+ Description0=進一步提高影響力、煽動與反煽動能力
+ Description1=提升全國秩序並持續恢復民兵
+ UpgradeFrom=10
+ Resource=-1
+ Basic_Cost=200
+ Icon=11
+ Unique=1
+ Value0=4
+ Value1=0
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]12
+ ID=Mine
+ Caption=礦山旅遊商圈
+ Description0=提高版稅、銷售量與技術力
+ Description1=礦產據點可祈禱
+ UpgradeFrom=-1
+ Resource=3
+ Basic_Cost=25
+ Icon=12
+ Unique=0
+ Value0=2
+ Value1=3
+ Value2=1
+[/IMPROVEMENT]
+[IMPROVEMENT]13
+ ID=Field
+ Caption=食品研究部
+ Description0=提高版稅金與銷售量
+ Description1=學生運動將再提高版稅金、銷售量與影響力
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=0
+ Icon=13
+ Unique=0
+ Value0=0
+ Value1=8
+ Value2=-1
+[/IMPROVEMENT]
+[IMPROVEMENT]14
+ ID=Government
+ Caption=招生部
+ Description0=增加決策力並可招募後宮
+ Description1=降低改革力於非德膜克拉西政體
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=150
+ Icon=14
+ Unique=1
+ Value0=1
+ Value1=-1
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]15
+ ID=University
+ Caption=文學部
+ Description0=增加改革力並降低工口值
+ Description1=增加文化值當改革高於腐敗時
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=150
+ Icon=15
+ Unique=1
+ Value0=3
+ Value1=1
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]16
+ ID=Road
+ Caption=傳送點
+ Description0=增加據點與附近的投資效果
+ Description1=增加開發效果並減半據點運輸回合
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=40
+ Icon=16
+ Unique=1
+ Value0=1
+ Value1=0
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]17
+ ID=Custom
+ Caption=跳蚤市場
+ Description0=大幅提高版稅金
+ Description1=據點因此將無法投資
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=10
+ Icon=17
+ Unique=1
+ Value0=0
+ Value1=10
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]18
+ ID=Dojo
+ Caption=武館
+ Description0=
+ Description1=
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=-1
+ Icon=0
+ Unique=0
+ Value0=0
+ Value1=0
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]19
+ ID=Academy
+ Caption=學堂
+ Description0=
+ Description1=
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=-1
+ Icon=0
+ Unique=0
+ Value0=0
+ Value1=0
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]20
+ ID=Library
+ Caption=圖書館
+ Description0=
+ Description1=
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=-1
+ Icon=0
+ Unique=0
+ Value0=0
+ Value1=0
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]21
+ ID=MilitaryAcademy
+ Caption=軍校
+ Description0=
+ Description1=
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=-1
+ Icon=0
+ Unique=0
+ Value0=0
+ Value1=0
+ Value2=0
+[/IMPROVEMENT]
+[IMPROVEMENT]22
+ ID=Mafia
+ Caption=幫會
+ Description0=
+ Description1=
+ UpgradeFrom=-1
+ Resource=-1
+ Basic_Cost=-1
+ Icon=0
+ Unique=0
+ Value0=0
+ Value1=0
+ Value2=0
+[/IMPROVEMENT]
+[POLITICAL]0
+ ID=Xenophobic
+ Name=時空管理局
+ PoliticalType=0
+ HQSlot=6
+ Slot=1
+ Cost=15
+ Description0=管理與維護眾多次元世界的司法機關
+ Description1=建築格: 1(主城: 6) 　主城治安上限 +20。
+ Description2=主城每個設施 +1政治，+4%治安，主城不產生腐敗度。
+ Description3=和週邊勢力保持和平，將領在故鄉作戰不會有減成。
+ Feat=HQBuildingPP +1
+ Feat=HQPolice +20
+ Feat=HQBuildingPolice +4
+ Feat=Isolationism +2
+ Feat=HomeImmuneNeg =1
+[/POLITICAL]
+[POLITICAL]1
+ ID=Warlord
+ Name=妖精尾巴
+ PoliticalType=0
+ HQSlot=4
+ Slot=3
+ Cost=100
+ Description0=一個眾多厲害魔導士雲集的魔導士公會
+ Description1=建築格: 3(主城: 4) 最低行動力為 4點。
+ Description2=每擁有四個部隊 +1 PP，每點PP會提升全國治安1/2。
+ Description3=與鄰近的國家關系會漸漸惡化。
+ Feat=China =1
+ Feat=MinAP =4
+ Feat=PPPerUnit =4
+ Feat=PPPolice =200
+ Feat=BorderConflict +1
+[/POLITICAL]
+[POLITICAL]2
+ ID=Empire
+ Name=天道宮
+ PoliticalType=0
+ HQSlot=5
+ Slot=3
+ Cost=150
+ Description0=「天壤劫火」亞拉斯特爾在現世的居所(中國勢力)
+ Description1=建築格: 3(主城: 5) 每擁有四個部隊 +1 政治
+ Description2=每點PP會提升全國治安1點，行動力不會低於 5
+ Description3=跟所有勢力關系會漸漸惡化，不會屈服於收編。
+ Feat=China =1
+ Feat=PPPerUnit =4
+ Feat=PPPolice =100
+ Feat=MinAP =5
+ Feat=Charm -2
+ Feat=BorderConflict +1
+ Feat=NoSue =1
+[/POLITICAL]
+[POLITICAL]3
+ ID=Democracy
+ Name=星黎殿
+ PoliticalType=0
+ HQSlot=5
+ Slot=3
+ Cost=300
+ Description0=「髓之樓閣」葛維達所製作「化裝舞會」的總部。(中國勢力)
+ Description1=主城：5，據點：3　
+ Description2=每個據點+1腐敗，每個同盟與附庸+2 政治。
+ Description3=政治力會提升全國治安1點，無法被收編。
+ Feat=China =1
+ Feat=PPPolice =100
+ Feat=AllyPP +2
+ Feat=ForeignPP +2
+ Feat=Charm +4
+ Feat=DipTry -1
+ Feat=NoSue =1
+[/POLITICAL]
+[POLITICAL]4
+ ID=Foreigner
+ Name=死後戰線
+ PoliticalType=0
+ HQSlot=2
+ Slot=2
+ Cost=400
+ Description0=死後世界戰線已經逝世不會再死去(無法被收編)
+ Description1=全據點建物二格，無據點也不會滅亡，可在他勢力據點徵兵。
+ Description2=每個據點 +1 腐敗，全部隊維護費 -1，腐敗度對軍隊的影響力減半。
+ Description3=最多擁有六個部隊，每個據點資源可 +1 政治力。
+ Feat=Foreign =1
+ Feat=SuePPCost *200
+ Feat=SPCost -1
+ Feat=NoDead =1
+ Feat=Charm -1
+ Feat=ResourcePP =1
+ Feat=NoSue =1
+[/POLITICAL]
+[POLITICAL]5
+ ID=Guerrlia
+ Name=黑色騎士團
+ PoliticalType=0
+ HQSlot=2
+ Slot=2
+ Cost=15
+ Description0=反抗不列顛尼亞的勢力之一，由Zero所率領
+ Description1=所有據點只可設兩個建築，腐敗對軍隊戰鬥力的影響減半。
+ Description2=民兵維護人力 -1 ，非民兵維護費+1。
+ Description3=據點全滅亦不會戰敗。
+ Feat=MoveHQCost =1
+ Feat=FreeMove =1
+ Feat=IrregularSPCost -1
+ Feat=NoDead =1
+ Feat=Charm -1
+ Feat=CorruptionMul *50
+[/POLITICAL]
+[POLITICAL]6
+ ID=Traditional
+ Name=萬事屋
+ PoliticalType=1
+ HQSlot=0
+ Slot=0
+ Cost=30
+ Description0=付錢委託便什麼事都可接的自由業小團隊
+ Description1=每個空白建格 +2 收入 +2 貿易 +2 傳媒。
+ Description2=對引發暴動免疫，開發行動力 -1
+ Description3=[每個首都以外的建築都會增加 1% 腐敗度]
+ Feat=RiotEffect *100
+ Feat=SPTry -1
+ Feat=EmptySP +2
+ Feat=EmptyTP +2
+ Feat=EmptyMedia +1
+ Feat=NonHQBuildingCorruption+1
+[/POLITICAL]
+[POLITICAL]7
+ ID=FreeMarket
+ Name=賢狼赫蘿
+ PoliticalType=1
+ HQSlot=0
+ Slot=0
+ Cost=45
+ Description0=旅行於各地收購並販賣物品的旅行商人
+ Description1=武將提升忠誠度x2，大學和法院額外再 -1 腐敗。每個部隊 -1 治安
+ Description2=「惡性傾銷」成本減半，投資時額外 +1 貿易量。
+ Description3=據點治安值100 以上時會自動投資一次，每40點貿易+1政治。
+ Feat=DoubleLoyality =1
+ Feat=AntiCorruption +1
+ Feat=InvTP +1
+ Feat=AutoInv =100
+ Feat=SalesCost *50
+ Feat=TPPP =40
+ Feat=UnitPolice -1
+[/POLITICAL]
+[POLITICAL]8
+ ID=Planned
+ Name=真選組
+ PoliticalType=1
+ HQSlot=0
+ Slot=1
+ Cost=60
+ Description0=維護江戶治安的武裝警察，主要工作為逮捕攘夷志士
+ Description1=全人物野望+50，作戰經驗+1.5。政府機構不減改革。
+ Description2=建物造價降25%全據點多一格建物，每個設施 +2 收入 +1 糧草。
+ Description3=警局治安+5，每個憲兵+1全據點治安。
+ Feat=MaxLoyality +50
+ Feat=Veteran =1
+ Feat=GovNeg =1
+ Feat=BuildingTP +2
+ Feat=BuildingSP +1
+ Feat=PoliceStation +5
+ Feat=PolicePlus +1
+ Feat=BuildingCost *75
+ Feat=ExtraSlot +1
+[/POLITICAL]
+[POLITICAL]9
+ ID=WarTime
+ Name=魔女狩獵
+ PoliticalType=1
+ HQSlot=0
+ Slot=0
+ Cost=75
+ Description0=打敗魔女取得悲嘆之種來恢復魔法少女的魔力
+ Description1=進攻行動-1，民兵戰鬥勝利後士氣全恢復，在故鄉作戰有加成。
+ Description2=每個據點 +1 腐敗值，防禦戰時，當治安大於 20% 時有戰力加成。
+ Description3=與週邊勢力關係傾向惡化，無法被收編。
+ Feat=PoliceDefense =20
+ Feat=Localism +15
+ Feat=WarTry -1
+ Feat=Zealot =1
+ Feat=BorderConflict +1
+ Feat=NoSue =1
+ Feat=CityCor +1
+[/POLITICAL]
+[POLITICAL]10
+ ID=Nationalism
+ Name=獨行玩家
+ PoliticalType=2
+ HQSlot=0
+ Slot=0
+ Cost=30
+ Description0=
+ Description1=進攻行動-1，民兵戰鬥勝利後士氣全恢復，在故鄉作戰有加成。
+ Description2=每個據點 +1 腐敗值，防禦戰時，當治安大於 20% 時有戰力加成。
+ Description3=與週邊勢力關係傾向惡化，無法被收編。
+ Feat=PoliceDefense =20
+ Feat=Localism +15
+ Feat=WarTry -1
+ Feat=Zealot =1
+ Feat=BorderConflict +1
+ Feat=NoSue =1
+ Feat=CityCor +1
+[/POLITICAL]
+[POLITICAL]11
+ ID=Socialism
+ Name=懷抱絕望
+ PoliticalType=2
+ HQSlot=0
+ Slot=0
+ Cost=45
+ Description0=抱著「懷抱希望本身絕對會是個錯誤」的想法下
+ Description1=治安100% 以上的據點 +1 政治，政府機構+2傳媒
+ Description2=可免行動力進攻與練兵一次，腐敗值對軍隊影響半減。
+ Description3=與其他國家關系惡化。3
+ Feat=PolicePP =100
+ Feat=GovMedia +2
+ Feat=WarTry -1
+ Feat=TrainTry -1
+ Feat=CorruptionMul *50
+ Feat=Charm -1
+[/POLITICAL]
+[POLITICAL]12
+ ID=Capitalism
+ Name=懷抱希望
+ PoliticalType=2
+ HQSlot=0
+ Slot=0
+ Cost=45
+ Description0=抱著「懷抱希望本身絕不會是個錯誤」的想法
+ Description1=不能友好度0以上的勢力宣戰，攻擊時敵方治安少於70%以下有戰力加成。
+ Description2=佔領敵據點不傷治安，治安100%以上的據點每回合自動投資一次
+ Description3=與所有勢力友好，與懷抱絕望對立。
+ Feat=NoFriendWar =1
+ Feat=RiotAttack =70
+ Feat=MediaPlus +1
+ Feat=RiotEffect *100
+ Feat=AutoInv =100
+ Feat=Preacher +2
+[/POLITICAL]
+[POLITICAL]13
+ ID=Religion
+ Name=後宮
+ PoliticalType=2
+ HQSlot=0
+ Slot=0
+ Cost=30
+ Description0=抱著發展出自己後宮群的想法
+ Description1=每個同盟 +1 政治力，外交行動-1，每個據點 +1 腐敗值。
+ Description2=將領在故鄉戰鬥力時有戰力加成，攻擊時敵方治安少於70%以下有戰力加成。
+ Description3=對同尊王國友好，與其他主義敵對。
+ Feat=AllyPP +1
+ Feat=DipTry -1
+ Feat=RiotAttack =70
+ Feat=Preacher +2
+ Feat=Localism +15
+ Feat=CityCor +1
+[/POLITICAL]
+[POLITICAL]14
+ ID=Defensive
+ Name=C病毒
+ PoliticalType=3
+ HQSlot=0
+ Slot=0
+ Cost=20
+ Description0=一種可以誘發突變令人死而復生變成活死人的病毒
+ Description1=防守戰戰敗後, 參戰的部隊會回復 50% 兵力和 +1 士氣
+ Description2=部隊在故鄉作戰有戰力加成，只包括民兵/步兵/騎兵部隊
+ Description3=會自動回復出擊部隊 士氣和50% 兵力, 機械和砲兵類除外
+ Feat=LoseRecoverMorale +1
+ Feat=LoseRecoverHP *50
+[/POLITICAL]
+[POLITICAL]15
+ ID=Banzai
+ Name=靈魂寶石
+ PoliticalType=3
+ HQSlot=0
+ Slot=0
+ Cost=50
+ Description0=靈魂寶石完好且魔力充足，不管肉體受到多大的傷害
+ Description1=都能修復，甚至能完全遮蔽痛覺進行戰鬥。
+ Description2=進攻時, 民兵或步兵部隊在被擊潰後, 只要有足夠銀兩和糧草就會復活
+ Description3=復活部隊會縮編或失去一個等級, 但最低降至零
+ Feat=Revive =1
+[/POLITICAL]
+[POLITICAL]16
+ ID=FireWave
+ Name=星煌系統
+ PoliticalType=3
+ HQSlot=0
+ Slot=0
+ Cost=100
+ Description0=使用高度集束和魔力彈裝填系統進行無視魔力的超負荷
+ Description1=部隊射擊時有機會減低對方的士氣值, 每點 BS 10%
+ Description2=當部隊使用最後一點士氣進行射擊時, 不會消耗最後一點士氣
+ Description3=每次射擊都要消耗相當於「射擊值」的資金
+ Feat=FireSuppress =1
+ Feat=FireSuppressCost +2
+[/POLITICAL]
+[POLITICAL]17
+ ID=NavalPower
+ Name=水星領航員
+ PoliticalType=3
+ HQSlot=0
+ Slot=0
+ Cost=200
+ Description0=可進攻任何港口, 在港口作戰時有特殊加分
+ Description1=需要維持費, 根據所擁有/友好/同盟的港口和石油數量計算
+ Description2=同盟的港口及石油可增加登陸戰時的戰鬥力, 最高 +90%
+ Description3=使用登陸功能時, 要優先攻擊對方海權值最高的港口
+ Feat=NavyEnabled =1
+[/POLITICAL]
+[POLITICAL]18
+ ID=Domination
+ Name=二刀流
+ PoliticalType=3
+ HQSlot=0
+ Slot=0
+ Cost=200
+ Description0=具有連續攻擊的能力的作戰方式
+ Description1=進攻時使用的行動力 +1
+ Description2=部隊進攻後可以再進攻
+ Description3=不論等級, 整補都會降級
+ Feat=WarTry +1
+ Feat=Blitz =1
+ Feat=SupplyDegrade =1
+[/POLITICAL]
+[POLITICAL]19
+ ID=Fedralism
+ Name=完全攻略
+ PoliticalType=4
+ HQSlot=0
+ Slot=0
+ Cost=100
+ Description0=勝利條件: 佔領全地圖
+ Description1=成功研發後免除宣戰的任何不良影響
+ Description2=研發統一天下後可以免除一切宣戰限制
+ Description3=與所有勢力的關係急速惡化
+ Feat=Warmaster =1
+ Feat=Charm -5
+ Feat=Overlord =1
+[/POLITICAL]
+[POLITICAL]20
+ ID=China
+ Name=堅持公理
+ PoliticalType=4
+ HQSlot=0
+ Slot=0
+ Cost=200
+ Description0=堅持公理的白色騎士朱雀所掀起的巨大變化
+ Description1=『希望從內部把它變成一個有價值的國家』
+ Description2=勝利條件：政值佔諸侯國政治值總數達 50% 或以上。
+ Description3=每結交一個同盟能得到 +1 政治力
+ Feat=AllyPP +1
+[/POLITICAL]
+[POLITICAL]21
+ ID=Monopoly
+ Name=粉碎帝國
+ PoliticalType=4
+ HQSlot=0
+ Slot=0
+ Cost=50
+ Description0=立志粉碎帝國的黑色王子魯路修
+ Description1=每收編一個軍閥勢力能得到 +2 政治力
+ Description2=每收編一個地方勢力能得到 +2 政治力
+ Description3=與週邊勢力關係惡化
+ Feat=MasterPP +2
+ Feat=BorderConflict +1
+[/POLITICAL]
+[POLITICAL]22
+ ID=Independance
+ Name=狼與辛香料
+ PoliticalType=4
+ HQSlot=0
+ Slot=0
+ Cost=200
+ Description0=想盡辦法成為真正的司掌豐收的狼神赫蘿
+ Description1=勝利條件: 擁有全地圖 TP 值的 50%
+ Description2=惡性傾銷的成本減半
+ Description3=貿易值對治安的影響減半。
+ Feat=SalesCost *50
+[/POLITICAL]
+[POLITICAL]23
+ ID=Blitz
+ Name=文學少女
+ PoliticalType=4
+ HQSlot=0
+ Slot=0
+ Cost=300
+ Description0=想盡辦法成為真正的文學少女吧
+ Description1=並建立起自身的文化認同感。
+ Description2=主城每個建築物能產生 +1 政治力 +1 改革力
+ Description3=勝利條件: 政體為「部落」或「周王朝」，文化值達 1000 點
+ Feat=HQBuildingPP +1
+ Feat=HQBuildingReform +1
+[/POLITICAL]
+[EQUIPMENT]0
+ Tag=WarBanner
+ Name=誓約勝利之劍
+ Cost=500
+ Upkeep=0
+ Description=亞瑟王的神劍(強化步兵戰力與士氣)
+ Skill0=Morale+1
+ SkillLv0=1
+ Skill1=Rifleman
+ SkillLv1=1
+[/EQUIPMENT]
+[EQUIPMENT]1
+ Tag=MeleeWeapon
+ Name=蜓蛉切
+ Cost=500
+ Upkeep=0
+ Description=神格武裝(強化騎兵戰力與衝鋒)
+ Skill0=WS+1
+ SkillLv0=1
+ Skill1=Knight
+ SkillLv1=1
+[/EQUIPMENT]
+[EQUIPMENT]2
+ Tag=MachineGun
+ Name=旭日之心
+ Cost=500
+ Upkeep=0
+ Description=星煌系統(強化炮兵戰力與火力)
+ Skill0=BS+1
+ SkillLv0=1
+ Skill1=Engineer
+ SkillLv1=1
+[/EQUIPMENT]
+[EQUIPMENT]3
+ Tag=SupplyTrunk
+ Name=世界樹
+ Cost=500
+ Upkeep=0
+ Description=櫻石動力裝置(強化機甲戰力與速度)
+ Skill0=I+1
+ SkillLv0=1
+ Skill1=Machine
+ SkillLv1=1
+[/EQUIPMENT]
+[EQUIPMENT]4
+ Tag=Nurse
+ Name=魔力彈填裝系統
+ Cost=500
+ Upkeep=1
+ Description=貝爾卡式魔力彈填裝系統(強化衝鋒與火力)
+ Skill0=BS+1
+ SkillLv0=1
+ Skill1=WS+1
+ SkillLv1=1
+[/EQUIPMENT]
+[EQUIPMENT]5
+ Tag=Scout
+ Name=靈魂寶石
+ Cost=500
+ Upkeep=0
+ Description=身為魔法少女的證據(強化士氣與速度)
+ Skill0=Morale+1
+ SkillLv0=1
+ Skill1=I+1
+ SkillLv1=1
+[/EQUIPMENT]
+[EQUIPMENT]6
+ Tag=Sapper
+ Name=零時迷子
+ Cost=500
+ Upkeep=0
+ Description=回復存在之力的寶具(待機回復兵力與士氣)
+ Skill0=Healer
+ SkillLv0=5
+ Skill1=Rest
+ SkillLv1=1
+[/EQUIPMENT]
+[EQUIPMENT]7
+ Tag=Police
+ Name=能源光盾
+ Cost=500
+ Upkeep=1
+ Description=輻射波動(強化防禦並以士氣抵擋非裝甲傷害)
+ Skill0=-5% damage
+ SkillLv0=1
+ Skill1=Shield
+ SkillLv1=1
+[/EQUIPMENT]
+[EQUIPMENT]8
+ Tag=FlameThrower
+ Name=電話微波爐
+ Cost=200
+ Upkeep=1
+ Description=時間跳躍機(改善攻防戰鬥回和數)
+ Skill0=Attacker
+ SkillLv0=1
+ Skill1=Defenser
+ SkillLv1=1
+[/EQUIPMENT]
+[EQUIPMENT]9
+ Tag=EQUIPMENT09
+ Name=山林地圖
+ Cost=100
+ Upkeep=0
+ Description=手握地圖已在山中叢林得以更加有利
+ Skill0=HillExpert
+ SkillLv0=1
+ Skill1=JungleExpert
+ SkillLv1=1
+[/EQUIPMENT]
+[EQUIPMENT]10
+ Tag=EQUIPMENT10
+ Name=求生指南
+ Cost=100
+ Upkeep=0
+ Description=一本足以克服極地環境的求生指南
+ Skill0=TundraExpert
+ SkillLv0=1
+ Skill1=DesertExpert
+ SkillLv1=1
+[/EQUIPMENT]
+[UNITTYPE]0
+ Name=非正規部隊
+ ID=Irregular
+ Short=民
+ Feat=SupplyExtraMorale = 1
+[/UNITTYPE]
+[UNITTYPE]1
+ Name=步兵類
+ ID=Infactry
+ Short=步
+ Feat=SupplyHalfMorale = 1
+ Feat=Escorting = 1
+[/UNITTYPE]
+[UNITTYPE]2
+ Name=騎兵類
+ ID=Cavalry
+ Short=騎
+ Feat=FinalPower = 1
+[/UNITTYPE]
+[UNITTYPE]3
+ Name=砲兵類
+ ID=Artillery
+ Short=砲
+ Feat=SuppressShoot = 1
+[/UNITTYPE]
+[UNITTYPE]4
+ Name=機械類
+ ID=Armor
+ Short=裝
+ Feat=CoverAssault = 1
+ Feat=DefenseBreak = 1
+[/UNITTYPE]
+[UNITTYPE]5
+ Name=鬼神類
+ ID=Supernatural
+ Short=鬼
+[/UNITTYPE]
+[UNITTYPE]6
+ Name=不死類
+ ID=Undead
+ Short=靈
+[/UNITTYPE]
+[POWER]0
+ Name=田村由香里
+ Description=田村由香里
+[/POWER]
+[POWER]1
+ Name=悠木碧
+ Description=悠木碧
+[/POWER]
+[POWER]2
+ Name=茅原實里
+ Description=茅原實里
+[/POWER]
+[POWER]3
+ Name=堀江由衣
+ Description=堀江由衣
+[/POWER]
+[POWER]4
+ Name=植田佳奈
+ Description=植田佳奈
+[/POWER]
+[POWER]5
+ Name=中原麻衣
+ Description=中原麻衣
+[/POWER]
+[POWER]6
+ Name=釘宮理恵
+ Description=釘宮理恵
+[/POWER]
+[POWER]7
+ Name=清水愛
+ Description=清水愛
+[/POWER]
+[POWER]8
+ Name=水樹奈奈
+ Description=水樹奈奈
+[/POWER]
+[POWER]9
+ Name=淺野真澄
+ Description=淺野真澄
+[/POWER]
+[POWER]10
+ Name=能登麻美子
+ Description=能登麻美子
+[/POWER]
+[POWER]11
+ Name=千葉紗子
+ Description=千葉紗子
+[/POWER]
+[POWER]12
+ Name=平野綾
+ Description=平野綾
+[/POWER]
+[POWER]13
+ Name=高橋直純
+ Description=高橋直純
+[/POWER]
+[POWER]14
+ Name=野中藍
+ Description=野中藍
+[/POWER]
+[POWER]15
+ Name=石田彰
+ Description=石田彰
+[/POWER]
+[POWER]16
+ Name=宮田幸季
+ Description=宮田幸季
+[/POWER]
+[POWER]17
+ Name=保志總一朗
+ Description=保志總一朗
+[/POWER]
+[POWER]18
+ Name=南里侑香
+ Description=南里侑香
+[/POWER]
+[POWER]19
+ Name=澤城美雪
+ Description=澤城美雪
+[/POWER]
+[POWER]20
+ Name=田中理恵
+ Description=田中理恵
+[/POWER]
+[POWER]21
+ Name=小清水亞美
+ Description=小清水亞美
+[/POWER]
+[POWER]22
+ Name=後藤邑子
+ Description=後藤邑子
+[/POWER]
+[POWER]23
+ Name=少女兵器
+ Description=少女兵器
+[/POWER]
+[POWER]24
+ Name=野上尤加奈
+ Description=野上尤加奈
+[/POWER]
+[POWER]25
+ Name=川澄綾子
+ Description=川澄綾子
+[/POWER]
+[POWER]26
+ Name=東方
+ Description=東方Project
+[/POWER]
+[CITY_RESOURCE]0
+ DisplayName=港口
+ Description=港口：投資效果 +1，資源值 +1
+[/CITY_RESOURCE]
+[CITY_RESOURCE]1
+ DisplayName=外商
+ Description=外商：暴動效果減半，補給 +3，資源值 +1
+[/CITY_RESOURCE]
+[CITY_RESOURCE]2
+ DisplayName=馬匹
+ Description=馬匹：可建設騎兵學校，資源值 +1
+[/CITY_RESOURCE]
+[CITY_RESOURCE]3
+ DisplayName=礦產
+ Description=礦產：可建設礦場，資源值 +1
+[/CITY_RESOURCE]
+[CITY_RESOURCE]4
+ DisplayName=石油
+ Description=石油：提升海權效果，資源值 +4
+[/CITY_RESOURCE]
+[CITY_RESOURCE]5
+ DisplayName=都市
+ Description=都市：據點設施格 +1，資源值 +1
+[/CITY_RESOURCE]
+[ENDING_DESCRIPTION]0
+ Description=@CountryName@ 將整個東亞統一
+ Description=將所有的敵人摧毀, 驅逐或者屈服.
+ Description=不僅重建了震驚世界的新朝貢體系,
+ Description=也完成了自成吉思汗以來最龐大的亞洲陸地帝國.
+ Description=#0這個新國家就是#4 @EmpireName@ #0
+[/ENDING_DESCRIPTION]
+[ENDING_DESCRIPTION]1
+ Description=在歷年的戰亂當中, 大家已經厭倦了戰爭. 
+ Description=終於在談判桌下, 達成了最後的和解. 
+ Description=在 @CountryName@ 主導下, 完成了新體制. 
+ Description=對內互相尊重, 對外一致抗敵. 
+ Description=#0以#4中華聯邦#0之名, 共同進退.
+[/ENDING_DESCRIPTION]
+[ENDING_DESCRIPTION]2
+ Description=自清帝國崩潰之後, 陷於分裂的中華大地, 
+ Description=以及其所遺留下來各方勢力, 
+ Description=終於被 @CountryName@ 所統一, 
+ Description=滿清遺下的武裝力量已經屈服, 歷史亦迎向另一時期. 
+ Description=#0歷史上稱為#4 @ChinaName@ #0
+[/ENDING_DESCRIPTION]
+[ENDING_DESCRIPTION]3
+ Description=在戰爭的背後, 到底還是經濟的角力. 
+ Description=在這區域戰爭所需要的武器, 燃料, 糧食, 運輸, 工業, 
+ Description=在不知不覺間都被 @CountryName@ 所掌控. 
+ Description=整個東亞市場, 已經是其囊中之物. 
+ Description=#4 @CountryName@ 的掌握下, 進入了經濟繁榮時期#0
+[/ENDING_DESCRIPTION]
+[ENDING_DESCRIPTION]4
+ Description=憑著對文化的發展和身份認同的培養
+ Description=@CountryName@ 和其人民已為一體
+ Description=在世界大戰後的紛亂世代, 聯合國成立.
+ Description=@CountryName@ 因此得到了一個機會.
+ Description=以#4 @NationName@ #0之名成功晉身成為聯合國的成員
+[/ENDING_DESCRIPTION]
+[STRING]0
+ 1=生命
+ 2=速度
+ 3=遠程
+ 5=魔力
+ 6=版稅
+ 7=影響力
+ 8=決策力
+ 9=萌王
+ 12=抵抗力
+ 14=友好度
+ 15=行銷費
+ 16=回數
+ 17=場所
+ 18=成長力
+ 19=工口值
+ 20=徒手能力
+ 21=近戰能力
+ 22=機動能力
+ 23=魔法能力
+ 24=機械能力
+ 25=神秘人物
+ 26=版稅與
+ 27=召喚：消耗
+ 28=銷售量來召喚新萌娘
+ 29=召喚：銷售量不足
+ 30=召喚：版稅不足
+ 31=召喚：精力不足
+ 32=強迫推銷
+ 33=推銷
+ 34=推銷： 本月份銷售量增加
+ 35=但減半當地實際銷售量
+ 36=推銷：精力不足
+ 37=召喚
+ 38=宅男
+ 39=祈禱設施
+ 40=祈禱
+ 41=祈禱：用版稅購買牲果來向女神祈禱新設施
+ 42=祈禱：在二次元已無空間可以容納新設施
+ 43=祈禱：精力不足
+ 44=奉獻設施
+ 45=奉獻
+ 46=奉獻：將設施奉獻給神，女神將獎勵一半資源鼓勵您的行為
+ 47=奉獻：沒有設施可奉獻給女神
+ 48=奉獻：精力不足
+ 49=利多政策
+ 50=投資
+ 51=投資：貿易量增加
+ 52=投資：精力不足
+ 53=巡邏校園
+ 54=秩序
+ 55=巡邏：秩序增加
+ 56=巡邏：精力不足
+ 57=舉辦活動
+ 58=活動
+ 59=活動：人氣值增加
+ 60=活動：活動效果已達上限
+ 61=活動：精力不足
+ 62=新設粉絲團
+ 63=新設陸軍
+ 64=新設空軍
+ 65=新設人型自在戰鬥裝甲騎
+ 66=步將
+ 67=騎將
+ 68=炮將
+ 69=兵器
+ 70=建立未來道具研究所
+ 71=未來道具研究所
+ 72=移動：設置未來道具研究所
+ 73=移動：精力不足
+ 74=將未來道具研究所移轉至此 
+ 75=搬家
+ 76=搬家：將未來道具研究所搬移至此
+ 77=搬家：精力不足
+ 78=會議
+ 79=推動
+ 80=推動：推動改革 
+ 82=舉行學生會議
+ 83=開會
+ 84=開會：提出學生政策方向
+ 85=開會：變更學生政策方向
+ 86=變更政策：
+ 87=過半
+ 88=成立學生聯合會
+ 89=成立學生自治會
+ 90=宣布統一學園
+ 91=稱霸學園動漫市場
+ 92=獨立建立學園
+ 97=宣戰：全體秩序下降 
+ 98=宣戰：全體秩序上升 
+ 99=宣戰：無法對友好的國家宣戰
+ 100=宣戰：無法向此列強宣戰, 已讓渡資源 
+ 101=宣戰：精力不足
+ 105=結盟：雙方可互相使用對方的攻擊路線
+ 106=結盟：已是同盟狀態
+ 107=結盟：交戰中無法同盟
+ 108=結盟：友好度須滿百才可結盟
+ 109=結盟：精力不足
+ 110=侵略
+ 112=侵略：下次侵略將耗費更多精力值
+ 113=侵略：精力不足
+ 117=和談：解除戰爭狀態
+ 118=和談：精力不足
+ 119=和談：友好度未滿五十無法談和
+ 122=收編：將此勢力收編為自己的附屬勢力
+ 123=收編：精力不足
+ 124=收編：收編此勢力需要決策力 
+ 126=收編：帝國不會被收編
+ 127=收編：列強不會被收編
+ 128=收編：已有勝利目標的勢力不會被收編
+ 129=煽動
+ 131=煽動：降低該據點的秩序
+ 132=煽動：煽不動
+ 133=煽動：精力不足
+ 134=發動經濟戰
+ 135=經濟
+ 136=經濟戰：透過惡性價格競爭，減半該據點行銷能力
+ 137=經濟戰：該據點已經門口羅雀了...
+ 138=經濟戰：資金不足
+ 139=經濟戰：精力不足
+ 140=援助交際
+ 141=資金援助
+ 142=金援
+ 143=無法金援：意識形態不相容
+ 144=金援：讓渡
+ 146=金援：不開放申請援助
+ 147=金援：精力不足
+ 152=軍援：協助武裝部隊，讓渡 
+ 154=軍援：必須友好度達 
+ 155=軍援：精力不足
+ 156=軍援：該國對華禁止軍事出口
+ 157=示好
+ 158=親善
+ 159=親善：友好度增加 
+ 160=親善：友好度已滿
+ 161=親善：精力不足
+ 162=譴責
+ 163=譴責
+ 164=譴責：減少友好度 
+ 165=譴責：死對頭不需再譴責
+ 166=譴責：精力不足
+ 169=情報：對方友好度 
+ 176=% 機會消滅對方一個部隊並迫走當地遊擊勢力
+ 177=清剿：精力不足
+ 182=增加後宮佳麗
+ 183=後宮
+ 184=精力不足
+ 185=決策力不足
+ 186=消費決策力 
+ 189=使用精力引發事件
+ 191=金援: 已沒有資源可以讓渡該國
+ 195=無法租用：意識形態不相容
+ 199=租用：資金不足
+ 200=租用：精力不足
+[/STRING]

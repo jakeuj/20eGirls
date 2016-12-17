@@ -1,0 +1,31 @@
+[SETTING]
+ PicSettingPath=20eGirlsMedia\PicturesSetting.txt
+ GUISetupPath=20eGirlsMedia\GUI_Setup.txt
+ CompaignListPath=20eGirlsMedia\campaign.txt
+ ConfigPath=20eGirlsMedia\config.txt
+ SetupDirectoryPrefix=20eGirlsMedia\
+ DefaultDirectoryPrefix=20eGirlsMedia\
+ DramaDirectoryPrefix=20eGirlsMedia\
+ CountryBigPictureDirectoryPrefix=20eGirlsMedia\
+ EquipmentPicturePath=20eGirlsMedia\png\Basic\icon16.png
+ SaveDirectoryPrefix=20eGirlsMedia\
+ CommonMediaPngTalkingAdditionalDirectoryPrefix=20eGirlsMedia\
+ CommonMediaPngLeaderAdditionalDirectoryPrefix=20eGirlsMedia\
+ CommonMediaMusicAdditionalDirectoryPrefix=20eGirlsMedia\
+ FlagPicturePath=20eGirlsMedia\png\flag.png
+ BuildingPicturePath=20eGirlsMedia\png\building.png
+ MapPicturePath=20eGirlsMedia\png\mainmap.png
+ FacePicturePath=20eGirlsMedia\png\face.png
+ BattleFieldBackgroundPath=20eGirlsMedia\png\background.png
+ PoliticalPicturePath=20eGirlsMedia\png\political.png
+ VictoryLosePicturePath=20eGirlsMedia\png\bigword.png
+ EventNoticePicturePath=20eGirlsMedia\png\Interface6.png
+ CommandPicturePath=20eGirlsMedia\png\command.png
+ UnitTagPicturePath=20eGirlsMedia\png\unittag.png
+ Interface0PicturePath=20eGirlsMedia\png\interface0.PNG
+ Interface4PicturePath=20eGirlsMedia\png\interface4.PNG
+ Interface5PicturePath=20eGirlsMedia\png\interface5.PNG
+ BigFontNumberPicturePath=20eGirlsMedia\png\bigfont.PNG
+ BasicEventPicturePath=20eGirlsMedia\png\BasicEvent.PNG
+ TitleMusicName=grt_000.mp3
+[/SETTING]

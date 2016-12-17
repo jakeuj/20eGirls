@@ -1,0 +1,20 @@
+﻿[CAMPAIGN]0
+ Name=臨界之災厄
+ SubTitle=萌國無雙
+ Picture=Default
+ BigPicture=Default.png
+ DefaultFile=Default.txt
+ SetupFile=Setup.txt
+ DramaFile=Drama.txt
+ PNGDir=png/
+ MusicDir=music/
+ SaveDir=save1/
+ Description0=強大而特立獨行的東方少女，各個學院里的學生軟妹，
+ Description1=來自不同世界，不同次元，不同種族的異族少女。
+ Description2=与某些異星生物簽訂了簽約的魔法少女。
+ Description3=紛紛在這片熟悉而又陌生的島嶼上建立了自己的勢力。
+ Description4=在這片新的幻想大陸上，
+ Description5=少女們將如何實現自己的野望呢？
+ Description6=且看命運的車輪如何轉動.....
+ Description7=By Jakeuj
+[/CAMPAIGN]
