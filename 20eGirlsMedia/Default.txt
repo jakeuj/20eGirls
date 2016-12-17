@@ -1328,6 +1328,7 @@
 [CITY]0
  Name=武威
  Graph=
+ CustomBattleScene=
  PosX=486
  PosY=205
  Faction=平野綾
@@ -1359,6 +1360,7 @@
 [CITY]1
  Name=酒泉
  Graph=
+ CustomBattleScene=
  PosX=626
  PosY=357
  Faction=平野綾
@@ -1383,6 +1385,7 @@
 [CITY]2
  Name=西平
  Graph=
+ CustomBattleScene=
  PosX=213
  PosY=596
  Faction=平野綾
@@ -1409,6 +1412,7 @@
 [CITY]3
  Name=金城
  Graph=
+ CustomBattleScene=
  PosX=603
  PosY=760
  Faction=悠木碧
@@ -1434,6 +1438,7 @@
 [CITY]4
  Name=涼州
  Graph=
+ CustomBattleScene=
  PosX=524
  PosY=875
  Faction=平野綾
@@ -1460,6 +1465,7 @@
 [CITY]5
  Name=隴西
  Graph=
+ CustomBattleScene=
  PosX=897
  PosY=1034
  Faction=悠木碧
@@ -1487,6 +1493,7 @@
 [CITY]6
  Name=富平
  Graph=
+ CustomBattleScene=
  PosX=1147
  PosY=813
  Faction=悠木碧
@@ -1513,6 +1520,7 @@
 [CITY]7
  Name=天水
  Graph=
+ CustomBattleScene=
  PosX=1180
  PosY=1205
  Faction=悠木碧
@@ -1540,6 +1548,7 @@
 [CITY]8
  Name=長安
  Graph=
+ CustomBattleScene=
  PosX=1388
  PosY=1198
  Faction=悠木碧
@@ -1572,6 +1581,7 @@
 [CITY]9
  Name=安定
  Graph=
+ CustomBattleScene=
  PosX=1595
  PosY=1020
  Faction=野上尤加奈
@@ -1599,6 +1609,7 @@
 [CITY]10
  Name=潼關
  Graph=
+ CustomBattleScene=
  PosX=1668
  PosY=1203
  Faction=野上尤加奈
@@ -1627,6 +1638,7 @@
 [CITY]11
  Name=洛陽
  Graph=
+ CustomBattleScene=
  PosX=1848
  PosY=1236
  Faction=野上尤加奈
@@ -1660,6 +1672,7 @@
 [CITY]12
  Name=陳倉
  Graph=
+ CustomBattleScene=
  PosX=1600
  PosY=1373
  Faction=川澄綾子
@@ -1688,6 +1701,7 @@
 [CITY]13
  Name=漢中
  Graph=
+ CustomBattleScene=
  PosX=1690
  PosY=1473
  Faction=川澄綾子
@@ -1719,6 +1733,7 @@
 [CITY]14
  Name=陽平關
  Graph=
+ CustomBattleScene=
  PosX=1361
  PosY=1490
  Faction=悠木碧
@@ -1747,6 +1762,7 @@
 [CITY]15
  Name=祁山
  Graph=
+ CustomBattleScene=
  PosX=1227
  PosY=1451
  Faction=悠木碧
@@ -1772,6 +1788,7 @@
 [CITY]16
  Name=梓潼
  Graph=
+ CustomBattleScene=
  PosX=1171
  PosY=1631
  Faction=悠木碧
@@ -1799,6 +1816,7 @@
 [CITY]17
  Name=西城
  Graph=
+ CustomBattleScene=
  PosX=1654
  PosY=1692
  Faction=悠木碧
@@ -1826,6 +1844,7 @@
 [CITY]18
  Name=關中
  Graph=
+ CustomBattleScene=
  PosX=1520
  PosY=1781
  Faction=悠木碧
@@ -1853,6 +1872,7 @@
 [CITY]19
  Name=德陽
  Graph=
+ CustomBattleScene=
  PosX=1214
  PosY=1959
  Faction=悠木碧
@@ -1879,6 +1899,7 @@
 [CITY]20
  Name=成都
  Graph=
+ CustomBattleScene=
  PosX=949
  PosY=1640
  Faction=悠木碧
@@ -1905,6 +1926,7 @@
 [CITY]21
  Name=南安
  Graph=
+ CustomBattleScene=
  PosX=958
  PosY=2002
  Faction=釘宮理恵
@@ -1932,6 +1954,7 @@
 [CITY]22
  Name=九寨
  Graph=
+ CustomBattleScene=
  PosX=664
  PosY=1352
  Faction=悠木碧
@@ -1960,6 +1983,7 @@
 [CITY]23
  Name=綿竹
  Graph=
+ CustomBattleScene=
  PosX=482
  PosY=1232
  Faction=悠木碧
@@ -1985,6 +2009,7 @@
 [CITY]24
  Name=漢嘉
  Graph=
+ CustomBattleScene=
  PosX=473
  PosY=1467
  Faction=悠木碧
@@ -2010,6 +2035,7 @@
 [CITY]25
  Name=麗江
  Graph=
+ CustomBattleScene=
  PosX=642
  PosY=2395
  Faction=釘宮理恵
@@ -2036,6 +2062,7 @@
 [CITY]26
  Name=建寧
  Graph=
+ CustomBattleScene=
  PosX=840
  PosY=2486
  Faction=釘宮理恵
@@ -2062,6 +2089,7 @@
 [CITY]27
  Name=雲南
  Graph=
+ CustomBattleScene=
  PosX=575
  PosY=2559
  Faction=釘宮理恵
@@ -2093,6 +2121,7 @@
 [CITY]28
  Name=江陽
  Graph=
+ CustomBattleScene=
  PosX=1100
  PosY=2373
  Faction=悠木碧
@@ -2119,6 +2148,7 @@
 [CITY]29
  Name=江州
  Graph=
+ CustomBattleScene=
  PosX=1212
  PosY=2178
  Faction=悠木碧
@@ -2144,6 +2174,7 @@
 [CITY]30
  Name=涪陵
  Graph=
+ CustomBattleScene=
  PosX=1475
  PosY=2156
  Faction=悠木碧
@@ -2171,6 +2202,7 @@
 [CITY]31
  Name=永安
  Graph=
+ CustomBattleScene=
  PosX=1836
  PosY=2173
  Faction=悠木碧
@@ -2197,6 +2229,7 @@
 [CITY]32
  Name=臨江
  Graph=
+ CustomBattleScene=
  PosX=1849
  PosY=1982
  Faction=悠木碧
@@ -2222,6 +2255,7 @@
 [CITY]33
  Name=夷陵
  Graph=
+ CustomBattleScene=
  PosX=2150
  PosY=2016
  Faction=悠木碧
@@ -2247,6 +2281,7 @@
 [CITY]34
  Name=交趾
  Graph=
+ CustomBattleScene=
  PosX=1894
  PosY=2500
  Faction=悠木碧
@@ -2271,6 +2306,7 @@
 [CITY]35
  Name=始安
  Graph=
+ CustomBattleScene=
  PosX=2453
  PosY=2369
  Faction=悠木碧
@@ -2297,6 +2333,7 @@
 [CITY]36
  Name=蒼梧
  Graph=
+ CustomBattleScene=
  PosX=2506
  PosY=2612
  Faction=悠木碧
@@ -2322,6 +2359,7 @@
 [CITY]37
  Name=武陵
  Graph=
+ CustomBattleScene=
  PosX=2358
  PosY=2098
  Faction=悠木碧
@@ -2348,6 +2386,7 @@
 [CITY]38
  Name=零陵
  Graph=
+ CustomBattleScene=
  PosX=2580
  PosY=2220
  Faction=悠木碧
@@ -2376,6 +2415,7 @@
 [CITY]39
  Name=衡山
  Graph=
+ CustomBattleScene=
  PosX=2700
  PosY=2128
  Faction=悠木碧
@@ -2403,6 +2443,7 @@
 [CITY]40
  Name=長沙
  Graph=
+ CustomBattleScene=
  PosX=2766
  PosY=1960
  Faction=悠木碧
@@ -2431,6 +2472,7 @@
 [CITY]41
  Name=衡陽
  Graph=
+ CustomBattleScene=
  PosX=2773
  PosY=2348
  Faction=悠木碧
@@ -2458,6 +2500,7 @@
 [CITY]42
  Name=湘南
  Graph=
+ CustomBattleScene=
  PosX=2653
  PosY=2407
  Faction=悠木碧
@@ -2484,6 +2527,7 @@
 [CITY]43
  Name=臨賀
  Graph=
+ CustomBattleScene=
  PosX=2870
  PosY=2510
  Faction=釘宮理恵
@@ -2511,6 +2555,7 @@
 [CITY]44
  Name=桂陽
  Graph=
+ CustomBattleScene=
  PosX=3020
  PosY=2418
  Faction=悠木碧
@@ -2539,6 +2584,7 @@
 [CITY]45
  Name=曲江
  Graph=
+ CustomBattleScene=
  PosX=2873
  PosY=2643
  Faction=釘宮理恵
@@ -2565,6 +2611,7 @@
 [CITY]46
  Name=臨川
  Graph=
+ CustomBattleScene=
  PosX=3085
  PosY=2589
  Faction=釘宮理恵
@@ -2592,6 +2639,7 @@
 [CITY]47
  Name=佛山
  Graph=
+ CustomBattleScene=
  PosX=3282
  PosY=2457
  Faction=悠木碧
@@ -2619,6 +2667,7 @@
 [CITY]48
  Name=廣陵
  Graph=
+ CustomBattleScene=
  PosX=3063
  PosY=2239
  Faction=悠木碧
@@ -2644,6 +2693,7 @@
 [CITY]49
  Name=番禺
  Graph=
+ CustomBattleScene=
  PosX=3505
  PosY=2541
  Faction=悠木碧
@@ -2670,6 +2720,7 @@
 [CITY]50
  Name=東莞
  Graph=
+ CustomBattleScene=
  PosX=3378
  PosY=2658
  Faction=悠木碧
@@ -2694,6 +2745,7 @@
 [CITY]51
  Name=東安
  Graph=
+ CustomBattleScene=
  PosX=3790
  PosY=2299
  Faction=悠木碧
@@ -2720,6 +2772,7 @@
 [CITY]52
  Name=贛州
  Graph=
+ CustomBattleScene=
  PosX=3374
  PosY=2138
  Faction=悠木碧
@@ -2744,6 +2797,7 @@
 [CITY]53
  Name=高昌
  Graph=
+ CustomBattleScene=
  PosX=3204
  PosY=2045
  Faction=悠木碧
@@ -2770,6 +2824,7 @@
 [CITY]54
  Name=南城
  Graph=
+ CustomBattleScene=
  PosX=3466
  PosY=1951
  Faction=悠木碧
@@ -2797,6 +2852,7 @@
 [CITY]55
  Name=建安
  Graph=
+ CustomBattleScene=
  PosX=3743
  PosY=1975
  Faction=悠木碧
@@ -2825,6 +2881,7 @@
 [CITY]56
  Name=豫章
  Graph=
+ CustomBattleScene=
  PosX=3304
  PosY=1880
  Faction=悠木碧
@@ -2852,6 +2909,7 @@
 [CITY]57
  Name=金門
  Graph=
+ CustomBattleScene=
  PosX=4260
  PosY=1840
  Faction=悠木碧
@@ -2880,6 +2938,7 @@
 [CITY]58
  Name=柴桑
  Graph=
+ CustomBattleScene=
  PosX=4122
  PosY=1610
  Faction=悠木碧
@@ -2909,6 +2968,7 @@
 [CITY]59
  Name=浦江
  Graph=
+ CustomBattleScene=
  PosX=4260
  PosY=1452
  Faction=悠木碧
@@ -2934,6 +2994,7 @@
 [CITY]60
  Name=富春
  Graph=
+ CustomBattleScene=
  PosX=3912
  PosY=1418
  Faction=悠木碧
@@ -2959,6 +3020,7 @@
 [CITY]61
  Name=建業
  Graph=
+ CustomBattleScene=
  PosX=3787
  PosY=1364
  Faction=悠木碧
@@ -2985,6 +3047,7 @@
 [CITY]62
  Name=蕪湖
  Graph=
+ CustomBattleScene=
  PosX=3676
  PosY=1535
  Faction=悠木碧
@@ -3011,6 +3074,7 @@
 [CITY]63
  Name=九江
  Graph=
+ CustomBattleScene=
  PosX=3493
  PosY=1662
  Faction=悠木碧
@@ -3037,6 +3101,7 @@
 [CITY]64
  Name=鄱陽
  Graph=
+ CustomBattleScene=
  PosX=3363
  PosY=1730
  Faction=悠木碧
@@ -3062,6 +3127,7 @@
 [CITY]65
  Name=淮陰
  Graph=
+ CustomBattleScene=
  PosX=3880
  PosY=1130
  Faction=田中理恵
@@ -3088,6 +3154,7 @@
 [CITY]66
  Name=下邳
  Graph=
+ CustomBattleScene=
  PosX=3630
  PosY=1080
  Faction=田中理恵
@@ -3115,6 +3182,7 @@
 [CITY]67
  Name=小沛
  Graph=
+ CustomBattleScene=
  PosX=3443
  PosY=1144
  Faction=田中理恵
@@ -3147,6 +3215,7 @@
 [CITY]68
  Name=任城
  Graph=
+ CustomBattleScene=
  PosX=3296
  PosY=1180
  Faction=田中理恵
@@ -3175,6 +3244,7 @@
 [CITY]69
  Name=合淝
  Graph=
+ CustomBattleScene=
  PosX=3456
  PosY=1380
  Faction=田村由香里
@@ -3201,6 +3271,7 @@
 [CITY]70
  Name=壽春
  Graph=
+ CustomBattleScene=
  PosX=3358
  PosY=1260
  Faction=田中理恵
@@ -3227,6 +3298,7 @@
 [CITY]71
  Name=盧江
  Graph=
+ CustomBattleScene=
  PosX=3286
  PosY=1484
  Faction=田村由香里
@@ -3253,6 +3325,7 @@
 [CITY]72
  Name=壽張
  Graph=
+ CustomBattleScene=
  PosX=3296
  PosY=1050
  Faction=田中理恵
@@ -3280,6 +3353,7 @@
 [CITY]73
  Name=瑯琊
  Graph=
+ CustomBattleScene=
  PosX=3657
  PosY=955
  Faction=田中理恵
@@ -3306,6 +3380,7 @@
 [CITY]74
  Name=北海
  Graph=
+ CustomBattleScene=
  PosX=3833
  PosY=823
  Faction=田中理恵
@@ -3331,6 +3406,7 @@
 [CITY]75
  Name=東牟
  Graph=
+ CustomBattleScene=
  PosX=4050
  PosY=677
  Faction=田村由香里
@@ -3355,6 +3431,7 @@
 [CITY]76
  Name=都昌
  Graph=
+ CustomBattleScene=
  PosX=3516
  PosY=716
  Faction=田村由香里
@@ -3381,6 +3458,7 @@
 [CITY]77
  Name=樂安
  Graph=
+ CustomBattleScene=
  PosX=3350
  PosY=804
  Faction=田村由香里
@@ -3407,6 +3485,7 @@
 [CITY]78
  Name=平原
  Graph=
+ CustomBattleScene=
  PosX=3218
  PosY=906
  Faction=田村由香里
@@ -3434,6 +3513,7 @@
 [CITY]79
  Name=渤海
  Graph=
+ CustomBattleScene=
  PosX=3620
  PosY=486
  Faction=田村由香里
@@ -3459,6 +3539,7 @@
 [CITY]80
  Name=南皮
  Graph=
+ CustomBattleScene=
  PosX=3305
  PosY=528
  Faction=田村由香里
@@ -3487,6 +3568,7 @@
 [CITY]81
  Name=漁陽
  Graph=
+ CustomBattleScene=
  PosX=3097
  PosY=396
  Faction=東方
@@ -3514,6 +3596,7 @@
 [CITY]82
  Name=昌黎
  Graph=
+ CustomBattleScene=
  PosX=3553
  PosY=181
  Faction=東方
@@ -3540,6 +3623,7 @@
 [CITY]83
  Name=高麗
  Graph=
+ CustomBattleScene=
  PosX=3942
  PosY=176
  Faction=東方
@@ -3566,6 +3650,7 @@
 [CITY]84
  Name=朝鮮
  Graph=
+ CustomBattleScene=
  PosX=4437
  PosY=340
  Faction=東方
@@ -3596,6 +3681,7 @@
 [CITY]85
  Name=北平
  Graph=
+ CustomBattleScene=
  PosX=2900
  PosY=505
  Faction=田村由香里
@@ -3621,6 +3707,7 @@
 [CITY]86
  Name=安平
  Graph=
+ CustomBattleScene=
  PosX=2992
  PosY=660
  Faction=田村由香里
@@ -3647,6 +3734,7 @@
 [CITY]87
  Name=樂陵
  Graph=
+ CustomBattleScene=
  PosX=3076
  PosY=736
  Faction=田村由香里
@@ -3675,6 +3763,7 @@
 [CITY]88
  Name=廣川
  Graph=
+ CustomBattleScene=
  PosX=2975
  PosY=810
  Faction=田村由香里
@@ -3701,6 +3790,7 @@
 [CITY]89
  Name=白馬
  Graph=
+ CustomBattleScene=
  PosX=2845
  PosY=855
  Faction=田村由香里
@@ -3727,6 +3817,7 @@
 [CITY]90
  Name=常山
  Graph=
+ CustomBattleScene=
  PosX=2747
  PosY=696
  Faction=田村由香里
@@ -3754,6 +3845,7 @@
 [CITY]91
  Name=代縣
  Graph=
+ CustomBattleScene=
  PosX=2622
  PosY=497
  Faction=田村由香里
@@ -3779,6 +3871,7 @@
 [CITY]92
  Name=居庸
  Graph=
+ CustomBattleScene=
  PosX=2640
  PosY=365
  Faction=田村由香里
@@ -3806,6 +3899,7 @@
 [CITY]93
  Name=大同
  Graph=
+ CustomBattleScene=
  PosX=2273
  PosY=334
  Faction=釘宮理恵
@@ -3832,6 +3926,7 @@
 [CITY]94
  Name=雁門關
  Graph=
+ CustomBattleScene=
  PosX=2379
  PosY=735
  Faction=田村由香里
@@ -3858,6 +3953,7 @@
 [CITY]95
  Name=雲中
  Graph=
+ CustomBattleScene=
  PosX=2024
  PosY=327
  Faction=釘宮理恵
@@ -3884,6 +3980,7 @@
 [CITY]96
  Name=九原
  Graph=
+ CustomBattleScene=
  PosX=1477
  PosY=280
  Faction=釘宮理恵
@@ -3910,6 +4007,7 @@
 [CITY]97
  Name=朔方
  Graph=
+ CustomBattleScene=
  PosX=1117
  PosY=489
  Faction=平野綾
@@ -3936,6 +4034,7 @@
 [CITY]98
  Name=上党
  Graph=
+ CustomBattleScene=
  PosX=2410
  PosY=868
  Faction=田村由香里
@@ -3961,6 +4060,7 @@
 [CITY]99
  Name=壺關
  Graph=
+ CustomBattleScene=
  PosX=2356
  PosY=981
  Faction=田村由香里
@@ -3986,6 +4086,7 @@
 [CITY]100
  Name=鄴
  Graph=
+ CustomBattleScene=
  PosX=2623
  PosY=897
  Faction=田村由香里
@@ -4013,6 +4114,7 @@
 [CITY]101
  Name=濮陽
  Graph=
+ CustomBattleScene=
  PosX=2704
  PosY=1057
  Faction=田村由香里
@@ -4039,6 +4141,7 @@
 [CITY]102
  Name=陳留
  Graph=
+ CustomBattleScene=
  PosX=2787
  PosY=1133
  Faction=田村由香里
@@ -4065,6 +4168,7 @@
 [CITY]103
  Name=定陶
  Graph=
+ CustomBattleScene=
  PosX=3002
  PosY=1128
  Faction=田村由香里
@@ -4091,6 +4195,7 @@
 [CITY]104
  Name=清河
  Graph=
+ CustomBattleScene=
  PosX=2944
  PosY=980
  Faction=田村由香里
@@ -4116,6 +4221,7 @@
 [CITY]105
  Name=安陽
  Graph=
+ CustomBattleScene=
  PosX=3085
  PosY=1245
  Faction=田村由香里
@@ -4141,6 +4247,7 @@
 [CITY]106
  Name=譙
  Graph=
+ CustomBattleScene=
  PosX=2973
  PosY=1291
  Faction=田村由香里
@@ -4167,6 +4274,7 @@
 [CITY]107
  Name=許昌
  Graph=
+ CustomBattleScene=
  PosX=2783
  PosY=1268
  Faction=田村由香里
@@ -4193,6 +4301,7 @@
 [CITY]108
  Name=安豐
  Graph=
+ CustomBattleScene=
  PosX=3017
  PosY=1446
  Faction=田村由香里
@@ -4219,6 +4328,7 @@
 [CITY]109
  Name=武昌
  Graph=
+ CustomBattleScene=
  PosX=3064
  PosY=1730
  Faction=田村由香里
@@ -4245,6 +4355,7 @@
 [CITY]110
  Name=安陸
  Graph=
+ CustomBattleScene=
  PosX=3132
  PosY=1830
  Faction=田村由香里
@@ -4271,6 +4382,7 @@
 [CITY]111
  Name=汝南
  Graph=
+ CustomBattleScene=
  PosX=2797
  PosY=1398
  Faction=田村由香里
@@ -4298,6 +4410,7 @@
 [CITY]112
  Name=麥城
  Graph=
+ CustomBattleScene=
  PosX=2842
  PosY=1506
  Faction=田村由香里
@@ -4322,6 +4435,7 @@
 [CITY]113
  Name=穎川
  Graph=
+ CustomBattleScene=
  PosX=2618
  PosY=1400
  Faction=田村由香里
@@ -4348,6 +4462,7 @@
 [CITY]114
  Name=朝歌
  Graph=
+ CustomBattleScene=
  PosX=2614
  PosY=1247
  Faction=田村由香里
@@ -4374,6 +4489,7 @@
 [CITY]115
  Name=荊州
  Graph=
+ CustomBattleScene=
  PosX=2476
  PosY=1301
  Faction=田村由香里
@@ -4400,6 +4516,7 @@
 [CITY]116
  Name=襄陽
  Graph=
+ CustomBattleScene=
  PosX=2400
  PosY=1490
  Faction=田村由香里
@@ -4432,6 +4549,7 @@
 [CITY]117
  Name=新野
  Graph=
+ CustomBattleScene=
  PosX=2646
  PosY=1683
  Faction=田村由香里
@@ -4460,6 +4578,7 @@
 [CITY]118
  Name=江陵
  Graph=
+ CustomBattleScene=
  PosX=2511
  PosY=1812
  Faction=田村由香里
@@ -4488,6 +4607,7 @@
 [CITY]119
  Name=上庸
  Graph=
+ CustomBattleScene=
  PosX=1997
  PosY=1643
  Faction=川澄綾子
@@ -4515,6 +4635,7 @@
 [CITY]120
  Name=南陽
  Graph=
+ CustomBattleScene=
  PosX=1955
  PosY=1514
  Faction=川澄綾子
@@ -4542,6 +4663,7 @@
 [CITY]121
  Name=平陽
  Graph=
+ CustomBattleScene=
  PosX=2302
  PosY=1225
  Faction=田村由香里
@@ -4568,6 +4690,7 @@
 [CITY]122
  Name=虎牢關
  Graph=
+ CustomBattleScene=
  PosX=2084
  PosY=1339
  Faction=野上尤加奈
@@ -4594,6 +4717,7 @@
 [CITY]123
  Name=西河
  Graph=
+ CustomBattleScene=
  PosX=1989
  PosY=797
  Faction=釘宮理恵
@@ -4620,6 +4744,7 @@
 [CITY]124
  Name=阿里山
  Graph=
+ CustomBattleScene=
  PosX=4277
  PosY=2496
  Faction=田村由香里
@@ -4645,6 +4770,7 @@
 [CITY]125
  Name=夷州
  Graph=
+ CustomBattleScene=
  PosX=4523
  PosY=2277
  Faction=田村由香里
@@ -4676,6 +4802,7 @@
 [CITY]126
  Name=琉球
  Graph=
+ CustomBattleScene=
  PosX=4841
  PosY=1270
  Faction=田村由香里
@@ -4701,6 +4828,7 @@
 [CITY]127
  Name=南海
  Graph=
+ CustomBattleScene=
  PosX=2607
  PosY=3040
  Faction=釘宮理恵
@@ -4802,8 +4930,8 @@
 [/LEADER]
 [LEADER]3
  Name=紅野澪
- Female=1
  Alias=現代魔術師
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -4827,8 +4955,8 @@
 [/LEADER]
 [LEADER]4
  Name=草壁美玲
- Female=1
  Alias=草壁流陰陽師
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -4852,8 +4980,8 @@
 [/LEADER]
 [LEADER]5
  Name=莉潔特
- Female=1
  Alias=Thule首領
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -4877,8 +5005,8 @@
 [/LEADER]
 [LEADER]6
  Name=黑芝佳苗
- Female=1
  Alias=圖書館魔女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -4902,8 +5030,8 @@
 [/LEADER]
 [LEADER]7
  Name=廣原雪子
- Female=1
  Alias=雙重人格的少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -4927,8 +5055,8 @@
 [/LEADER]
 [LEADER]8
  Name=橘菊理
- Female=1
  Alias=阿布拉庫薩斯
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -4952,8 +5080,8 @@
 [/LEADER]
 [LEADER]9
  Name=星庭宙
- Female=1
  Alias=知之塔織女星
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5025,8 +5153,8 @@
 [/LEADER]
 [LEADER]12
  Name=天峰留留
- Female=1
  Alias=命運之塔織女星
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5122,8 +5250,8 @@
 [/LEADER]
 [LEADER]16
  Name=狐島進
- Female=1
  Alias=待星祭官方記者
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5171,8 +5299,8 @@
 [/LEADER]
 [LEADER]18
  Name=鳴神葵
- Female=1
  Alias=力之塔織女星
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5196,8 +5324,8 @@
 [/LEADER]
 [LEADER]19
  Name=藤門琴音
- Female=1
  Alias=去年待星祭勝者
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5221,8 +5349,8 @@
 [/LEADER]
 [LEADER]20
  Name=神尾觀鈴
- Female=1
  Alias=翼人的詛咒
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5246,8 +5374,8 @@
 [/LEADER]
 [LEADER]21
  Name=遠野美凪
- Female=1
  Alias=天文部部長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5271,8 +5399,8 @@
 [/LEADER]
 [LEADER]22
  Name=霧島佳乃
- Female=1
  Alias=自殺女神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5296,8 +5424,8 @@
 [/LEADER]
 [LEADER]23
  Name=由依
- Female=1
  Alias=GDM樂隊現任團長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5321,8 +5449,8 @@
 [/LEADER]
 [LEADER]24
  Name=立華奏
- Female=1
  Alias=天使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5346,8 +5474,8 @@
 [/LEADER]
 [LEADER]25
  Name=仲村由理
- Female=1
  Alias=小百合
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5371,8 +5499,8 @@
 [/LEADER]
 [LEADER]26
  Name=岩澤
- Female=1
  Alias=GDM樂團原團長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5404,8 +5532,8 @@
 [/LEADER]
 [LEADER]27
  Name=椎名
- Female=1
  Alias=膚淺姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5429,8 +5557,8 @@
 [/LEADER]
 [LEADER]28
  Name=死亡主宰
- Female=1
  Alias=小鳥遊優美
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5454,8 +5582,8 @@
 [/LEADER]
 [LEADER]29
  Name=黑岩射手
- Female=1
  Alias=黑岩射手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5479,8 +5607,8 @@
 [/LEADER]
 [LEADER]30
  Name=更衣小夜
- Female=1
  Alias=浮島神社巫女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5528,8 +5656,8 @@
 [/LEADER]
 [LEADER]32
  Name=二階堂凜子
- Female=1
  Alias=吸血鬼獵人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5553,8 +5681,8 @@
 [/LEADER]
 [LEADER]33
  Name=山田
- Female=1
  Alias=人氣的美少女高中生
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5578,8 +5706,8 @@
 [/LEADER]
 [LEADER]34
  Name=阿爾法露特
- Female=1
  Alias=「蛇」的實質領導者
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5651,8 +5779,8 @@
 [/LEADER]
 [LEADER]37
  Name=菲婭
- Female=1
  Alias=箱形的恐懼
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5676,8 +5804,8 @@
 [/LEADER]
 [LEADER]38
  Name=大澤瑪利亞
- Female=1
  Alias=三流閒話雜誌社攝影師
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5701,8 +5829,8 @@
 [/LEADER]
 [LEADER]39
  Name=迦南
- Female=1
  Alias=共感覺者
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5726,8 +5854,8 @@
 [/LEADER]
 [LEADER]40
  Name=梁琪
- Female=1
  Alias=「蛇」的主要幹部
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5751,8 +5879,8 @@
 [/LEADER]
 [LEADER]41
  Name=岸本綾瀨
- Female=1
  Alias=FES
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5824,8 +5952,8 @@
 [/LEADER]
 [LEADER]44
  Name=咲田梨深
- Female=1
  Alias=惡魔女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5849,8 +5977,8 @@
 [/LEADER]
 [LEADER]45
  Name=折原梢
- Female=1
  Alias=梢P
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5906,8 +6034,8 @@
 [/LEADER]
 [LEADER]47
  Name=古河早苗
- Female=1
  Alias=早苗的麵包
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5955,8 +6083,8 @@
 [/LEADER]
 [LEADER]49
  Name=伊吹風子
- Female=1
  Alias=超級海星控
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -5987,8 +6115,8 @@
 [/LEADER]
 [LEADER]50
  Name=岡崎汐
- Female=1
  Alias=雪中的孤獨少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6036,8 +6164,8 @@
 [/LEADER]
 [LEADER]52
  Name=相樂美佐枝
- Female=1
  Alias=美女舍監
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6061,8 +6189,8 @@
 [/LEADER]
 [LEADER]53
  Name=宮澤有紀寧
- Female=1
  Alias=有紀寧大姐頭
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6093,8 +6221,8 @@
 [/LEADER]
 [LEADER]54
  Name=藤林杏
- Female=1
  Alias=字典炮彈
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6166,8 +6294,8 @@
 [/LEADER]
 [LEADER]57
  Name=艾克蕾爾
- Female=1
  Alias=米希奧蕾直屬親衛隊長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6191,8 +6319,8 @@
 [/LEADER]
 [LEADER]58
  Name=莉歌塔
- Female=1
  Alias=首席研究員
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6216,8 +6344,8 @@
 [/LEADER]
 [LEADER]59
  Name=蕾昂米修莉
- Female=1
  Alias=加雷特公主兼領主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6241,8 +6369,8 @@
 [/LEADER]
 [LEADER]60
  Name=蘿絲
- Female=1
  Alias=紅龍公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6266,8 +6394,8 @@
 [/LEADER]
 [LEADER]61
  Name=雨宮優子
- Female=1
  Alias=音羽學園的OG
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6315,8 +6443,8 @@
 [/LEADER]
 [LEADER]63
  Name=新藤千尋
- Female=1
  Alias=新藤妹妹
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6340,8 +6468,8 @@
 [/LEADER]
 [LEADER]64
  Name=新藤景
- Female=1
  Alias=新藤姐姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6365,8 +6493,8 @@
 [/LEADER]
 [LEADER]65
  Name=Caster
- Female=1
  Alias=葛木C子
+ Female=1
  Status=0
  Power=20
  History=1
@@ -6398,8 +6526,8 @@
 [/LEADER]
 [LEADER]66
  Name=Saber
- Female=1
  Alias=亞瑟王
+ Female=1
  Status=0
  Power=20
  History=1
@@ -6431,8 +6559,8 @@
 [/LEADER]
 [LEADER]67
  Name=Rider
- Female=1
  Alias=美杜莎
+ Female=1
  Status=0
  Power=20
  History=1
@@ -6463,8 +6591,8 @@
 [/LEADER]
 [LEADER]68
  Name=遠坂凛
- Female=1
  Alias=美女魔術師
+ Female=1
  Status=0
  Power=20
  History=1
@@ -6496,8 +6624,8 @@
 [/LEADER]
 [LEADER]69
  Name=依莉亞
- Female=1
  Alias=第五次聖杯
+ Female=1
  Status=0
  Power=20
  History=1
@@ -6529,8 +6657,8 @@
 [/LEADER]
 [LEADER]70
  Name=間桐櫻
- Female=1
  Alias=小聖杯
+ Female=1
  Status=0
  Power=20
  History=1
@@ -6561,8 +6689,8 @@
 [/LEADER]
 [LEADER]71
  Name=久宇舞彌
- Female=1
  Alias=切嗣的小三
+ Female=1
  Status=0
  Power=20
  History=1
@@ -6594,8 +6722,8 @@
 [/LEADER]
 [LEADER]72
  Name=愛麗絲菲爾
- Female=1
  Alias=第四次聖杯
+ Female=1
  Status=0
  Power=20
  History=1
@@ -6626,8 +6754,8 @@
 [/LEADER]
 [LEADER]73
  Name=西露法
- Female=1
  Alias=HMX-17a
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6651,8 +6779,8 @@
 [/LEADER]
 [LEADER]74
  Name=依露法
- Female=1
  Alias=HMX-17b
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6748,8 +6876,8 @@
 [/LEADER]
 [LEADER]78
  Name=白鷺茉百合
- Female=1
  Alias=學生會副會長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6797,8 +6925,8 @@
 [/LEADER]
 [LEADER]80
  Name=皇天音
- Female=1
  Alias=繚蘭會會長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6822,8 +6950,8 @@
 [/LEADER]
 [LEADER]81
  Name=電堂明
- Female=1
  Alias=MAXX
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6951,8 +7079,8 @@
 [/LEADER]
 [LEADER]86
  Name=神樂雛田
- Female=1
  Alias=神樂螢
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -6976,8 +7104,8 @@
 [/LEADER]
 [LEADER]87
  Name=稻垣雪耶
- Female=1
  Alias=稻垣家長女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7001,8 +7129,8 @@
 [/LEADER]
 [LEADER]88
  Name=渡良瀨准
- Female=1
  Alias=經典偽娘
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7026,8 +7154,8 @@
 [/LEADER]
 [LEADER]89
  Name=葦月伊織
- Female=1
  Alias=演劇部部員
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7075,8 +7203,8 @@
 [/LEADER]
 [LEADER]91
  Name=夏露露
- Female=1
  Alias=鐵人兵團
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7211,8 +7339,8 @@
 [/LEADER]
 [LEADER]96
  Name=淡島世理
- Female=1
  Alias=冰山女王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7244,8 +7372,8 @@
 [/LEADER]
 [LEADER]97
  Name=川澄舞
- Female=1
  Alias=小舞
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7293,8 +7421,8 @@
 [/LEADER]
 [LEADER]99
  Name=月宮亞由
- Female=1
  Alias=嗚咕～
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7342,8 +7470,8 @@
 [/LEADER]
 [LEADER]101
  Name=水瀨秋子
- Female=1
  Alias=秋子阿姨
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7367,8 +7495,8 @@
 [/LEADER]
 [LEADER]102
  Name=倉田佐佑理
- Female=1
  Alias=啊哈哈
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7392,8 +7520,8 @@
 [/LEADER]
 [LEADER]103
  Name=澤渡真琴
- Female=1
  Alias=迷途的小狐狸
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7417,8 +7545,8 @@
 [/LEADER]
 [LEADER]104
  Name=山中佐和子
- Female=1
  Alias=輕音部顧問老師
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7449,8 +7577,8 @@
 [/LEADER]
 [LEADER]105
  Name=平澤唯
- Female=1
  Alias=輕音部吉他手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7481,8 +7609,8 @@
 [/LEADER]
 [LEADER]106
  Name=平澤憂
- Female=1
  Alias=萬能妹妹
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7513,8 +7641,8 @@
 [/LEADER]
 [LEADER]107
  Name=田井中律
- Female=1
  Alias=律姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7545,8 +7673,8 @@
 [/LEADER]
 [LEADER]108
  Name=秋山澪
- Female=1
  Alias=MIO
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7577,8 +7705,8 @@
 [/LEADER]
 [LEADER]109
  Name=真鍋和
- Female=1
  Alias=學生會長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7609,8 +7737,8 @@
 [/LEADER]
 [LEADER]110
  Name=琴吹紬
- Female=1
  Alias=輕音部鍵盤手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7641,8 +7769,8 @@
 [/LEADER]
 [LEADER]111
  Name=中野梓
- Female=1
  Alias=梓喵
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7698,8 +7826,8 @@
 [/LEADER]
 [LEADER]113
  Name=三枝葉留佳
- Female=1
  Alias=百合系御姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7723,8 +7851,8 @@
 [/LEADER]
 [LEADER]114
  Name=西園美魚
- Female=1
  Alias=文系腹黑
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7772,8 +7900,8 @@
 [/LEADER]
 [LEADER]116
  Name=能美
- Female=1
  Alias=科多
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7821,8 +7949,8 @@
 [/LEADER]
 [LEADER]118
  Name=朱鷺戶沙耶
- Female=1
  Alias=成績優秀的班級人氣王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7846,8 +7974,8 @@
 [/LEADER]
 [LEADER]119
  Name=神北小毬
- Female=1
  Alias=超級天然呆
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7871,8 +7999,8 @@
 [/LEADER]
 [LEADER]120
  Name=摩兒迦娜
- Female=1
  Alias=法納利斯少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7896,8 +8024,8 @@
 [/LEADER]
 [LEADER]121
  Name=石動美緒
- Female=1
  Alias=神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7921,8 +8049,8 @@
 [/LEADER]
 [LEADER]122
  Name=結野嵐子
- Female=1
  Alias=關鍵人物
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7946,8 +8074,8 @@
 [/LEADER]
 [LEADER]123
  Name=白鐘直鬥
- Female=1
  Alias=偵探王子
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -7971,8 +8099,8 @@
 [/LEADER]
 [LEADER]124
  Name=劉翡翠
- Female=1
  Alias=惡石能力者
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8020,8 +8148,8 @@
 [/LEADER]
 [LEADER]126
  Name=西園寺世界
- Female=1
  Alias=世界是平的
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8052,8 +8180,8 @@
 [/LEADER]
 [LEADER]127
  Name=桂言葉
- Female=1
  Alias=左眼是言葉
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8084,8 +8212,8 @@
 [/LEADER]
 [LEADER]128
  Name=希亞
- Female=1
  Alias=神族公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8109,8 +8237,8 @@
 [/LEADER]
 [LEADER]129
  Name=芙蓉楓
- Female=1
  Alias=腹黑楓
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8134,8 +8262,8 @@
 [/LEADER]
 [LEADER]130
  Name=枯葉
- Female=1
  Alias=治癒的枯葉
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8159,8 +8287,8 @@
 [/LEADER]
 [LEADER]131
  Name=時雨亞紗
- Female=1
  Alias=隱藏的魔女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8208,8 +8336,8 @@
 [/LEADER]
 [LEADER]133
  Name=普利姆拉
- Female=1
  Alias=神魔人工生命體
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8257,8 +8385,8 @@
 [/LEADER]
 [LEADER]135
  Name=蕾
- Female=1
  Alias=啊！啊啊啊！
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8306,8 +8434,8 @@
 [/LEADER]
 [LEADER]137
  Name=露莉
- Female=1
  Alias=神界親衛隊男裝少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8331,8 +8459,8 @@
 [/LEADER]
 [LEADER]138
  Name=四方茉莉
- Female=1
  Alias=機械白癡
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8356,8 +8484,8 @@
 [/LEADER]
 [LEADER]139
  Name=森宮蒼乃
- Female=1
  Alias=摺紙夜禍
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8381,8 +8509,8 @@
 [/LEADER]
 [LEADER]140
  Name=牧瀨紅莉棲
- Female=1
  Alias=ＭＩＴ天才
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8406,8 +8534,8 @@
 [/LEADER]
 [LEADER]141
  Name=阿萬音鈴羽
- Female=1
  Alias=打工戰士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8431,8 +8559,8 @@
 [/LEADER]
 [LEADER]142
  Name=椎名真由里
- Female=1
  Alias=嘟嘟嚕～
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8456,8 +8584,8 @@
 [/LEADER]
 [LEADER]143
  Name=菲利斯
- Female=1
  Alias=菲利斯喵喵
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8481,8 +8609,8 @@
 [/LEADER]
 [LEADER]144
  Name=漆原琉華
- Female=1
  Alias=但卻是男的！
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8602,8 +8730,8 @@
 [/LEADER]
 [LEADER]149
  Name=小麻前輩
- Female=1
  Alias=朝霧麻亞子
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8675,8 +8803,8 @@
 [/LEADER]
 [LEADER]152
  Name=河野晴美
- Female=1
  Alias=傳說中的倒追型女孩
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8700,8 +8828,8 @@
 [/LEADER]
 [LEADER]153
  Name=柚原木實
- Female=1
  Alias=羅莉型女孩
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8725,8 +8853,8 @@
 [/LEADER]
 [LEADER]154
  Name=柚原春夏
- Female=1
  Alias=鄰家人妻
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8798,8 +8926,8 @@
 [/LEADER]
 [LEADER]157
  Name=草壁優季
- Female=1
  Alias=神秘少女草壁優季
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8871,8 +8999,8 @@
 [/LEADER]
 [LEADER]160
  Name=露西
- Female=1
  Alias=露茜‧瑪麗婭‧米左拉
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8896,8 +9024,8 @@
 [/LEADER]
 [LEADER]161
  Name=巡音luka
- Female=1
  Alias=一樣是軟體
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8921,8 +9049,8 @@
 [/LEADER]
 [LEADER]162
  Name=亞北neru
- Female=1
  Alias=DEN2
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8946,8 +9074,8 @@
 [/LEADER]
 [LEADER]163
  Name=初音miku
- Female=1
  Alias=超人氣虛擬歌姬
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -8979,8 +9107,8 @@
 [/LEADER]
 [LEADER]164
  Name=鏡音rin
- Female=1
  Alias=也只是個軟體
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9004,8 +9132,8 @@
 [/LEADER]
 [LEADER]165
  Name=弱音haku
- Female=1
  Alias=DTM
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9029,8 +9157,8 @@
 [/LEADER]
 [LEADER]166
  Name=窗邊奈奈美
- Female=1
  Alias=WIN7
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9078,8 +9206,8 @@
 [/LEADER]
 [LEADER]168
  Name=春日更紗
- Female=1
  Alias=狗神少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9103,8 +9231,8 @@
 [/LEADER]
 [LEADER]169
  Name=神代睦月
- Female=1
  Alias=狐神女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9152,8 +9280,8 @@
 [/LEADER]
 [LEADER]171
  Name=尾瀨杏夏
- Female=1
  Alias=這頭母牛
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9177,8 +9305,8 @@
 [/LEADER]
 [LEADER]172
  Name=花山院紫子
- Female=1
  Alias=紫子大人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9202,8 +9330,8 @@
 [/LEADER]
 [LEADER]173
  Name=高屋敷楓
- Female=1
  Alias=風紀委員高屋敷楓
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9227,8 +9355,8 @@
 [/LEADER]
 [LEADER]174
  Name=涼音玖留美
- Female=1
  Alias=學園第一怪人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9252,8 +9380,8 @@
 [/LEADER]
 [LEADER]175
  Name=楠美雨
- Female=1
  Alias=庶民娘特招生
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9277,8 +9405,8 @@
 [/LEADER]
 [LEADER]176
  Name=綠川風子
- Female=1
  Alias=新人平民老師
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9302,8 +9430,8 @@
 [/LEADER]
 [LEADER]177
  Name=德芙巧克力
- Female=1
  Alias=開朗的女僕機器人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9351,8 +9479,8 @@
 [/LEADER]
 [LEADER]179
  Name=宮倉天音
- Female=1
  Alias=巡活潑開朗的青梅竹馬
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9496,8 +9624,8 @@
 [/LEADER]
 [LEADER]185
  Name=香崎深鈴
- Female=1
  Alias=尼特族香崎深鈴
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9521,8 +9649,8 @@
 [/LEADER]
 [LEADER]186
  Name=古清水憐
- Female=1
  Alias=古清水家的天然大姐姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9546,8 +9674,8 @@
 [/LEADER]
 [LEADER]187
  Name=亞絲娜
- Female=1
  Alias=閃光的亞絲娜
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9579,8 +9707,8 @@
 [/LEADER]
 [LEADER]188
  Name=赤夜萌香
- Female=1
  Alias=最強吸血姬
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9604,8 +9732,8 @@
 [/LEADER]
 [LEADER]189
  Name=片桐優姬
- Female=1
  Alias=片桐財閥董事長之女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9629,8 +9757,8 @@
 [/LEADER]
 [LEADER]190
  Name=白石和美
- Female=1
  Alias=不可思議的一年生
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9654,8 +9782,8 @@
 [/LEADER]
 [LEADER]191
  Name=長瀨湊
- Female=1
  Alias=Ｘ計劃當事人之一
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9679,8 +9807,8 @@
 [/LEADER]
 [LEADER]192
  Name=椎名觀月
- Female=1
  Alias=學生會會長椎名觀月
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9704,8 +9832,8 @@
 [/LEADER]
 [LEADER]193
  Name=橘美琴
- Female=1
  Alias=彬彬有禮的可愛女孩子
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9729,8 +9857,8 @@
 [/LEADER]
 [LEADER]194
  Name=藤宮彩
- Female=1
  Alias=鄰校少女偽娘
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9754,8 +9882,8 @@
 [/LEADER]
 [LEADER]195
  Name=霧生司
- Female=1
  Alias=損友一號
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9779,8 +9907,8 @@
 [/LEADER]
 [LEADER]196
  Name=彩京朋美
- Female=1
  Alias=鈴橋朋美
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9804,8 +9932,8 @@
 [/LEADER]
 [LEADER]197
  Name=塞爾妮亞
- Female=1
  Alias=名門貴族的傲嬌大小姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9829,8 +9957,8 @@
 [/LEADER]
 [LEADER]198
  Name=小笠原晶子
- Female=1
  Alias=投手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9878,8 +10006,8 @@
 [/LEADER]
 [LEADER]200
  Name=月映巴
- Female=1
  Alias=遊擊手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9903,8 +10031,8 @@
 [/LEADER]
 [LEADER]201
  Name=月映靜
- Female=1
  Alias=一壘手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9928,8 +10056,8 @@
 [/LEADER]
 [LEADER]202
  Name=石垣環
- Female=1
  Alias=二壘手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9953,8 +10081,8 @@
 [/LEADER]
 [LEADER]203
  Name=宗谷雪
- Female=1
  Alias=三壘手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -9978,8 +10106,8 @@
 [/LEADER]
 [LEADER]204
  Name=鈴川小梅
- Female=1
  Alias=捕手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10027,8 +10155,8 @@
 [/LEADER]
 [LEADER]206
  Name=夕張
- Female=1
  Alias=人工智慧頭腦戰艦
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10052,8 +10180,8 @@
 [/LEADER]
 [LEADER]207
  Name=小澤祀梨
- Female=1
  Alias=海軍妹子
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10077,8 +10205,8 @@
 [/LEADER]
 [LEADER]208
  Name=山下利古里
- Female=1
  Alias=陸軍妹子
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10102,8 +10230,8 @@
 [/LEADER]
 [LEADER]209
  Name=尤莉
- Female=1
  Alias=貧乳將軍
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10127,8 +10255,8 @@
 [/LEADER]
 [LEADER]210
  Name=卡特琳
- Female=1
  Alias=人類統合組織委員長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10152,8 +10280,8 @@
 [/LEADER]
 [LEADER]211
  Name=平賀津波
- Female=1
  Alias=研究所所長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10201,8 +10329,8 @@
 [/LEADER]
 [LEADER]213
  Name=米莉亞
- Female=1
  Alias=好朋友
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10226,8 +10354,8 @@
 [/LEADER]
 [LEADER]214
  Name=米露
- Female=1
  Alias=冰之戈貝
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10251,8 +10379,8 @@
 [/LEADER]
 [LEADER]215
  Name=艾麗薩
- Female=1
  Alias=艾伊利斯帝國先代女王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10276,8 +10404,8 @@
 [/LEADER]
 [LEADER]216
  Name=艾露米
- Female=1
  Alias=第三帝國提督
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10301,8 +10429,8 @@
 [/LEADER]
 [LEADER]217
  Name=東鄉斯卡雷特
- Female=1
  Alias=帝國海軍長官之妻
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10326,8 +10454,8 @@
 [/LEADER]
 [LEADER]218
  Name=阿爾比露達
- Female=1
  Alias=北歐王國公主殿下
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10351,8 +10479,8 @@
 [/LEADER]
 [LEADER]219
  Name=南雲圭子
- Female=1
  Alias=人妻海軍提督
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10376,8 +10504,8 @@
 [/LEADER]
 [LEADER]220
  Name=迪加娜威達
- Female=1
  Alias=加拿大星域巫女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10401,8 +10529,8 @@
 [/LEADER]
 [LEADER]221
  Name=庫蕾西婭
- Female=1
  Alias=第三帝國宣傳相
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10426,8 +10554,8 @@
 [/LEADER]
 [LEADER]222
  Name=莉迪亞
- Female=1
  Alias=人類統一組織提督
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10451,8 +10579,8 @@
 [/LEADER]
 [LEADER]223
  Name=凱蘿爾
- Female=1
  Alias=基林古財閥千金
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10476,8 +10604,8 @@
 [/LEADER]
 [LEADER]224
  Name=塞拉
- Female=1
  Alias=艾伊利斯帝國女王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10501,8 +10629,8 @@
 [/LEADER]
 [LEADER]225
  Name=雷蒂亞
- Female=1
  Alias=宇宙第一天才
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10526,8 +10654,8 @@
 [/LEADER]
 [LEADER]226
  Name=瑪麗
- Female=1
  Alias=英國王妹
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10551,8 +10679,8 @@
 [/LEADER]
 [LEADER]227
  Name=福原泉
- Female=1
  Alias=日本海軍之大和撫子
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10576,8 +10704,8 @@
 [/LEADER]
 [LEADER]228
  Name=穆奇莉妮
- Female=1
  Alias=意呆共和帝國統帥
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10601,8 +10729,8 @@
 [/LEADER]
 [LEADER]229
  Name=羅莎
- Female=1
  Alias=西班牙領主之妻
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10650,8 +10778,8 @@
 [/LEADER]
 [LEADER]231
  Name=天樓久那妓
- Female=1
  Alias=鬼姬
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10675,8 +10803,8 @@
 [/LEADER]
 [LEADER]232
  Name=莉莉安娜
- Female=1
  Alias=大海賊
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10700,8 +10828,8 @@
 [/LEADER]
 [LEADER]233
  Name=久慈川理世
- Female=1
  Alias=高中生偶像
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10725,8 +10853,8 @@
 [/LEADER]
 [LEADER]234
  Name=天城雪子
- Female=1
  Alias=高級旅館的獨生女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10750,8 +10878,8 @@
 [/LEADER]
 [LEADER]235
  Name=里中千枝
- Female=1
  Alias=鈴鹿權現
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10775,8 +10903,8 @@
 [/LEADER]
 [LEADER]236
  Name=鳴上悠
- Female=1
  Alias=伊邪那岐大神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10800,8 +10928,8 @@
 [/LEADER]
 [LEADER]237
  Name=日枝田史緒
- Female=1
  Alias=作為神人媒介的巫女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10825,8 +10953,8 @@
 [/LEADER]
 [LEADER]238
  Name=古屋敷由良
- Female=1
  Alias=任性自私不合群的大小姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10850,8 +10978,8 @@
 [/LEADER]
 [LEADER]239
  Name=曲林靜樹
- Female=1
  Alias=喜歡惡作劇的天真小惡魔
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10875,8 +11003,8 @@
 [/LEADER]
 [LEADER]240
  Name=妲麗安
- Female=1
  Alias=黑之讀姬
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10908,8 +11036,8 @@
 [/LEADER]
 [LEADER]241
  Name=西爾維婭
- Female=1
  Alias=守護騎士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10933,8 +11061,8 @@
 [/LEADER]
 [LEADER]242
  Name=夏爾洛特
- Female=1
  Alias=黑澤爾林克公國第一公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10958,8 +11086,8 @@
 [/LEADER]
 [LEADER]243
  Name=藤倉優
- Female=1
  Alias=女僕公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -10983,8 +11111,8 @@
 [/LEADER]
 [LEADER]244
  Name=八九寺真宵
- Female=1
  Alias=真宵蝸牛
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11008,8 +11136,8 @@
 [/LEADER]
 [LEADER]245
  Name=千石撫子
- Female=1
  Alias=撫子蛇
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11033,8 +11161,8 @@
 [/LEADER]
 [LEADER]246
  Name=羽川翼
- Female=1
  Alias=翼貓
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11058,8 +11186,8 @@
 [/LEADER]
 [LEADER]247
  Name=忍野忍
- Female=1
  Alias=怪異之王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11083,8 +11211,8 @@
 [/LEADER]
 [LEADER]248
  Name=神原駿河
- Female=1
  Alias=駿河猴子
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11108,8 +11236,8 @@
 [/LEADER]
 [LEADER]249
  Name=戰場原黑儀
- Female=1
  Alias=黑儀螃蟹
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11133,8 +11261,8 @@
 [/LEADER]
 [LEADER]250
  Name=C.C
- Female=1
  Alias=灰色魔女
+ Female=1
  Status=0
  Power=20
  History=1
@@ -11166,8 +11294,8 @@
 [/LEADER]
 [LEADER]251
  Name=米蕾
- Female=1
  Alias=會長大人
+ Female=1
  Status=0
  Power=20
  History=1
@@ -11198,8 +11326,8 @@
 [/LEADER]
 [LEADER]252
  Name=柯內莉亞
- Female=1
  Alias=第二皇女
+ Female=1
  Status=0
  Power=20
  History=1
@@ -11263,8 +11391,8 @@
 [/LEADER]
 [LEADER]254
  Name=紅月卡蓮
- Female=1
  Alias=忠犬
+ Female=1
  Status=0
  Power=20
  History=1
@@ -11295,8 +11423,8 @@
 [/LEADER]
 [LEADER]255
  Name=娜娜莉
- Female=1
  Alias=魔王魯路修之妹
+ Female=1
  Status=0
  Power=20
  History=1
@@ -11327,8 +11455,8 @@
 [/LEADER]
 [LEADER]256
  Name=阿尼亞
- Female=1
  Alias=第六騎士
+ Female=1
  Status=0
  Power=20
  History=1
@@ -11352,8 +11480,8 @@
 [/LEADER]
 [LEADER]257
  Name=蔣麗華
- Female=1
  Alias=天子
+ Female=1
  Status=0
  Power=20
  History=1
@@ -11385,8 +11513,8 @@
 [/LEADER]
 [LEADER]258
  Name=天江衣
- Female=1
  Alias=滿月之衣
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11434,8 +11562,8 @@
 [/LEADER]
 [LEADER]260
  Name=池田華菜
- Female=1
  Alias=風越女子大將
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11459,8 +11587,8 @@
 [/LEADER]
 [LEADER]261
  Name=竹井久
- Female=1
  Alias=學生議會會長兼麻將部部長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11484,8 +11612,8 @@
 [/LEADER]
 [LEADER]262
  Name=東橫桃子
- Female=1
  Alias=存在感薄弱近乎於零
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11509,8 +11637,8 @@
 [/LEADER]
 [LEADER]263
  Name=染谷真子
- Female=1
  Alias=麻將部預備主將
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11534,8 +11662,8 @@
 [/LEADER]
 [LEADER]264
  Name=原村和
- Female=1
  Alias=完全不依靠運氣的理論實力派
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11559,8 +11687,8 @@
 [/LEADER]
 [LEADER]265
  Name=宮永咲
- Female=1
  Alias=清純的白色惡魔
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11584,8 +11712,8 @@
 [/LEADER]
 [LEADER]266
  Name=國廣一
- Female=1
  Alias=透華的專屬的女僕
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11609,8 +11737,8 @@
 [/LEADER]
 [LEADER]267
  Name=福路美穗子
- Female=1
  Alias=風越女子高中麻將社社長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11634,8 +11762,8 @@
 [/LEADER]
 [LEADER]268
  Name=五月田根美香子
- Female=1
  Alias=會長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11659,8 +11787,8 @@
 [/LEADER]
 [LEADER]269
  Name=卡奧斯
- Female=1
  Alias=第2世代人造天使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11684,8 +11812,8 @@
 [/LEADER]
 [LEADER]270
  Name=伊卡洛斯
- Female=1
  Alias=空之女王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11740,8 +11868,8 @@
 [/LEADER]
 [LEADER]272
  Name=妮姆芙
- Female=1
  Alias=人造天使β「Nymph」
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11765,8 +11893,8 @@
 [/LEADER]
 [LEADER]273
  Name=阿斯特蕾亞
- Female=1
  Alias=笨蛋天使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11814,8 +11942,8 @@
 [/LEADER]
 [LEADER]275
  Name=山吹涉
- Female=1
  Alias=紅茶狂與情報通
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11863,8 +11991,8 @@
 [/LEADER]
 [LEADER]277
  Name=木賊朋花
- Female=1
  Alias=超元氣同學
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11888,8 +12016,8 @@
 [/LEADER]
 [LEADER]278
  Name=卯花之佐久夜姬
- Female=1
  Alias=真日羽市土地神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11913,8 +12041,8 @@
 [/LEADER]
 [LEADER]279
  Name=常盤真尋
- Female=1
  Alias=水薙學園學生會長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11962,8 +12090,8 @@
 [/LEADER]
 [LEADER]281
  Name=龍膽琉璃
- Female=1
  Alias=追隨神而到來的狐耳少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -11987,8 +12115,8 @@
 [/LEADER]
 [LEADER]282
  Name=七七原薰子
- Female=1
  Alias=運動全能的女強人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12036,8 +12164,8 @@
 [/LEADER]
 [LEADER]284
  Name=宮小路瑞穗
- Female=1
  Alias=ELDER SISTER
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12061,8 +12189,8 @@
 [/LEADER]
 [LEADER]285
  Name=神近香織理
- Female=1
  Alias=擁有大人氛圍的神秘少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12086,8 +12214,8 @@
 [/LEADER]
 [LEADER]286
  Name=高島一子
- Female=1
  Alias=幽靈少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12111,8 +12239,8 @@
 [/LEADER]
 [LEADER]287
  Name=御門麻里亞
- Female=1
  Alias=自由奔放的大小姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12136,8 +12264,8 @@
 [/LEADER]
 [LEADER]288
  Name=嚴島貴子
- Female=1
  Alias=姐姐會長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12168,8 +12296,8 @@
 [/LEADER]
 [LEADER]289
  Name=凱利
- Female=1
  Alias=星之公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12193,8 +12321,8 @@
 [/LEADER]
 [LEADER]290
  Name=上岡由佳里
- Female=1
  Alias=活潑怕鬼的宿舍下級生
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12218,8 +12346,8 @@
 [/LEADER]
 [LEADER]291
  Name=石動塞
- Female=1
  Alias=相當難懂的科學部部長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12243,8 +12371,8 @@
 [/LEADER]
 [LEADER]292
  Name=行雅樂乃
- Female=1
  Alias=花道部部長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12268,8 +12396,8 @@
 [/LEADER]
 [LEADER]293
  Name=冷泉淡雪
- Female=1
  Alias=花道部部員
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12293,8 +12421,8 @@
 [/LEADER]
 [LEADER]294
  Name=度會史
- Female=1
  Alias=祖奶奶
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12318,8 +12446,8 @@
 [/LEADER]
 [LEADER]295
  Name=柏木優雨
- Female=1
  Alias=雨女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12343,8 +12471,8 @@
 [/LEADER]
 [LEADER]296
  Name=皆瀨初音
- Female=1
  Alias=學生會會長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12392,8 +12520,8 @@
 [/LEADER]
 [LEADER]298
  Name=宮藤陽向
- Female=1
  Alias=學習能力跟不上夢想的熱血系
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12417,8 +12545,8 @@
 [/LEADER]
 [LEADER]299
  Name=真行寺茉清
- Female=1
  Alias=茉清王子殿下
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12442,8 +12570,8 @@
 [/LEADER]
 [LEADER]300
  Name=鳥橘沙世子
- Female=1
  Alias=手段老練的策略家
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12467,8 +12595,8 @@
 [/LEADER]
 [LEADER]301
  Name=蒔田聖
- Female=1
  Alias=前臺小姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12492,8 +12620,8 @@
 [/LEADER]
 [LEADER]302
  Name=艾庫蕾雅
- Female=1
  Alias=姬將軍
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12517,8 +12645,8 @@
 [/LEADER]
 [LEADER]303
  Name=法米西爾絲
- Female=1
  Alias=飛天魔族大將軍
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12542,8 +12670,8 @@
 [/LEADER]
 [LEADER]304
  Name=希拉
- Female=1
  Alias=李維王直屬機械化軍團將領
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12567,8 +12695,8 @@
 [/LEADER]
 [LEADER]305
  Name=希爾菲婭
- Female=1
  Alias=聖騎士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12592,8 +12720,8 @@
 [/LEADER]
 [LEADER]306
  Name=蒂法娜
- Female=1
  Alias=米雷提亞保護領領主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12617,8 +12745,8 @@
 [/LEADER]
 [LEADER]307
  Name=水上麻衣
- Female=1
  Alias=沉默的優等生眼鏡娘
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12642,8 +12770,8 @@
 [/LEADER]
 [LEADER]308
  Name=東雲名乃
- Female=1
  Alias=女高中生機器人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12778,8 +12906,8 @@
 [/LEADER]
 [LEADER]313
  Name=白琳
- Female=1
  Alias=小白貓
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12803,8 +12931,8 @@
 [/LEADER]
 [LEADER]314
  Name=希耶爾
- Female=1
  Alias=黑鍵使手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12852,8 +12980,8 @@
 [/LEADER]
 [LEADER]316
  Name=琳
- Female=1
  Alias=月貓
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12877,8 +13005,8 @@
 [/LEADER]
 [LEADER]317
  Name=紫菀
- Female=1
  Alias=死徒二十七祖候補
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12902,8 +13030,8 @@
 [/LEADER]
 [LEADER]318
  Name=愛爾奎特
- Female=1
  Alias=吸血鬼真祖
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12966,8 +13094,8 @@
 [/LEADER]
 [LEADER]320
  Name=蒼崎青子
- Female=1
  Alias=MISS BLUE
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -12991,8 +13119,8 @@
 [/LEADER]
 [LEADER]321
  Name=遠野秋葉
- Female=1
  Alias=史上最大A cup
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13024,8 +13152,8 @@
 [/LEADER]
 [LEADER]322
  Name=水無燈里
- Female=1
  Alias=水星領航員
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13057,8 +13185,8 @@
 [/LEADER]
 [LEADER]323
  Name=艾麗西亞
- Female=1
  Alias=白色妖精
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13082,8 +13210,8 @@
 [/LEADER]
 [LEADER]324
  Name=阿莉絲
- Female=1
  Alias=黃昏之姬
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13107,8 +13235,8 @@
 [/LEADER]
 [LEADER]325
  Name=雅典娜
- Female=1
  Alias=天上的歌聲
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13132,8 +13260,8 @@
 [/LEADER]
 [LEADER]326
  Name=藍華
- Female=1
  Alias=薔薇之女王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13188,8 +13316,8 @@
 [/LEADER]
 [LEADER]328
  Name=古手川唯
- Female=1
  Alias=不知羞恥
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13220,8 +13348,8 @@
 [/LEADER]
 [LEADER]329
  Name=西連寺春菜
- Female=1
  Alias=童顏巨乳
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13252,8 +13380,8 @@
 [/LEADER]
 [LEADER]330
  Name=金色暗影
- Female=1
  Alias=小闇
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13277,8 +13405,8 @@
 [/LEADER]
 [LEADER]331
  Name=娜娜
- Female=1
  Alias=動物使手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13302,8 +13430,8 @@
 [/LEADER]
 [LEADER]332
  Name=結城美柑
- Female=1
  Alias=妹妹
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13334,8 +13462,8 @@
 [/LEADER]
 [LEADER]333
  Name=菈菈
- Female=1
  Alias=發明公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13367,8 +13495,8 @@
 [/LEADER]
 [LEADER]334
  Name=夢夢
- Female=1
  Alias=第三公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13400,8 +13528,8 @@
 [/LEADER]
 [LEADER]335
  Name=中川嘉音
- Female=1
  Alias=現役新人偶像
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13425,8 +13553,8 @@
 [/LEADER]
 [LEADER]336
  Name=桂木桂子
- Female=1
  Alias=攻略之神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13450,8 +13578,8 @@
 [/LEADER]
 [LEADER]337
  Name=白婭
- Female=1
  Alias=驅魂隊討伐隊隊長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13475,8 +13603,8 @@
 [/LEADER]
 [LEADER]338
  Name=米露希奧蕾
- Female=1
  Alias=公主大人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13500,8 +13628,8 @@
 [/LEADER]
 [LEADER]339
  Name=艾露西
- Female=1
  Alias=三等公務魔
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13525,8 +13653,8 @@
 [/LEADER]
 [LEADER]340
  Name=青山美生
- Female=1
  Alias=青山中央產業千金
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13550,8 +13678,8 @@
 [/LEADER]
 [LEADER]341
  Name=高原步美
- Female=1
  Alias=舞高的非誘導陸上飛彈
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13575,8 +13703,8 @@
 [/LEADER]
 [LEADER]342
  Name=古川唯
- Female=1
  Alias=古川結
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13600,8 +13728,8 @@
 [/LEADER]
 [LEADER]343
  Name=我妻由乃
- Female=1
  Alias=一周目之神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13633,8 +13761,8 @@
 [/LEADER]
 [LEADER]344
  Name=尤米爾
- Female=1
  Alias=謎之少女尤米爾
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13658,8 +13786,8 @@
 [/LEADER]
 [LEADER]345
  Name=瓦爾基里
- Female=1
  Alias=女神瓦爾基里
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13683,8 +13811,8 @@
 [/LEADER]
 [LEADER]346
  Name=托爾
- Female=1
  Alias=假小子偶像托爾
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13708,8 +13836,8 @@
 [/LEADER]
 [LEADER]347
  Name=貝爾瑟法
- Female=1
  Alias=Bell
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13733,8 +13861,8 @@
 [/LEADER]
 [LEADER]348
  Name=芬里爾
- Female=1
  Alias=打心底喜歡束縛的家犬
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13782,8 +13910,8 @@
 [/LEADER]
 [LEADER]350
  Name=斯露德
- Female=1
  Alias=只知道努力的堅強惡魔
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13807,8 +13935,8 @@
 [/LEADER]
 [LEADER]351
  Name=奧丁
- Female=1
  Alias=神王奧丁
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13832,8 +13960,8 @@
 [/LEADER]
 [LEADER]352
  Name=赫爾
- Female=1
  Alias=舊地獄之主赫爾
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13857,8 +13985,8 @@
 [/LEADER]
 [LEADER]353
  Name=森川由崎
- Female=1
  Alias=稀有的「音響」
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13882,8 +14010,8 @@
 [/LEADER]
 [LEADER]354
  Name=緒方理奈
- Female=1
  Alias=才華橫溢的實力派歌手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13907,8 +14035,8 @@
 [/LEADER]
 [LEADER]355
  Name=庫茵
- Female=1
  Alias=機甲海賊的秘密兵器
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13932,8 +14060,8 @@
 [/LEADER]
 [LEADER]356
  Name=梅露蒂
- Female=1
  Alias=冰山魔女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13957,8 +14085,8 @@
 [/LEADER]
 [LEADER]357
  Name=瑪奇希瑪
- Female=1
  Alias=指引人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -13982,8 +14110,8 @@
 [/LEADER]
 [LEADER]358
  Name=蜜絲托拉
- Female=1
  Alias=海之魔女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14007,8 +14135,8 @@
 [/LEADER]
 [LEADER]359
  Name=輝夜
- Female=1
  Alias=被風暴沖上沙灘的失憶少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14032,8 +14160,8 @@
 [/LEADER]
 [LEADER]360
  Name=羅娜
- Female=1
  Alias=露菲娜王女的侍女、侍衛
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14057,8 +14185,8 @@
 [/LEADER]
 [LEADER]361
  Name=露菲娜
- Female=1
  Alias=紅茶王女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14082,8 +14210,8 @@
 [/LEADER]
 [LEADER]362
  Name=艾雅莉
- Female=1
  Alias=破船修道女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14107,8 +14235,8 @@
 [/LEADER]
 [LEADER]363
  Name=亞蜜兒
- Female=1
  Alias=麵包房的魔法使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14156,8 +14284,8 @@
 [/LEADER]
 [LEADER]365
  Name=史朵巾
- Female=1
  Alias=極度喜歡甜食的天使妹妹
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14181,8 +14309,8 @@
 [/LEADER]
 [LEADER]366
  Name=潘迪
- Female=1
  Alias=喜歡享受性愛的天使姊姊
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14230,8 +14358,8 @@
 [/LEADER]
 [LEADER]368
  Name=天草筱
- Female=1
  Alias=妄想會長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14255,8 +14383,8 @@
 [/LEADER]
 [LEADER]369
  Name=九崎凜子
- Female=1
  Alias=形象女孩性格男孩的活潑女孩
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14280,8 +14408,8 @@
 [/LEADER]
 [LEADER]370
  Name=神宮寺玖惠澄
- Female=1
  Alias=十二家系最末位
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14305,8 +14433,8 @@
 [/LEADER]
 [LEADER]371
  Name=莉茲
- Female=1
  Alias=付喪神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14330,8 +14458,8 @@
 [/LEADER]
 [LEADER]372
  Name=野井原緋鞠
- Female=1
  Alias=野原的緋劍
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14362,8 +14490,8 @@
 [/LEADER]
 [LEADER]373
  Name=靜水久
- Female=1
  Alias=水系少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14387,8 +14515,8 @@
 [/LEADER]
 [LEADER]374
  Name=希格洛姆
- Female=1
  Alias=神劍騎士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14420,8 +14548,8 @@
 [/LEADER]
 [LEADER]375
  Name=大江朱
- Female=1
  Alias=酒吞童子
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14445,8 +14573,8 @@
 [/LEADER]
 [LEADER]376
  Name=平將門
- Female=1
  Alias=慈愛與怨恨――成為鈴鹿的姬君
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14470,8 +14598,8 @@
 [/LEADER]
 [LEADER]377
  Name=宇治之橋姬
- Female=1
  Alias=把我的手腕……還來！！
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14495,8 +14623,8 @@
 [/LEADER]
 [LEADER]378
  Name=安倍晴明
- Female=1
  Alias=天才最強陰陽師
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14544,8 +14672,8 @@
 [/LEADER]
 [LEADER]380
  Name=東漢直駒
- Female=1
  Alias=黑衣、隱藏黑夜之者
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14569,8 +14697,8 @@
 [/LEADER]
 [LEADER]381
  Name=鬼一法眼
- Female=1
  Alias=那女人、在野最強
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14618,8 +14746,8 @@
 [/LEADER]
 [LEADER]383
  Name=智德法師
- Female=1
  Alias=奔馳紅色式機甲、違法的美人陰陽師
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14643,8 +14771,8 @@
 [/LEADER]
 [LEADER]384
  Name=菅原道真
- Female=1
  Alias=聚集在首塚亡靈們的悶騷鬼才
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14668,8 +14796,8 @@
 [/LEADER]
 [LEADER]385
  Name=賀茂光榮
- Female=1
  Alias=身為賀茂的長女、愛照顧人的委員長角色
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14693,8 +14821,8 @@
 [/LEADER]
 [LEADER]386
  Name=源賴光
- Female=1
  Alias=劍之道一直線！認真而率直的中性武士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14718,8 +14846,8 @@
 [/LEADER]
 [LEADER]387
  Name=葛之葉
- Female=1
  Alias=那隻白狐、身分不明――
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14743,8 +14871,8 @@
 [/LEADER]
 [LEADER]388
  Name=鈴彥姬
- Female=1
  Alias=鈴噹的聲音、噹噹噹
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14768,8 +14896,8 @@
 [/LEADER]
 [LEADER]389
  Name=播磨滿子
- Female=1
  Alias=史上最弱之陰陽師
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14793,8 +14921,8 @@
 [/LEADER]
 [LEADER]390
  Name=瀧夜叉姬
- Female=1
  Alias=路見不平的正義妖術使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14818,8 +14946,8 @@
 [/LEADER]
 [LEADER]391
  Name=藤原道長
- Female=1
  Alias=京城的代表，倍受愛戴的慈愛少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14843,8 +14971,8 @@
 [/LEADER]
 [LEADER]392
  Name=藤原顯光
- Female=1
  Alias=武力與智力反比例實體化的笨蛋
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14868,8 +14996,8 @@
 [/LEADER]
 [LEADER]393
  Name=蘇我入鹿
- Female=1
  Alias=影的中心人物
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14893,8 +15021,8 @@
 [/LEADER]
 [LEADER]394
  Name=魔蕾
- Female=1
  Alias=鬼神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14942,8 +15070,8 @@
 [/LEADER]
 [LEADER]396
  Name=千葉紀梨乃
- Female=1
  Alias=劍道社社長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14967,8 +15095,8 @@
 [/LEADER]
 [LEADER]397
  Name=川添珠姬
- Female=1
  Alias=小珠
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -14992,8 +15120,8 @@
 [/LEADER]
 [LEADER]398
  Name=東聰莉
- Female=1
  Alias=劍道笨蛋
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15017,8 +15145,8 @@
 [/LEADER]
 [LEADER]399
  Name=宮崎都
- Female=1
  Alias=小都
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15042,8 +15170,8 @@
 [/LEADER]
 [LEADER]400
  Name=桑原鞘子
- Female=1
  Alias=劍道傻大姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15067,8 +15195,8 @@
 [/LEADER]
 [LEADER]401
  Name=塞西莉亞
- Female=1
  Alias=聖典教團聖騎軍隊長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15092,8 +15220,8 @@
 [/LEADER]
 [LEADER]402
  Name=米娜
- Female=1
  Alias=吸血鬼女王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15117,8 +15245,8 @@
 [/LEADER]
 [LEADER]403
  Name=及川冰麗
- Female=1
  Alias=雪女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15149,8 +15277,8 @@
 [/LEADER]
 [LEADER]404
  Name=羽衣狐
- Female=1
  Alias=京都大妖怪
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15182,8 +15310,8 @@
 [/LEADER]
 [LEADER]405
  Name=花開院由羅
- Female=1
  Alias=花開院28代當主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15207,8 +15335,8 @@
 [/LEADER]
 [LEADER]406
  Name=家長可奈
- Female=1
  Alias=校花
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15264,8 +15392,8 @@
 [/LEADER]
 [LEADER]408
  Name=五更琉璃
- Female=1
  Alias=黑貓
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15297,8 +15425,8 @@
 [/LEADER]
 [LEADER]409
  Name=田村麻奈實
- Female=1
  Alias=青梅竹馬
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15322,8 +15450,8 @@
 [/LEADER]
 [LEADER]410
  Name=三日月夜空
- Female=1
  Alias=朋友是空氣
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15355,8 +15483,8 @@
 [/LEADER]
 [LEADER]411
  Name=羽瀨川小鳩
- Female=1
  Alias=中二妹妹
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15380,8 +15508,8 @@
 [/LEADER]
 [LEADER]412
  Name=志熊理科
- Female=1
  Alias=變態腐女科學家
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15412,8 +15540,8 @@
 [/LEADER]
 [LEADER]413
  Name=柏崎星奈
- Female=1
  Alias=肉
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15445,8 +15573,8 @@
 [/LEADER]
 [LEADER]414
  Name=高山瑪麗亞
- Female=1
  Alias=大便修女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15470,8 +15598,8 @@
 [/LEADER]
 [LEADER]415
  Name=楠幸村
- Female=1
  Alias=真假偽娘
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15495,8 +15623,8 @@
 [/LEADER]
 [LEADER]416
  Name=本間芽衣子
- Female=1
  Alias=面碼
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15520,8 +15648,8 @@
 [/LEADER]
 [LEADER]417
  Name=安城鳴子
- Female=1
  Alias=安鳴
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15569,8 +15697,8 @@
 [/LEADER]
 [LEADER]419
  Name=天狐空幻
- Female=1
  Alias=三槌家守護神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15594,8 +15722,8 @@
 [/LEADER]
 [LEADER]420
  Name=沙耶
- Female=1
  Alias=燒肉果凍
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15619,8 +15747,8 @@
 [/LEADER]
 [LEADER]421
  Name=吉田一美
- Female=1
  Alias=波霸星人
+ Female=1
  Status=0
  Power=20
  History=1
@@ -15644,8 +15772,8 @@
 [/LEADER]
 [LEADER]422
  Name=威爾艾米娜
- Female=1
  Alias=萬條巧手
+ Female=1
  Status=0
  Power=20
  History=1
@@ -15669,8 +15797,8 @@
 [/LEADER]
 [LEADER]423
  Name=夏娜
- Female=1
  Alias=炎髮灼眼的殺手
+ Female=1
  Status=0
  Power=20
  History=1
@@ -15694,8 +15822,8 @@
 [/LEADER]
 [LEADER]424
  Name=黑卡蒂
- Female=1
  Alias=「頂之座」紅世魔王
+ Female=1
  Status=0
  Power=20
  History=1
@@ -15719,8 +15847,8 @@
 [/LEADER]
 [LEADER]425
  Name=文學少女
- Female=1
  Alias=安同學
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15751,8 +15879,8 @@
 [/LEADER]
 [LEADER]426
  Name=蘋果醬
- Female=1
  Alias=小蘋果
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15776,8 +15904,8 @@
 [/LEADER]
 [LEADER]427
  Name=莉娜因巴斯
- Female=1
  Alias=天才美少女魔導士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15801,8 +15929,8 @@
 [/LEADER]
 [LEADER]428
  Name=娜可露露
- Female=1
  Alias=守護自然的巫女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15850,8 +15978,8 @@
 [/LEADER]
 [LEADER]430
  Name=花咲茜
- Female=1
  Alias=SSP最大戰力
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15875,8 +16003,8 @@
 [/LEADER]
 [LEADER]431
  Name=芳乃櫻
- Female=1
  Alias=永遠的蘿莉
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15900,8 +16028,8 @@
 [/LEADER]
 [LEADER]432
  Name=小鳥遊真晝
- Female=1
  Alias=幽靈少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15925,8 +16053,8 @@
 [/LEADER]
 [LEADER]433
  Name=月島小戀
- Female=1
  Alias=輕音樂社的貝斯手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15950,8 +16078,8 @@
 [/LEADER]
 [LEADER]434
  Name=白河奈奈佳
- Female=1
  Alias=校園偶像
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -15975,8 +16103,8 @@
 [/LEADER]
 [LEADER]435
  Name=艾麗卡
- Female=1
  Alias=歐洲某國的公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16024,8 +16152,8 @@
 [/LEADER]
 [LEADER]437
  Name=朝倉由夢
- Female=1
  Alias=預知夢少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16049,8 +16177,8 @@
 [/LEADER]
 [LEADER]438
  Name=朝倉音姬
- Female=1
  Alias=正義的魔法使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16098,8 +16226,8 @@
 [/LEADER]
 [LEADER]440
  Name=柊司
- Female=1
  Alias=天然司
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16130,8 +16258,8 @@
 [/LEADER]
 [LEADER]441
  Name=柊鏡
- Female=1
  Alias=鏡大人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16163,8 +16291,8 @@
 [/LEADER]
 [LEADER]442
  Name=泉此方
- Female=1
  Alias=少女身大叔心
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16196,8 +16324,8 @@
 [/LEADER]
 [LEADER]443
  Name=高良美幸
- Female=1
  Alias=美wiki
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16229,8 +16357,8 @@
 [/LEADER]
 [LEADER]444
  Name=枝櫛秋奈
- Female=1
  Alias=完美的學院偶像級女生
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16254,8 +16382,8 @@
 [/LEADER]
 [LEADER]445
  Name=枝櫛夏實
- Female=1
  Alias=帶有天然呆屬性的大姐姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16279,8 +16407,8 @@
 [/LEADER]
 [LEADER]446
  Name=枝櫛真冬
- Female=1
  Alias=典型的外冷內熱型女孩
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16304,8 +16432,8 @@
 [/LEADER]
 [LEADER]447
  Name=姬野原鈴蘭
- Female=1
  Alias=極端無口但又表情豐富的天然呆
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16329,8 +16457,8 @@
 [/LEADER]
 [LEADER]448
  Name=姬
- Female=1
  Alias=怪物王女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16354,8 +16482,8 @@
 [/LEADER]
 [LEADER]449
  Name=二岩貒藏
- Female=1
  Alias=絕無僅有的外來妖怪
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16379,8 +16507,8 @@
 [/LEADER]
 [LEADER]450
  Name=八雲紫
- Female=1
  Alias=紫色大媽
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16412,8 +16540,8 @@
 [/LEADER]
 [LEADER]451
  Name=八雲藍
- Female=1
  Alias=素裸天狐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16445,8 +16573,8 @@
 [/LEADER]
 [LEADER]452
  Name=八意永琳
- Female=1
  Alias=變態藥師
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16478,8 +16606,8 @@
 [/LEADER]
 [LEADER]453
  Name=十六夜咲夜
- Female=1
  Alias=PAD長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16511,8 +16639,8 @@
 [/LEADER]
 [LEADER]454
  Name=上白澤慧音
- Female=1
  Alias=知識與歷史的半獸
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16544,8 +16672,8 @@
 [/LEADER]
 [LEADER]455
  Name=小野塚小町
- Female=1
  Alias=摸魚死神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16569,8 +16697,8 @@
 [/LEADER]
 [LEADER]456
  Name=比那名居天子
- Female=1
  Alias=ドＭ變態
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16602,8 +16730,8 @@
 [/LEADER]
 [LEADER]457
  Name=水橋帕露希
- Female=1
  Alias=我好忌妒啊！！
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16627,8 +16755,8 @@
 [/LEADER]
 [LEADER]458
  Name=火焰貓磷
- Female=1
  Alias=地獄的車禍
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16652,8 +16780,8 @@
 [/LEADER]
 [LEADER]459
  Name=犬走花
- Female=1
  Alias=下位哨戒天狗
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16677,8 +16805,8 @@
 [/LEADER]
 [LEADER]460
  Name=古明地覺
- Female=1
  Alias=連怨靈也為之所懼的少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16709,8 +16837,8 @@
 [/LEADER]
 [LEADER]461
  Name=古明地戀
- Female=1
  Alias=小石頭
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16741,8 +16869,8 @@
 [/LEADER]
 [LEADER]462
  Name=四季映姬
- Female=1
  Alias=說教魔
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16773,8 +16901,8 @@
 [/LEADER]
 [LEADER]463
  Name=永江衣玖
- Female=1
  Alias=美麗的緋之衣
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16806,8 +16934,8 @@
 [/LEADER]
 [LEADER]464
  Name=伊吹萃香
- Female=1
  Alias=西瓜
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16831,8 +16959,8 @@
 [/LEADER]
 [LEADER]465
  Name=因幡帝
- Female=1
  Alias=腹黑兔
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16864,8 +16992,8 @@
 [/LEADER]
 [LEADER]466
  Name=多多良小傘
- Female=1
  Alias=可憐的非法投棄物
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16889,8 +17017,8 @@
 [/LEADER]
 [LEADER]467
  Name=米斯蒂婭
- Female=1
  Alias=小骨噎人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16921,8 +17049,8 @@
 [/LEADER]
 [LEADER]468
  Name=西行寺幽幽子
- Female=1
  Alias=天衣無縫的亡靈
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16954,8 +17082,8 @@
 [/LEADER]
 [LEADER]469
  Name=村紗水蜜
- Female=1
  Alias=水難事故的念縛靈
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -16986,8 +17114,8 @@
 [/LEADER]
 [LEADER]470
  Name=帕秋莉
- Female=1
  Alias=香草
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17019,8 +17147,8 @@
 [/LEADER]
 [LEADER]471
  Name=東風谷早苗
- Female=1
  Alias=腋巫女二號
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17052,8 +17180,8 @@
 [/LEADER]
 [LEADER]472
  Name=河城荷取
- Female=1
  Alias=超妖怪彈頭
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17084,8 +17212,8 @@
 [/LEADER]
 [LEADER]473
  Name=物部布都
- Female=1
  Alias=大祀廟的道士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17109,8 +17237,8 @@
 [/LEADER]
 [LEADER]474
  Name=芙蘭朵露
- Female=1
  Alias=妹樣
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17134,8 +17262,8 @@
 [/LEADER]
 [LEADER]475
  Name=封獸夜
- Female=1
  Alias=正體不明
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17159,8 +17287,8 @@
 [/LEADER]
 [LEADER]476
  Name=幽谷響子
- Female=1
  Alias=誦經的山彥
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17184,8 +17312,8 @@
 [/LEADER]
 [LEADER]477
  Name=星熊勇儀
- Female=1
  Alias=破滅的金剛力
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17209,8 +17337,8 @@
 [/LEADER]
 [LEADER]478
  Name=洩矢諏訪子
- Female=1
  Alias=帽子才是本體
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17242,8 +17370,8 @@
 [/LEADER]
 [LEADER]479
  Name=秋靜葉
- Female=1
  Alias=寂寥與終焉的象徵
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17267,8 +17395,8 @@
 [/LEADER]
 [LEADER]480
  Name=秋穰子
- Female=1
  Alias=豐穰與收成的象徵
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17292,8 +17420,8 @@
 [/LEADER]
 [LEADER]481
  Name=紅美玲
- Female=1
  Alias=中國
+ Female=1
  Status=0
  Power=20
  History=1
@@ -17325,8 +17453,8 @@
 [/LEADER]
 [LEADER]482
  Name=風見幽香
- Female=1
  Alias=幻想鄉最S幽香大人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17358,8 +17486,8 @@
 [/LEADER]
 [LEADER]483
  Name=姬海棠羽立
- Female=1
  Alias=菜鳥對抗記者
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17391,8 +17519,8 @@
 [/LEADER]
 [LEADER]484
  Name=娜茲琳
- Female=1
  Alias=探脈器的小小大將
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17423,8 +17551,8 @@
 [/LEADER]
 [LEADER]485
  Name=宮古芳香
- Female=1
  Alias=忠誠的屍體
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17455,8 +17583,8 @@
 [/LEADER]
 [LEADER]486
  Name=射命丸文
- Female=1
  Alias=清新！正直！射命丸！
+ Female=1
  Status=0
  Power=20
  History=1
@@ -17488,8 +17616,8 @@
 [/LEADER]
 [LEADER]487
  Name=桑妮蜜兒可
- Female=1
  Alias=路人甲
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17513,8 +17641,8 @@
 [/LEADER]
 [LEADER]488
  Name=茨木華扇
- Female=1
  Alias=愛說教的仙人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17538,8 +17666,8 @@
 [/LEADER]
 [LEADER]489
  Name=寅丸星
- Female=1
  Alias=天然呆虎娘
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17571,8 +17699,8 @@
 [/LEADER]
 [LEADER]490
  Name=梅蒂森
- Female=1
  Alias=小小的甜蜜毒藥
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17596,8 +17724,8 @@
 [/LEADER]
 [LEADER]491
  Name=梅露蘭
- Female=1
  Alias=騷靈喇叭手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17621,8 +17749,8 @@
 [/LEADER]
 [LEADER]492
  Name=莉格露
- Female=1
  Alias=偽正太蟲子
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17646,8 +17774,8 @@
 [/LEADER]
 [LEADER]493
  Name=莉莉卡
- Female=1
  Alias=騷靈鍵盤敲擊手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17671,8 +17799,8 @@
 [/LEADER]
 [LEADER]494
  Name=莉莉白
- Female=1
  Alias=滿腦子都是春
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17696,8 +17824,8 @@
 [/LEADER]
 [LEADER]495
  Name=博麗靈夢
- Female=1
  Alias=貧窮巫女
+ Female=1
  Status=0
  Power=20
  History=1
@@ -17729,8 +17857,8 @@
 [/LEADER]
 [LEADER]496
  Name=琪斯美
- Female=1
  Alias=ZUN桶
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17754,8 +17882,8 @@
 [/LEADER]
 [LEADER]497
  Name=琪露諾
- Female=1
  Alias=⑨
+ Female=1
  Status=0
  Power=20
  History=1
@@ -17779,8 +17907,8 @@
 [/LEADER]
 [LEADER]498
  Name=絲妲莎菲雅
- Female=1
  Alias=路人丙
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17804,8 +17932,8 @@
 [/LEADER]
 [LEADER]499
  Name=雲居一輪
- Female=1
  Alias=守護被守護的巨輪
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17829,8 +17957,8 @@
 [/LEADER]
 [LEADER]500
  Name=黑谷山女
- Female=1
  Alias=黑暗洞窟的明亮之網
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17854,8 +17982,8 @@
 [/LEADER]
 [LEADER]501
  Name=聖白蓮
- Female=1
  Alias=南無三！
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17887,8 +18015,8 @@
 [/LEADER]
 [LEADER]502
  Name=鈴仙
- Female=1
  Alias=東方第一總受
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17912,8 +18040,8 @@
 [/LEADER]
 [LEADER]503
  Name=雷蒂
- Female=1
  Alias=冬天的遺忘之物
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17937,8 +18065,8 @@
 [/LEADER]
 [LEADER]504
  Name=魂魄妖夢
- Female=1
  Alias=Yoooo夢
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -17970,8 +18098,8 @@
 [/LEADER]
 [LEADER]505
  Name=蓬萊山輝夜
- Female=1
  Alias=尼特姬
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18003,8 +18131,8 @@
 [/LEADER]
 [LEADER]506
  Name=霍青娥
- Female=1
  Alias=穿牆邪仙
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18036,8 +18164,8 @@
 [/LEADER]
 [LEADER]507
  Name=蕾米莉亞
- Female=1
  Alias=永遠的紅色幼月
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18061,8 +18189,8 @@
 [/LEADER]
 [LEADER]508
  Name=鍵山雛
- Female=1
  Alias=秘神流雛
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18086,8 +18214,8 @@
 [/LEADER]
 [LEADER]509
  Name=豐聰耳神子
- Female=1
  Alias=聖德道士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18119,8 +18247,8 @@
 [/LEADER]
 [LEADER]510
  Name=藤原妹紅
- Female=1
  Alias=妹紅炭
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18152,8 +18280,8 @@
 [/LEADER]
 [LEADER]511
  Name=霧雨魔理沙
- Female=1
  Alias=小偷女巫
+ Female=1
  Status=0
  Power=20
  History=1
@@ -18185,8 +18313,8 @@
 [/LEADER]
 [LEADER]512
  Name=蘇我屠自古
- Female=1
  Alias=神祇末裔的亡靈
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18210,8 +18338,8 @@
 [/LEADER]
 [LEADER]513
  Name=露米亞
- Female=1
  Alias=宵闇的妖怪
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18235,8 +18363,8 @@
 [/LEADER]
 [LEADER]514
  Name=露娜柴爾德
- Female=1
  Alias=路人乙
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18260,8 +18388,8 @@
 [/LEADER]
 [LEADER]515
  Name=露娜薩
- Female=1
  Alias=騷靈提琴手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18285,8 +18413,8 @@
 [/LEADER]
 [LEADER]516
  Name=三千院凪
- Female=1
  Alias=阿空
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18382,8 +18510,8 @@
 [/LEADER]
 [LEADER]520
  Name=桃枝繪留留
- Female=1
  Alias=少女偶像
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18527,8 +18655,8 @@
 [/LEADER]
 [LEADER]526
  Name=慶光院雪姬
- Female=1
  Alias=你還未夠水準
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18576,8 +18704,8 @@
 [/LEADER]
 [LEADER]528
  Name=和宮梨旺
- Female=1
  Alias=第1121小隊喇叭手兼通信士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18601,8 +18729,8 @@
 [/LEADER]
 [LEADER]529
  Name=空深彼方
- Female=1
  Alias=第1121小隊新人喇叭手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18626,8 +18754,8 @@
 [/LEADER]
 [LEADER]530
  Name=菲利希亞
- Female=1
  Alias=第1121小隊戰車長兼指揮官
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18651,8 +18779,8 @@
 [/LEADER]
 [LEADER]531
  Name=墨野谷暮羽
- Female=1
  Alias=第1121小隊醫護兵
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18676,8 +18804,8 @@
 [/LEADER]
 [LEADER]532
  Name=兩儀式
- Female=1
  Alias=只要是活著，即使是神也殺給你看！
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18709,8 +18837,8 @@
 [/LEADER]
 [LEADER]533
  Name=淺上藤乃
- Female=1
  Alias=接觸死亡而愉悅的存在不適者
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18758,8 +18886,8 @@
 [/LEADER]
 [LEADER]535
  Name=蒼崎柳丁
- Female=1
  Alias=蒼崎橙子
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18783,8 +18911,8 @@
 [/LEADER]
 [LEADER]536
  Name=沙倉楓
- Female=1
  Alias=百合後宮傳
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18808,8 +18936,8 @@
 [/LEADER]
 [LEADER]537
  Name=近堂水琴
- Female=1
  Alias=天才級別的開鎖達人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18833,8 +18961,8 @@
 [/LEADER]
 [LEADER]538
  Name=美島紅音
- Female=1
  Alias=圖書委員
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18858,8 +18986,8 @@
 [/LEADER]
 [LEADER]539
  Name=瀨能名津流
- Female=1
  Alias=星鐵三大美女之一
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18883,8 +19011,8 @@
 [/LEADER]
 [LEADER]540
  Name=艾玻娜
- Female=1
  Alias=無奸不商
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18908,8 +19036,8 @@
 [/LEADER]
 [LEADER]541
  Name=艾露敏
- Female=1
  Alias=家政小妖精
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18933,8 +19061,8 @@
 [/LEADER]
 [LEADER]542
  Name=拉斯提
- Female=1
  Alias=細心的礦山妖精
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18958,8 +19086,8 @@
 [/LEADER]
 [LEADER]543
  Name=莉安儂
- Female=1
  Alias=魔王的巫女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -18990,8 +19118,8 @@
 [/LEADER]
 [LEADER]544
  Name=莉姆麗絲
- Female=1
  Alias=家政妖精
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19015,8 +19143,8 @@
 [/LEADER]
 [LEADER]545
  Name=莫爾嘉
- Female=1
  Alias=蓋爾最強巾幗、野性十足的弓箭手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19040,8 +19168,8 @@
 [/LEADER]
 [LEADER]546
  Name=奧塔維亞
- Female=1
  Alias=家道中落的女劍客
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19065,8 +19193,8 @@
 [/LEADER]
 [LEADER]547
  Name=蘇伊露
- Female=1
  Alias=悲觀的海豹妖精
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19090,8 +19218,8 @@
 [/LEADER]
 [LEADER]548
  Name=和倉結名
- Female=1
  Alias=結名公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19115,8 +19243,8 @@
 [/LEADER]
 [LEADER]549
  Name=押水菜子
- Female=1
  Alias=小菜子
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19140,8 +19268,8 @@
 [/LEADER]
 [LEADER]550
  Name=松前緒花
- Female=1
  Alias=Bonboru
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19173,8 +19301,8 @@
 [/LEADER]
 [LEADER]551
  Name=鶴來民子
- Female=1
  Alias=民子公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19310,8 +19438,8 @@
 [/LEADER]
 [LEADER]556
  Name=著莪菖浦
- Female=1
  Alias=湖之麗人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19335,8 +19463,8 @@
 [/LEADER]
 [LEADER]557
  Name=槍水仙
- Female=1
  Alias=寒冰魔女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19408,8 +19536,8 @@
 [/LEADER]
 [LEADER]560
  Name=南千秋
- Female=1
  Alias=毒舌女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19433,8 +19561,8 @@
 [/LEADER]
 [LEADER]561
  Name=南冬馬
- Female=1
  Alias=南家四女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19458,8 +19586,8 @@
 [/LEADER]
 [LEADER]562
  Name=南春香
- Female=1
  Alias=南家大姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19483,8 +19611,8 @@
 [/LEADER]
 [LEADER]563
  Name=南夏奈
- Female=1
  Alias=日本笨蛋代表兼天然的謀略家
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19508,8 +19636,8 @@
 [/LEADER]
 [LEADER]564
  Name=內田優加
- Female=1
  Alias=笨蛋50%的小姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19533,8 +19661,8 @@
 [/LEADER]
 [LEADER]565
  Name=西園寺蕾米
- Female=1
  Alias=西園寺家的弓道千金
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19582,8 +19710,8 @@
 [/LEADER]
 [LEADER]567
  Name=繆利亞
- Female=1
  Alias=非開發行星調查員
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19607,8 +19735,8 @@
 [/LEADER]
 [LEADER]568
  Name=明石澤魅流
- Female=1
  Alias=迷惘的話就先試試！
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19632,8 +19760,8 @@
 [/LEADER]
 [LEADER]569
  Name=橘皋月
- Female=1
  Alias=要做哥哥的新娘！
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19657,8 +19785,8 @@
 [/LEADER]
 [LEADER]570
  Name=藤崎天音
- Female=1
  Alias=幼齒大姐頭
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19682,8 +19810,8 @@
 [/LEADER]
 [LEADER]571
  Name=泉空
- Female=1
  Alias=十二星座完全醒覺的候補生
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19731,8 +19859,8 @@
 [/LEADER]
 [LEADER]573
  Name=狩野獅子座
- Female=1
  Alias=最強的武力「雙壁」獅子座
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19780,8 +19908,8 @@
 [/LEADER]
 [LEADER]575
  Name=中津川初
- Female=1
  Alias=吃貨新娘
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19829,8 +19957,8 @@
 [/LEADER]
 [LEADER]577
  Name=神本圓佳
- Female=1
  Alias=神社主祭之女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19854,8 +19982,8 @@
 [/LEADER]
 [LEADER]578
  Name=酒井陽菜
- Female=1
  Alias=酒井酒店店主的獨生女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19879,8 +20007,8 @@
 [/LEADER]
 [LEADER]579
  Name=萬千歌
- Female=1
  Alias=旅館「萬代」老闆娘
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19904,8 +20032,8 @@
 [/LEADER]
 [LEADER]580
  Name=藤堂千和
- Female=1
  Alias=藤堂家精力充沛的次女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19929,8 +20057,8 @@
 [/LEADER]
 [LEADER]581
  Name=藤堂風音
- Female=1
  Alias=藤堂家人小鬼大的小妹
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19954,8 +20082,8 @@
 [/LEADER]
 [LEADER]582
  Name=藤堂紬
- Female=1
  Alias=藤堂家文靜賢淑的長女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -19979,8 +20107,8 @@
 [/LEADER]
 [LEADER]583
  Name=原野沙也加
- Female=1
  Alias=遠野神社巫女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20004,8 +20132,8 @@
 [/LEADER]
 [LEADER]584
  Name=桃野真央
- Female=1
  Alias=不擅長交往的大家閨秀
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20077,8 +20205,8 @@
 [/LEADER]
 [LEADER]587
  Name=龍堂美咲
- Female=1
  Alias=貓耳會長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20102,8 +20230,8 @@
 [/LEADER]
 [LEADER]588
  Name=白井黑子
- Female=1
  Alias=淑女變態
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20134,8 +20262,8 @@
 [/LEADER]
 [LEADER]589
  Name=佐天淚子
- Female=1
  Alias=愛掀裙子的Level 0
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20166,8 +20294,8 @@
 [/LEADER]
 [LEADER]590
  Name=初春飾利
- Female=1
  Alias=定溫保存
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20198,8 +20326,8 @@
 [/LEADER]
 [LEADER]591
  Name=蓮華
- Female=1
  Alias=旅館中出沒的不思議之少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20223,8 +20351,8 @@
 [/LEADER]
 [LEADER]592
  Name=篝之霧枝
- Female=1
  Alias=喜好紅酒和薔薇的吸血鬼
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20248,8 +20376,8 @@
 [/LEADER]
 [LEADER]593
  Name=樓蘭霧香
- Female=1
  Alias=「洛克史密斯機關」室長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20273,8 +20401,8 @@
 [/LEADER]
 [LEADER]594
  Name=伊莉婭
- Female=1
  Alias=炎之舞姬
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20298,8 +20426,8 @@
 [/LEADER]
 [LEADER]595
  Name=玲
- Female=1
  Alias=殲滅天使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20323,8 +20451,8 @@
 [/LEADER]
 [LEADER]596
  Name=科洛絲
- Female=1
  Alias=利貝爾王國公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20348,8 +20476,8 @@
 [/LEADER]
 [LEADER]597
  Name=修莉
- Female=1
  Alias=星之姬
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20373,8 +20501,8 @@
 [/LEADER]
 [LEADER]598
  Name=提歐
- Female=1
  Alias=對別人愛理不理的酷酷小女生
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20398,8 +20526,8 @@
 [/LEADER]
 [LEADER]599
  Name=琪雅
- Female=1
  Alias=開朗純真、天真爛漫的失憶小女孩
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20423,8 +20551,8 @@
 [/LEADER]
 [LEADER]600
  Name=塞西爾
- Female=1
  Alias=姐姐護士長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20448,8 +20576,8 @@
 [/LEADER]
 [LEADER]601
  Name=瑪麗亞貝爾
- Female=1
  Alias=IBC總裁之女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20497,8 +20625,8 @@
 [/LEADER]
 [LEADER]603
  Name=米蕾尤
- Female=1
  Alias=很有朝氣的警備隊員
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20522,8 +20650,8 @@
 [/LEADER]
 [LEADER]604
  Name=艾莉
- Female=1
  Alias=特別任務支援科隊長助手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20547,8 +20675,8 @@
 [/LEADER]
 [LEADER]605
  Name=艾斯提爾
- Female=1
  Alias=實力超群的A級遊擊士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20572,8 +20700,8 @@
 [/LEADER]
 [LEADER]606
  Name=亞莉安羅德
- Female=1
  Alias=「蛇之使徒」第七柱
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20597,8 +20725,8 @@
 [/LEADER]
 [LEADER]607
  Name=肯帕雷拉
- Female=1
  Alias=小丑
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20622,8 +20750,8 @@
 [/LEADER]
 [LEADER]608
  Name=夏莉
- Female=1
  Alias=「赤色星座」部隊長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20647,8 +20775,8 @@
 [/LEADER]
 [LEADER]609
  Name=莉絲
- Female=1
  Alias=七曜教會修女、星杯騎士團隨從騎士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20672,8 +20800,8 @@
 [/LEADER]
 [LEADER]610
  Name=三葉緣起
- Female=1
  Alias=雙月花
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20697,8 +20825,8 @@
 [/LEADER]
 [LEADER]611
  Name=瑪莉
- Female=1
  Alias=門衛
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20730,8 +20858,8 @@
 [/LEADER]
 [LEADER]612
  Name=橘勇魚
- Female=1
  Alias=美術部部員
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20755,8 +20883,8 @@
 [/LEADER]
 [LEADER]613
  Name=土宮神樂
- Female=1
  Alias=土宮家第28代當主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20780,8 +20908,8 @@
 [/LEADER]
 [LEADER]614
  Name=諫山黃泉
- Female=1
  Alias=擁有劍道神通與法術天才的惡靈
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20805,8 +20933,8 @@
 [/LEADER]
 [LEADER]615
  Name=田端唯
- Female=1
  Alias=內心孤獨的毒舌少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20830,8 +20958,8 @@
 [/LEADER]
 [LEADER]616
  Name=音羽
- Female=1
  Alias=時之音的精靈
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20855,8 +20983,8 @@
 [/LEADER]
 [LEADER]617
  Name=米拉
- Female=1
  Alias=精靈之主馬克思威爾
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20880,8 +21008,8 @@
 [/LEADER]
 [LEADER]618
  Name=右代宮真里亞
- Female=1
  Alias=魔女知識內行
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20905,8 +21033,8 @@
 [/LEADER]
 [LEADER]619
  Name=赫蘿
- Female=1
  Alias=賢狼
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20938,8 +21066,8 @@
 [/LEADER]
 [LEADER]620
  Name=石動乃繪
- Female=1
  Alias=像小孩子的敏銳感性轉學生
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -20963,8 +21091,8 @@
 [/LEADER]
 [LEADER]621
  Name=安藤愛子
- Female=1
  Alias=料理技術不容置疑的活潑少女
+ Female=1
  Status=0
  Power=20
  History=1
@@ -20988,8 +21116,8 @@
 [/LEADER]
 [LEADER]622
  Name=湯淺比呂美
- Female=1
  Alias=完美女孩湯淺比呂美
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21013,8 +21141,8 @@
 [/LEADER]
 [LEADER]623
  Name=紫苑寺有子
- Female=1
  Alias=尼特偵探
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21038,8 +21166,8 @@
 [/LEADER]
 [LEADER]624
  Name=月爛
- Female=1
  Alias=帶著刀的異邦流浪劍士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21063,8 +21191,8 @@
 [/LEADER]
 [LEADER]625
  Name=水那
- Female=1
  Alias=住在美麗湖泊中的膽小水精
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21088,8 +21216,8 @@
 [/LEADER]
 [LEADER]626
  Name=艾米麗達
- Female=1
  Alias=離家出走的高強的千金小姐魔法師
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21113,8 +21241,8 @@
 [/LEADER]
 [LEADER]627
  Name=佩特雷妮
- Female=1
  Alias=阿奈娜神殿神官長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21138,8 +21266,8 @@
 [/LEADER]
 [LEADER]628
  Name=狐伯蓮
- Female=1
  Alias=統率著狐炎獸的幻獸女王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21163,8 +21291,8 @@
 [/LEADER]
 [LEADER]629
  Name=阿特
- Female=1
  Alias=平易近人的半成品的土精
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21188,8 +21316,8 @@
 [/LEADER]
 [LEADER]630
  Name=阿納斯塔西婭
- Female=1
  Alias=長著一對惡魔翅膀的見習天使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21213,8 +21341,8 @@
 [/LEADER]
 [LEADER]631
  Name=夏露蒂
- Female=1
  Alias=震撼由依朵拉的盜人睡魔族
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21238,8 +21366,8 @@
 [/LEADER]
 [LEADER]632
  Name=庫蕾安努
- Female=1
  Alias=聰穎且好奇心旺盛並愛惡作劇的木精
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21263,8 +21391,8 @@
 [/LEADER]
 [LEADER]633
  Name=梅洛迪亞娜
- Female=1
  Alias=自尊心高傲的天使戰女神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21288,8 +21416,8 @@
 [/LEADER]
 [LEADER]634
  Name=莉菲婭
- Female=1
  Alias=門菲爾王國第一皇女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21313,8 +21441,8 @@
 [/LEADER]
 [LEADER]635
  Name=黑天使
- Female=1
  Alias=家裡蹲腹黑吐槽役黑天使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21338,8 +21466,8 @@
 [/LEADER]
 [LEADER]636
  Name=塞拉維
- Female=1
  Alias=心地善良的精靈族魔鬼教官
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21363,8 +21491,8 @@
 [/LEADER]
 [LEADER]637
  Name=漢娜
- Female=1
  Alias=販賣藥品和解除詛咒的修道女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21388,8 +21516,8 @@
 [/LEADER]
 [LEADER]638
  Name=斑鳩千草
- Female=1
  Alias=眼鏡娘和僕娘兼具的職業漫畫家
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21413,8 +21541,8 @@
 [/LEADER]
 [LEADER]639
  Name=斑鳩伊吹
- Female=1
  Alias=斑鳩道場師範代
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21438,8 +21566,8 @@
 [/LEADER]
 [LEADER]640
  Name=斑鳩菖蒲
- Female=1
  Alias=刻薄和粗魯的傲嬌女孩
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21463,8 +21591,8 @@
 [/LEADER]
 [LEADER]641
  Name=斑鳩籠目
- Female=1
  Alias=擅長做家務的愛哭鬼
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21560,8 +21688,8 @@
 [/LEADER]
 [LEADER]645
  Name=青葉鶇
- Female=1
  Alias=櫻羽夏苑
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21585,8 +21713,8 @@
 [/LEADER]
 [LEADER]646
  Name=懺悔醬
- Female=1
  Alias=土地神腹黑偶像
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21610,8 +21738,8 @@
 [/LEADER]
 [LEADER]647
  Name=近衛昂
- Female=1
  Alias=男裝美少女管家
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21659,8 +21787,8 @@
 [/LEADER]
 [LEADER]649
  Name=山田葵
- Female=1
  Alias=山田
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21756,8 +21884,8 @@
 [/LEADER]
 [LEADER]653
  Name=弗蘭西斯卡
- Female=1
  Alias=幼貓
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21781,8 +21909,8 @@
 [/LEADER]
 [LEADER]654
  Name=艾拉
- Female=1
  Alias=方塊Ａ
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21806,8 +21934,8 @@
 [/LEADER]
 [LEADER]655
  Name=佩瑞妮
- Female=1
  Alias=克洛斯特
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21831,8 +21959,8 @@
 [/LEADER]
 [LEADER]656
  Name=明娜
- Female=1
  Alias=黑桃Ａ
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21856,8 +21984,8 @@
 [/LEADER]
 [LEADER]657
  Name=夏洛特
- Female=1
  Alias=迷人的夏莉
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21881,8 +22009,8 @@
 [/LEADER]
 [LEADER]658
  Name=宮藤芳佳
- Female=1
  Alias=小不點
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21906,8 +22034,8 @@
 [/LEADER]
 [LEADER]659
  Name=莉涅特
- Female=1
  Alias=莉涅
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21931,8 +22059,8 @@
 [/LEADER]
 [LEADER]660
  Name=歌爾特露特
- Female=1
  Alias=特露德
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21956,8 +22084,8 @@
 [/LEADER]
 [LEADER]661
  Name=薩妮亞
- Female=1
  Alias=百合
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -21981,8 +22109,8 @@
 [/LEADER]
 [LEADER]662
  Name=艾瑞卡
- Female=1
  Alias=小女孩
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22006,8 +22134,8 @@
 [/LEADER]
 [LEADER]663
  Name=天王洲雅典娜
- Female=1
  Alias=王族庭城之主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22031,8 +22159,8 @@
 [/LEADER]
 [LEADER]664
  Name=桂雛菊
- Female=1
  Alias=白皇會長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22064,8 +22192,8 @@
 [/LEADER]
 [LEADER]665
  Name=綾崎颯
- Female=1
  Alias=負債管家
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22097,8 +22225,8 @@
 [/LEADER]
 [LEADER]666
  Name=靈烏路空
- Female=1
  Alias=大小姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22130,8 +22258,8 @@
 [/LEADER]
 [LEADER]667
  Name=長門有希
- Female=1
  Alias=長門大萌神
+ Female=1
  Status=0
  Power=20
  History=1
@@ -22163,8 +22291,8 @@
 [/LEADER]
 [LEADER]668
  Name=涼宮春日
- Female=1
  Alias=SOS團團長
+ Female=1
  Status=0
  Power=20
  History=1
@@ -22195,8 +22323,8 @@
 [/LEADER]
 [LEADER]669
  Name=朝比奈實久留
- Female=1
  Alias=SOS團吉祥物
+ Female=1
  Status=0
  Power=20
  History=1
@@ -22220,8 +22348,8 @@
 [/LEADER]
 [LEADER]670
  Name=朝倉涼子
- Female=1
  Alias=已轉學加拿大
+ Female=1
  Status=0
  Power=20
  History=1
@@ -22245,8 +22373,8 @@
 [/LEADER]
 [LEADER]671
  Name=虛子
- Female=1
  Alias=神選者
+ Female=1
  Status=0
  Power=20
  History=1
@@ -22277,8 +22405,8 @@
 [/LEADER]
 [LEADER]672
  Name=湯音
- Female=1
  Alias=在長崎受到好評的招牌小姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22333,8 +22461,8 @@
 [/LEADER]
 [LEADER]674
  Name=木下秀吉
- Female=1
  Alias=性別是秀吉
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22366,8 +22494,8 @@
 [/LEADER]
 [LEADER]675
  Name=島田美波
- Female=1
  Alias=洗衣板
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22391,8 +22519,8 @@
 [/LEADER]
 [LEADER]676
  Name=姬路瑞希
- Female=1
  Alias=恐怖料理
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22416,8 +22544,8 @@
 [/LEADER]
 [LEADER]677
  Name=霧島翔子
- Female=1
  Alias=雄二剋星
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22448,8 +22576,8 @@
 [/LEADER]
 [LEADER]678
  Name=吉田友紀
- Female=1
  Alias=友基
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22473,8 +22601,8 @@
 [/LEADER]
 [LEADER]679
  Name=春奈
- Female=1
  Alias=天才
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22506,8 +22634,8 @@
 [/LEADER]
 [LEADER]680
  Name=優
- Female=1
  Alias=無口死神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22531,8 +22659,8 @@
 [/LEADER]
 [LEADER]681
  Name=大神涼子
- Female=1
  Alias=大神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22580,8 +22708,8 @@
 [/LEADER]
 [LEADER]683
  Name=古手羽入
- Female=1
  Alias=御社神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22612,8 +22740,8 @@
 [/LEADER]
 [LEADER]684
  Name=古手梨花
- Female=1
  Alias=御社神轉世
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22637,8 +22765,8 @@
 [/LEADER]
 [LEADER]685
  Name=園崎詩音
- Female=1
  Alias=腹黑妹妹
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22662,8 +22790,8 @@
 [/LEADER]
 [LEADER]686
  Name=園崎魅音
- Female=1
  Alias=腹黑姐姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22687,8 +22815,8 @@
 [/LEADER]
 [LEADER]687
  Name=龍宮蕾娜
- Female=1
  Alias=柴刀女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22760,8 +22888,8 @@
 [/LEADER]
 [LEADER]690
  Name=可羅奈
- Female=1
  Alias=里拉坦
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22809,8 +22937,8 @@
 [/LEADER]
 [LEADER]692
  Name=服部絢子
- Female=1
  Alias=一根筋+純真的班級委員長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22834,8 +22962,8 @@
 [/LEADER]
 [LEADER]693
  Name=曾我螢娜
- Female=1
  Alias=魔王護衛
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22859,8 +22987,8 @@
 [/LEADER]
 [LEADER]694
  Name=葛葉
- Female=1
  Alias=擁有強大神通力的貴族狐神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22884,8 +23012,8 @@
 [/LEADER]
 [LEADER]695
  Name=圓原杏里
- Female=1
  Alias=砍人集團「罪歌」的「母親」
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22909,8 +23037,8 @@
 [/LEADER]
 [LEADER]696
  Name=莎提萊薩
- Female=1
  Alias=禁止接觸女王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22934,8 +23062,8 @@
 [/LEADER]
 [LEADER]697
  Name=天女目瑛
- Female=1
  Alias=巫女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22959,8 +23087,8 @@
 [/LEADER]
 [LEADER]698
  Name=九重凜
- Female=1
  Alias=問題兒童三重奏之一
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -22984,8 +23112,8 @@
 [/LEADER]
 [LEADER]699
  Name=宇佐美美
- Female=1
  Alias=問題兒童三重奏之二
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23009,8 +23137,8 @@
 [/LEADER]
 [LEADER]700
  Name=鏡黑
- Female=1
  Alias=問題兒童三重奏之三
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23034,8 +23162,8 @@
 [/LEADER]
 [LEADER]701
  Name=水之巫女
- Female=1
  Alias=雷烏尼亞神權國地方神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23059,8 +23187,8 @@
 [/LEADER]
 [LEADER]702
  Name=雷庫修米
- Female=1
  Alias=真紅的戰士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23084,8 +23212,8 @@
 [/LEADER]
 [LEADER]703
  Name=雷蓓婭
- Female=1
  Alias=雷烏尼亞的白色薔薇
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23109,8 +23237,8 @@
 [/LEADER]
 [LEADER]704
  Name=李蘭花
- Female=1
  Alias=超時空灰姑娘
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23134,8 +23262,8 @@
 [/LEADER]
 [LEADER]705
  Name=庫蘭庫蘭
- Female=1
  Alias=S.M.S Pixy小隊女軍官
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23159,8 +23287,8 @@
 [/LEADER]
 [LEADER]706
  Name=雪麗露
- Female=1
  Alias=銀河妖精
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23232,8 +23360,8 @@
 [/LEADER]
 [LEADER]709
  Name=獅子神黑
- Female=1
  Alias=小黑
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23257,8 +23385,8 @@
 [/LEADER]
 [LEADER]710
  Name=早乙女亂馬
- Female=1
  Alias=人妖
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23282,8 +23410,8 @@
 [/LEADER]
 [LEADER]711
  Name=卡謬
- Female=1
  Alias=歐卡米亞凱公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23307,8 +23435,8 @@
 [/LEADER]
 [LEADER]712
  Name=卡露拉
- Female=1
  Alias=力大無窮的女劍士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23380,8 +23508,8 @@
 [/LEADER]
 [LEADER]715
  Name=艾露露
- Female=1
  Alias=藥師
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23429,8 +23557,8 @@
 [/LEADER]
 [LEADER]717
  Name=柚葉
- Female=1
  Alias=天生被病魔困擾的失明少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23454,8 +23582,8 @@
 [/LEADER]
 [LEADER]718
  Name=烏露托利
- Female=1
  Alias=公主中的公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23479,8 +23607,8 @@
 [/LEADER]
 [LEADER]719
  Name=藤香
- Female=1
  Alias=艾文庫魯加族的武士少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23504,8 +23632,8 @@
 [/LEADER]
 [LEADER]720
  Name=明日香
- Female=1
  Alias=第二適格者
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23529,8 +23657,8 @@
 [/LEADER]
 [LEADER]721
  Name=真希波
- Female=1
  Alias=女體大叔
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23554,8 +23682,8 @@
 [/LEADER]
 [LEADER]722
  Name=凌波麗
- Female=1
  Alias=迷之少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23635,8 +23763,8 @@
 [/LEADER]
 [LEADER]725
  Name=緋室燈
- Female=1
  Alias=三無少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23660,8 +23788,8 @@
 [/LEADER]
 [LEADER]726
  Name=楪祈
- Female=1
  Alias=「葬儀社」成員
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23709,8 +23837,8 @@
 [/LEADER]
 [LEADER]728
  Name=鶇
- Female=1
  Alias=十分優秀的電子操作手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23902,8 +24030,8 @@
 [/LEADER]
 [LEADER]736
  Name=卡恰
- Female=1
  Alias=末代女沙皇
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23927,8 +24055,8 @@
 [/LEADER]
 [LEADER]737
  Name=桂木華
- Female=1
  Alias=母狗
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23952,8 +24080,8 @@
 [/LEADER]
 [LEADER]738
  Name=織部真冬
- Female=1
  Alias=劍之聖女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -23977,8 +24105,8 @@
 [/LEADER]
 [LEADER]739
  Name=亞莉亞
- Female=1
  Alias=魔劍
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24009,8 +24137,8 @@
 [/LEADER]
 [LEADER]740
  Name=莉莎
- Female=1
  Alias=路克的蘿莉助手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24065,8 +24193,8 @@
 [/LEADER]
 [LEADER]742
  Name=迪希
- Female=1
  Alias=半GEAR半人類的少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24162,8 +24290,8 @@
 [/LEADER]
 [LEADER]746
  Name=泉戶真白
- Female=1
  Alias=太轉依
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24187,8 +24315,8 @@
 [/LEADER]
 [LEADER]747
  Name=安麗埃塔
- Female=1
  Alias=女王
+ Female=1
  Status=0
  Power=20
  History=1
@@ -24219,8 +24347,8 @@
 [/LEADER]
 [LEADER]748
  Name=依露庫庫
- Female=1
  Alias=韻龍
+ Female=1
  Status=0
  Power=20
  History=1
@@ -24244,8 +24372,8 @@
 [/LEADER]
 [LEADER]749
  Name=塔巴薩
- Female=1
  Alias=夏洛特奧爾良
+ Female=1
  Status=0
  Power=20
  History=1
@@ -24269,8 +24397,8 @@
 [/LEADER]
 [LEADER]750
  Name=蒂芙妮亞
- Female=1
  Alias=半精靈
+ Female=1
  Status=0
  Power=20
  History=1
@@ -24294,8 +24422,8 @@
 [/LEADER]
 [LEADER]751
  Name=露易絲
- Female=1
  Alias=零的露易絲
+ Female=1
  Status=0
  Power=20
  History=1
@@ -24350,8 +24478,8 @@
 [/LEADER]
 [LEADER]753
  Name=前川
- Female=1
  Alias=本名不詳
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24375,8 +24503,8 @@
 [/LEADER]
 [LEADER]754
  Name=御船流子
- Female=1
  Alias=粒子
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24400,8 +24528,8 @@
 [/LEADER]
 [LEADER]755
  Name=星宮社
- Female=1
  Alias=自稱超能力者兼外星人的少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24425,8 +24553,8 @@
 [/LEADER]
 [LEADER]756
  Name=藤和女女
- Female=1
  Alias=大人和小孩的混和體
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24450,8 +24578,8 @@
 [/LEADER]
 [LEADER]757
  Name=藤和艾利歐
- Female=1
  Alias=電波女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24482,8 +24610,8 @@
 [/LEADER]
 [LEADER]758
  Name=本多二代
- Female=1
  Alias=秉持自我信念之道的武士少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24507,8 +24635,8 @@
 [/LEADER]
 [LEADER]759
  Name=本多正純
- Female=1
  Alias=男裝打扮的認真少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24532,8 +24660,8 @@
 [/LEADER]
 [LEADER]760
  Name=向井玲
- Female=1
  Alias=以瀏海遮蓋眼部的盲目少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24557,8 +24685,8 @@
 [/LEADER]
 [LEADER]761
  Name=直政
- Female=1
  Alias=重武神騎乘師
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24582,8 +24710,8 @@
 [/LEADER]
 [LEADER]762
  Name=阿蒂蕾
- Female=1
  Alias=臨時海戰指揮官
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24607,8 +24735,8 @@
 [/LEADER]
 [LEADER]763
  Name=涅依特
- Female=1
  Alias=銀狼
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24632,8 +24760,8 @@
 [/LEADER]
 [LEADER]764
  Name=淺間智
- Female=1
  Alias=遠距離攻擊的弓術能手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24657,8 +24785,8 @@
 [/LEADER]
 [LEADER]765
  Name=鹿角
- Female=1
  Alias=能與武神對決的武鬥派自動人形
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24682,8 +24810,8 @@
 [/LEADER]
 [LEADER]766
  Name=葵喜美
- Female=1
  Alias=賢姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24707,8 +24835,8 @@
 [/LEADER]
 [LEADER]767
  Name=瑪爾嘉
- Female=1
  Alias=墮天
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24732,8 +24860,8 @@
 [/LEADER]
 [LEADER]768
  Name=瑪魯歌特
- Female=1
  Alias=墬天
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24757,8 +24885,8 @@
 [/LEADER]
 [LEADER]769
  Name=赫萊子
- Female=1
  Alias=P-01s
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24806,8 +24934,8 @@
 [/LEADER]
 [LEADER]771
  Name=祇堂鞠也
- Female=1
  Alias=偽娘
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24831,8 +24959,8 @@
 [/LEADER]
 [LEADER]772
  Name=紅葉知弦
- Female=1
  Alias=學生會長書記
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24856,8 +24984,8 @@
 [/LEADER]
 [LEADER]773
  Name=椎名真冬
- Female=1
  Alias=學生會宅女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24881,8 +25009,8 @@
 [/LEADER]
 [LEADER]774
  Name=椎名深夏
- Female=1
  Alias=學生會男人婆
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24906,8 +25034,8 @@
 [/LEADER]
 [LEADER]775
  Name=藤堂莉莉西亞
- Female=1
  Alias=雄偉胸部的美少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24931,8 +25059,8 @@
 [/LEADER]
 [LEADER]776
  Name=櫻野玖璃夢
- Female=1
  Alias=小紅
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -24980,8 +25108,8 @@
 [/LEADER]
 [LEADER]778
  Name=星伽白雪
- Female=1
  Alias=武裝巫女
+ Female=1
  Status=0
  Power=20
  History=1
@@ -25005,8 +25133,8 @@
 [/LEADER]
 [LEADER]779
  Name=貞德
- Female=1
  Alias=銀冰之魔女
+ Female=1
  Status=0
  Power=20
  History=1
@@ -25030,8 +25158,8 @@
 [/LEADER]
 [LEADER]780
  Name=峰理子
- Female=1
  Alias=雙劍雙槍的理子
+ Female=1
  Status=0
  Power=20
  History=1
@@ -25055,8 +25183,8 @@
 [/LEADER]
 [LEADER]781
  Name=神崎亞莉亞
- Female=1
  Alias=緋彈的亞莉亞
+ Female=1
  Status=0
  Power=20
  History=1
@@ -25080,8 +25208,8 @@
 [/LEADER]
 [LEADER]782
  Name=遊佐
- Female=1
  Alias=SSS團通訊員
+ Female=1
  Status=0
  Power=20
  History=1
@@ -25105,8 +25233,8 @@
 [/LEADER]
 [LEADER]783
  Name=蕾姬
- Female=1
  Alias=蕾姬大神
+ Female=1
  Status=0
  Power=20
  History=1
@@ -25154,8 +25282,8 @@
 [/LEADER]
 [LEADER]785
  Name=日暮茜
- Female=1
  Alias=最慘的HIME公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25179,8 +25307,8 @@
 [/LEADER]
 [LEADER]786
  Name=杉浦碧
- Female=1
  Alias=正義必勝！
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25204,8 +25332,8 @@
 [/LEADER]
 [LEADER]787
  Name=玖我夏樹
- Female=1
  Alias=阿茲瑪麗亞
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25253,8 +25381,8 @@
 [/LEADER]
 [LEADER]789
  Name=珠洲城遙
- Female=1
  Alias=學生會執行部會長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25278,8 +25406,8 @@
 [/LEADER]
 [LEADER]790
  Name=深優葛利亞
- Female=1
  Alias=非常強的人造人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25327,8 +25455,8 @@
 [/LEADER]
 [LEADER]792
  Name=愛麗莎
- Female=1
  Alias=黃金天使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25352,8 +25480,8 @@
 [/LEADER]
 [LEADER]793
  Name=鳳華真白
- Female=1
  Alias=私立風華學園理事長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25377,8 +25505,8 @@
 [/LEADER]
 [LEADER]794
  Name=鴇羽舞衣
- Female=1
  Alias=火之神迦具土
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25402,8 +25530,8 @@
 [/LEADER]
 [LEADER]795
  Name=藤乃靜留
- Female=1
  Alias=京都泡茶女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25427,8 +25555,8 @@
 [/LEADER]
 [LEADER]796
  Name=吉川千夏
- Female=1
  Alias=粉紅切開都是黑的
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25452,8 +25580,8 @@
 [/LEADER]
 [LEADER]797
  Name=赤座燈里
- Female=1
  Alias=＼阿卡琳~／
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25484,8 +25612,8 @@
 [/LEADER]
 [LEADER]798
  Name=船見結衣
- Female=1
  Alias=全方位吐槽
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25533,8 +25661,8 @@
 [/LEADER]
 [LEADER]800
  Name=神樂
- Female=1
  Alias=萬事屋
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25558,8 +25686,8 @@
 [/LEADER]
 [LEADER]801
  Name=霧谷希
- Female=1
  Alias=萬能型的天才少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25583,8 +25711,8 @@
 [/LEADER]
 [LEADER]802
  Name=竹馬圓夏帆
- Female=1
  Alias=腹黑少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25608,8 +25736,8 @@
 [/LEADER]
 [LEADER]803
  Name=芹澤文乃
- Female=1
  Alias=去死兩次！
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25633,8 +25761,8 @@
 [/LEADER]
 [LEADER]804
  Name=梅之森千世
- Female=1
  Alias=梅之森學園理事長的孫女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25658,8 +25786,8 @@
 [/LEADER]
 [LEADER]805
  Name=愛麗絲
- Female=1
  Alias=染血黑兔
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25755,8 +25883,8 @@
 [/LEADER]
 [LEADER]809
  Name=渚一葉
- Female=1
  Alias=才色兼備的大小姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25804,8 +25932,8 @@
 [/LEADER]
 [LEADER]811
  Name=川神百代
- Female=1
  Alias=武道院川神院大小姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25829,8 +25957,8 @@
 [/LEADER]
 [LEADER]812
  Name=克麗斯汀
- Female=1
  Alias=德國來的騎士轉校生
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25854,8 +25982,8 @@
 [/LEADER]
 [LEADER]813
  Name=椎名京
- Female=1
  Alias=沉默寡言的弓道部成員
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25879,8 +26007,8 @@
 [/LEADER]
 [LEADER]814
  Name=黛由紀江
- Female=1
  Alias=從北方到來的武道少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -25976,8 +26104,8 @@
 [/LEADER]
 [LEADER]818
  Name=修莉艾爾
- Female=1
  Alias=總是笑容不絕的慢性子
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26001,8 +26129,8 @@
 [/LEADER]
 [LEADER]819
  Name=黑河雲母
- Female=1
  Alias=擅長智略與計策的腹黑辯論部部長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26026,8 +26154,8 @@
 [/LEADER]
 [LEADER]820
  Name=翠下弓那
- Female=1
  Alias=雜草魂系少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26051,8 +26179,8 @@
 [/LEADER]
 [LEADER]821
  Name=遠野明日翔
- Female=1
  Alias=親切踏實的魔物獵人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26076,8 +26204,8 @@
 [/LEADER]
 [LEADER]822
  Name=御木律藍
- Female=1
  Alias=不可思議系少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26101,8 +26229,8 @@
 [/LEADER]
 [LEADER]823
  Name=鯰澤美咲
- Female=1
  Alias=女僕會長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26181,8 +26309,8 @@
 [/LEADER]
 [LEADER]826
  Name=高城沙耶
- Female=1
  Alias=Wizard
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26206,8 +26334,8 @@
 [/LEADER]
 [LEADER]827
  Name=加里安
- Female=1
  Alias=魔族劍士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26231,8 +26359,8 @@
 [/LEADER]
 [LEADER]828
  Name=艾貝麗露
- Female=1
  Alias=深淩之第五楔魔
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26256,8 +26384,8 @@
 [/LEADER]
 [LEADER]829
  Name=拉丁妮爾
- Female=1
  Alias=蘿莉魔神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26281,8 +26409,8 @@
 [/LEADER]
 [LEADER]830
  Name=拉克修米爾
- Female=1
  Alias=常被誤認成天使的魔族
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26306,8 +26434,8 @@
 [/LEADER]
 [LEADER]831
  Name=拉謝娜
- Female=1
  Alias=深淩之第三楔魔
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26331,8 +26459,8 @@
 [/LEADER]
 [LEADER]832
  Name=阿爾庫蕾
- Female=1
  Alias=巨大水母幻獸
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26356,8 +26484,8 @@
 [/LEADER]
 [LEADER]833
  Name=莉莉
- Female=1
  Alias=累睡魔族少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26381,8 +26509,8 @@
 [/LEADER]
 [LEADER]834
  Name=絲薇蒂
- Female=1
  Alias=戰鬥力不足的睡魔
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26406,8 +26534,8 @@
 [/LEADER]
 [LEADER]835
  Name=蒂婭妮
- Female=1
  Alias=深淩之第九楔魔
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26431,8 +26559,8 @@
 [/LEADER]
 [LEADER]836
  Name=摩露娜迦
- Female=1
  Alias=黑血之瀑布的聖之守護天使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26456,8 +26584,8 @@
 [/LEADER]
 [LEADER]837
  Name=澤菲拉
- Female=1
  Alias=深淩之第八楔魔
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26481,8 +26609,8 @@
 [/LEADER]
 [LEADER]838
  Name=蕾妮
- Female=1
  Alias=擅長尋找寶藏的貓怪盜
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26506,8 +26634,8 @@
 [/LEADER]
 [LEADER]839
  Name=賽利卡
- Female=1
  Alias=神殺
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26531,8 +26659,8 @@
 [/LEADER]
 [LEADER]840
  Name=羅迦
- Female=1
  Alias=神官戰士
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26580,8 +26708,8 @@
 [/LEADER]
 [LEADER]842
  Name=露娜
- Female=1
  Alias=侍奉軍神的聖女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26605,8 +26733,8 @@
 [/LEADER]
 [LEADER]843
  Name=卡婭
- Female=1
  Alias=神官
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26630,8 +26758,8 @@
 [/LEADER]
 [LEADER]844
  Name=白銀公
- Female=1
  Alias=白銀公
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26655,8 +26783,8 @@
 [/LEADER]
 [LEADER]845
  Name=安度西婭
- Female=1
  Alias=一角公
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26704,8 +26832,8 @@
 [/LEADER]
 [LEADER]847
  Name=拉烏妮
- Female=1
  Alias=神官長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26729,8 +26857,8 @@
 [/LEADER]
 [LEADER]848
  Name=空之勇士
- Female=1
  Alias=龍族少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26754,8 +26882,8 @@
 [/LEADER]
 [LEADER]849
  Name=夏瑪拉
- Female=1
  Alias=行商少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26779,8 +26907,8 @@
 [/LEADER]
 [LEADER]850
  Name=庫緹娜
- Female=1
  Alias=納加族部族長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26804,8 +26932,8 @@
 [/LEADER]
 [LEADER]851
  Name=海謝拉
- Female=1
  Alias=地之魔神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26829,8 +26957,8 @@
 [/LEADER]
 [LEADER]852
  Name=納貝裏絲
- Female=1
  Alias=冥途門衛
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26854,8 +26982,8 @@
 [/LEADER]
 [LEADER]853
  Name=梅莉艾爾
- Female=1
  Alias=嵐神神殿的見習僧侶
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26879,8 +27007,8 @@
 [/LEADER]
 [LEADER]854
  Name=阿莉西亞
- Female=1
  Alias=義勇軍女武神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26904,8 +27032,8 @@
 [/LEADER]
 [LEADER]855
  Name=柯迪莉亞
- Female=1
  Alias=銀之炮彈
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -26929,8 +27057,8 @@
 [/LEADER]
 [LEADER]856
  Name=賽爾貝莉亞
- Female=1
  Alias=帝國女武神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27010,8 +27138,8 @@
 [/LEADER]
 [LEADER]859
  Name=月
- Female=1
  Alias=二階堂家女僕長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27035,8 +27163,8 @@
 [/LEADER]
 [LEADER]860
  Name=柊朱美
- Female=1
  Alias=禁止區域間諜
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27060,8 +27188,8 @@
 [/LEADER]
 [LEADER]861
  Name=倉屋敷妙
- Female=1
  Alias=笨蛋千金小姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27085,8 +27213,8 @@
 [/LEADER]
 [LEADER]862
  Name=倉屋敷亞希子
- Female=1
  Alias=倉屋敷重工社長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27110,8 +27238,8 @@
 [/LEADER]
 [LEADER]863
  Name=神崎萌
- Female=1
  Alias=神崎家的無口長女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27135,8 +27263,8 @@
 [/LEADER]
 [LEADER]864
  Name=黑堂鏡花
- Female=1
  Alias=為所欲為的千金小姐
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27208,8 +27336,8 @@
 [/LEADER]
 [LEADER]867
  Name=菲莉
- Female=1
  Alias=念威天才
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27233,8 +27361,8 @@
 [/LEADER]
 [LEADER]868
  Name=逢坂大河
- Female=1
  Alias=掌中老虎
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27282,8 +27410,8 @@
 [/LEADER]
 [LEADER]870
  Name=櫛枝實乃梨
- Female=1
  Alias=天然實
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27314,8 +27442,8 @@
 [/LEADER]
 [LEADER]871
  Name=水銀燈
- Female=1
  Alias=第一人偶
+ Female=1
  Status=0
  Power=20
  History=1
@@ -27339,8 +27467,8 @@
 [/LEADER]
 [LEADER]872
  Name=金絲雀
- Female=1
  Alias=薔薇第一頭腦派
+ Female=1
  Status=0
  Power=20
  History=1
@@ -27364,8 +27492,8 @@
 [/LEADER]
 [LEADER]873
  Name=柏葉巴
- Female=1
  Alias=雛莓的原媒介
+ Female=1
  Status=0
  Power=20
  History=1
@@ -27389,8 +27517,8 @@
 [/LEADER]
 [LEADER]874
  Name=真紅
- Female=1
  Alias=紅薔薇
+ Female=1
  Status=0
  Power=20
  History=1
@@ -27414,8 +27542,8 @@
 [/LEADER]
 [LEADER]875
  Name=雪華綺晶
- Female=1
  Alias=虛幻的薔薇
+ Female=1
  Status=0
  Power=20
  History=1
@@ -27446,8 +27574,8 @@
 [/LEADER]
 [LEADER]876
  Name=翠星石
- Female=1
  Alias=腹黑石
+ Female=1
  Status=0
  Power=20
  History=1
@@ -27471,8 +27599,8 @@
 [/LEADER]
 [LEADER]877
  Name=蒼星石
- Female=1
  Alias=第四人偶
+ Female=1
  Status=0
  Power=20
  History=1
@@ -27496,8 +27624,8 @@
 [/LEADER]
 [LEADER]878
  Name=薔薇水晶
- Female=1
  Alias=侵略薔薇
+ Female=1
  Status=0
  Power=20
  History=1
@@ -27521,8 +27649,8 @@
 [/LEADER]
 [LEADER]879
  Name=雛莓
- Female=1
  Alias=幼薔薇
+ Female=1
  Status=0
  Power=20
  History=1
@@ -27570,8 +27698,8 @@
 [/LEADER]
 [LEADER]881
  Name=伊內露
- Female=1
  Alias=盲目的聖女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27595,8 +27723,8 @@
 [/LEADER]
 [LEADER]882
  Name=艾莉絲
- Female=1
  Alias=妓女街的醫師
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27620,8 +27748,8 @@
 [/LEADER]
 [LEADER]883
  Name=莉西亞
- Female=1
  Alias=無冠的女王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27645,8 +27773,8 @@
 [/LEADER]
 [LEADER]884
  Name=菲奧妮
- Female=1
  Alias=羽狩牢獄區部隊長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27670,8 +27798,8 @@
 [/LEADER]
 [LEADER]885
  Name=一之瀨弓子
- Female=1
  Alias=古典魔法使用者
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27695,8 +27823,8 @@
 [/LEADER]
 [LEADER]886
  Name=姊原美鎖
- Female=1
  Alias=最強現代魔法使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27720,8 +27848,8 @@
 [/LEADER]
 [LEADER]887
  Name=森下歷美
- Female=1
  Alias=冒失
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27769,8 +27897,8 @@
 [/LEADER]
 [LEADER]889
  Name=不知火明乃
- Female=1
  Alias=番長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27794,8 +27922,8 @@
 [/LEADER]
 [LEADER]890
  Name=江戶前留奈
- Female=1
  Alias=偽雙重人格
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27819,8 +27947,8 @@
 [/LEADER]
 [LEADER]891
  Name=錢形巡
- Female=1
  Alias=輪姬
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27844,8 +27972,8 @@
 [/LEADER]
 [LEADER]892
  Name=瀨戶燦
- Female=1
  Alias=仁俠人魚
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27869,8 +27997,8 @@
 [/LEADER]
 [LEADER]893
  Name=布拉格
- Female=1
  Alias=公認的笨蛋
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -27966,8 +28094,8 @@
 [/LEADER]
 [LEADER]897
  Name=女神圓
- Female=1
  Alias=女神圓
+ Female=1
  Status=0
  Power=20
  History=1
@@ -27999,8 +28127,8 @@
 [/LEADER]
 [LEADER]898
  Name=巴麻美
- Female=1
  Alias=學姊
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28032,8 +28160,8 @@
 [/LEADER]
 [LEADER]899
  Name=佐倉杏子
- Female=1
  Alias=紅毛
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28064,8 +28192,8 @@
 [/LEADER]
 [LEADER]900
  Name=美樹沙耶加
- Female=1
  Alias=藍毛
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28089,8 +28217,8 @@
 [/LEADER]
 [LEADER]901
  Name=鹿目圓
- Female=1
  Alias=小圓臉
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28114,8 +28242,8 @@
 [/LEADER]
 [LEADER]902
  Name=曉美焰
- Female=1
  Alias=魔法淑女小焰
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28147,8 +28275,8 @@
 [/LEADER]
 [LEADER]903
  Name=八神疾風
- Female=1
  Alias=王牌
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28180,8 +28308,8 @@
 [/LEADER]
 [LEADER]904
  Name=高町奈葉
- Female=1
  Alias=白色冥王
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28237,8 +28365,8 @@
 [/LEADER]
 [LEADER]906
  Name=菲特
- Female=1
  Alias=黑色死神
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28269,8 +28397,8 @@
 [/LEADER]
 [LEADER]907
  Name=夏瑪爾
- Female=1
  Alias=夏瑪爾醫生
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28294,8 +28422,8 @@
 [/LEADER]
 [LEADER]908
  Name=琳芙絲
- Female=1
  Alias=暗之書
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28319,8 +28447,8 @@
 [/LEADER]
 [LEADER]909
  Name=琳芙絲II
- Female=1
  Alias=暗書II
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28344,8 +28472,8 @@
 [/LEADER]
 [LEADER]910
  Name=中島昴
- Female=1
  Alias=人造人妹妹
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28369,8 +28497,8 @@
 [/LEADER]
 [LEADER]911
  Name=中島銀河
- Female=1
  Alias=人造人大姐
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28394,8 +28522,8 @@
 [/LEADER]
 [LEADER]912
  Name=薇塔
- Female=1
  Alias=鋼鎚騎士
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28426,8 +28554,8 @@
 [/LEADER]
 [LEADER]913
  Name=高町薇薇歐
- Female=1
  Alias=聖王的軀器
+ Female=1
  Status=0
  Power=20
  History=1
@@ -28499,8 +28627,8 @@
 [/LEADER]
 [LEADER]916
  Name=古菲
- Female=1
  Alias=黃色笨蛋
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -28524,8 +28652,8 @@
 [/LEADER]
 [LEADER]917
  Name=四葉五月
- Female=1
  Alias=超包子店長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -28549,8 +28677,8 @@
 [/LEADER]
 [LEADER]918
  Name=佐佐木蒔繪
- Female=1
  Alias=彩帶的粉紅笨蛋
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -28622,8 +28750,8 @@
 [/LEADER]
 [LEADER]921
  Name=依文潔琳
- Female=1
  Alias=黑暗福音
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -28671,8 +28799,8 @@
 [/LEADER]
 [LEADER]923
  Name=明石裕奈
- Female=1
  Alias=父嫁候補
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -28696,8 +28824,8 @@
 [/LEADER]
 [LEADER]924
  Name=近衛木乃香
- Female=1
  Alias=小木乃
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -28721,8 +28849,8 @@
 [/LEADER]
 [LEADER]925
  Name=長谷川千雨
- Female=1
  Alias=超級駭客
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -28753,8 +28881,8 @@
 [/LEADER]
 [LEADER]926
  Name=長瀨楓
- Female=1
  Alias=藍色笨蛋
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -28778,8 +28906,8 @@
 [/LEADER]
 [LEADER]927
  Name=春日美空
- Female=1
  Alias=神父的真面目、可可涅的從者
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -28827,8 +28955,8 @@
 [/LEADER]
 [LEADER]929
  Name=宮崎和香
- Female=1
  Alias=書店
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -28883,8 +29011,8 @@
 [/LEADER]
 [LEADER]931
  Name=雪廣綾香
- Female=1
  Alias=笨蛋戰隊候補隊員
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -28987,8 +29115,8 @@
 [/LEADER]
 [LEADER]935
  Name=超鈴音
- Female=1
  Alias=麻帆良的最強頭腦
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29067,8 +29195,8 @@
 [/LEADER]
 [LEADER]938
  Name=綾瀨夕映
- Female=1
  Alias=魔法笨蛋
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29140,8 +29268,8 @@
 [/LEADER]
 [LEADER]941
  Name=龍宮真名
- Female=1
  Alias=魔眼傭兵
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29165,8 +29293,8 @@
 [/LEADER]
 [LEADER]942
  Name=櫻咲剎那
- Female=1
  Alias=武道四天王之一
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29214,8 +29342,8 @@
 [/LEADER]
 [LEADER]944
  Name=御坂美琴
- Female=1
  Alias=逼哩逼哩放電女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29247,8 +29375,8 @@
 [/LEADER]
 [LEADER]945
  Name=五和
- Female=1
  Alias=持槍者
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29279,8 +29407,8 @@
 [/LEADER]
 [LEADER]946
  Name=月詠小萌
- Female=1
  Alias=學院都市七大不可思議
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29336,8 +29464,8 @@
 [/LEADER]
 [LEADER]948
  Name=阿紐澤
- Female=1
  Alias=雅妮絲部隊長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29361,8 +29489,8 @@
 [/LEADER]
 [LEADER]949
  Name=風斬冰華
- Female=1
  Alias=人造天使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29386,8 +29514,8 @@
 [/LEADER]
 [LEADER]950
  Name=姬神秋沙
- Female=1
  Alias=吸血鬼殺手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29411,8 +29539,8 @@
 [/LEADER]
 [LEADER]951
  Name=神裂火織
- Female=1
  Alias=女教皇
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29436,8 +29564,8 @@
 [/LEADER]
 [LEADER]952
  Name=最後之作
- Female=1
  Alias=妹妹們的上位者
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29469,8 +29597,8 @@
 [/LEADER]
 [LEADER]953
  Name=奧爾索拉
- Female=1
  Alias=魔術暗號解讀專家
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29518,8 +29646,8 @@
 [/LEADER]
 [LEADER]955
  Name=三澤真帆
- Female=1
  Alias=大前鋒
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29543,8 +29671,8 @@
 [/LEADER]
 [LEADER]956
  Name=永塚紗季
- Female=1
  Alias=控球後衛
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29568,8 +29696,8 @@
 [/LEADER]
 [LEADER]957
  Name=香椎愛莉
- Female=1
  Alias=中鋒
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29593,8 +29721,8 @@
 [/LEADER]
 [LEADER]958
  Name=湊智花
- Female=1
  Alias=蘿莉球
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29618,8 +29746,8 @@
 [/LEADER]
 [LEADER]959
  Name=褲田日向
- Female=1
  Alias=小前鋒
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29643,8 +29771,8 @@
 [/LEADER]
 [LEADER]960
  Name=巴爾布娜
- Female=1
  Alias=南非總督秘書
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29668,8 +29796,8 @@
 [/LEADER]
 [LEADER]961
  Name=尼約爾特
- Female=1
  Alias=寄生蟲魔王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29693,8 +29821,8 @@
 [/LEADER]
 [LEADER]962
  Name=尼爾迪米娜絲
- Female=1
  Alias=主天使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29718,8 +29846,8 @@
 [/LEADER]
 [LEADER]963
  Name=白天使
- Female=1
  Alias=唯一做家務的白天使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29743,8 +29871,8 @@
 [/LEADER]
 [LEADER]964
  Name=白懍翠
- Female=1
  Alias=班級委員長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29792,8 +29920,8 @@
 [/LEADER]
 [LEADER]966
  Name=米雷露
- Female=1
  Alias=歪魔族公主
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29817,8 +29945,8 @@
 [/LEADER]
 [LEADER]967
  Name=艾烏庫蕾雅
- Female=1
  Alias=最強的褐天使長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29842,8 +29970,8 @@
 [/LEADER]
 [LEADER]968
  Name=艾麗薩絲琳
- Female=1
  Alias=力天使
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29891,8 +30019,8 @@
 [/LEADER]
 [LEADER]970
  Name=吹雪速羽
- Female=1
  Alias=白刃的冰劍姬
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29916,8 +30044,8 @@
 [/LEADER]
 [LEADER]971
  Name=村雨玲
- Female=1
  Alias=青之瞳
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -29989,8 +30117,8 @@
 [/LEADER]
 [LEADER]974
  Name=岩瀨喜久江
- Female=1
  Alias=電波殺手
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30014,8 +30142,8 @@
 [/LEADER]
 [LEADER]975
  Name=帕茲莫
- Female=1
  Alias=守護妖精
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30039,8 +30167,8 @@
 [/LEADER]
 [LEADER]976
  Name=拉克絲穆娜
- Female=1
  Alias=彷徨死神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30064,8 +30192,8 @@
 [/LEADER]
 [LEADER]977
  Name=拉碧絲
- Female=1
  Alias=瑟爾諾王國王女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30089,8 +30217,8 @@
 [/LEADER]
 [LEADER]978
  Name=波烏
- Female=1
  Alias=文科少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30210,8 +30338,8 @@
 [/LEADER]
 [LEADER]983
  Name=科艾
- Female=1
  Alias=提督閣下
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30235,8 +30363,8 @@
 [/LEADER]
 [LEADER]984
  Name=香子蘭
- Female=1
  Alias=雙子貓娘
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30284,8 +30412,8 @@
 [/LEADER]
 [LEADER]986
  Name=修米妮莉亞
- Female=1
  Alias=伊索拉王國第一王女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30309,8 +30437,8 @@
 [/LEADER]
 [LEADER]987
  Name=海老原沙也加
- Female=1
  Alias=破壞王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30358,8 +30486,8 @@
 [/LEADER]
 [LEADER]989
  Name=神宮知枝
- Female=1
  Alias=待星祭實行委員顧問
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30383,8 +30511,8 @@
 [/LEADER]
 [LEADER]990
  Name=荒子
- Female=1
  Alias=荒骷髏
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30432,8 +30560,8 @@
 [/LEADER]
 [LEADER]992
  Name=堅葉莉子
- Female=1
  Alias=籃球部的主力
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30481,8 +30609,8 @@
 [/LEADER]
 [LEADER]994
  Name=梅里庫爾
- Female=1
  Alias=貓族少女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30530,8 +30658,8 @@
 [/LEADER]
 [LEADER]996
  Name=菲妮莉
- Female=1
  Alias=精靈女王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30555,8 +30683,8 @@
 [/LEADER]
 [LEADER]997
  Name=瑪莉亞
- Female=1
  Alias=冒險家商人
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30580,8 +30708,8 @@
 [/LEADER]
 [LEADER]998
  Name=橘奈緒
- Female=1
  Alias=百分百笨蛋
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -30629,8 +30757,8 @@
 [/LEADER]
 [LEADER]1000
  Name=羅倫
- Female=1
  Alias=柔弱女神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -31158,8 +31286,8 @@
 [/LEADER]
 [LEADER]1022
  Name=井上馬醉木
- Female=1
  Alias=死神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -31183,8 +31311,8 @@
 [/LEADER]
 [LEADER]1023
  Name=八阪神奈子
- Female=1
  Alias=鋼加農大媽
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -31208,8 +31336,8 @@
 [/LEADER]
 [LEADER]1024
  Name=黑神目瀧
- Female=1
  Alias=最強會長
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -31233,8 +31361,8 @@
 [/LEADER]
 [LEADER]1025
  Name=喜界島茂假名
- Female=1
  Alias=箱庭學生會會計
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -31258,8 +31386,8 @@
 [/LEADER]
 [LEADER]1026
  Name=名瀨夭歌
- Female=1
  Alias=黑色繃帶
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -31283,8 +31411,8 @@
 [/LEADER]
 [LEADER]1027
  Name=江迎怒江
- Female=1
  Alias=荒廢腐花
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -31308,8 +31436,8 @@
 [/LEADER]
 [LEADER]1028
  Name=人吉瞳
- Female=1
  Alias=蘿莉主婦
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -31333,8 +31461,8 @@
 [/LEADER]
 [LEADER]1029
  Name=安心院馴染
- Female=1
  Alias=惡平等
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -31358,8 +31486,8 @@
 [/LEADER]
 [LEADER]1030
  Name=櫻市子
- Female=1
  Alias=乳子
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -31383,8 +31511,8 @@
 [/LEADER]
 [LEADER]1031
  Name=紅葉
- Female=1
  Alias=窮神
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -31456,8 +31584,8 @@
 [/LEADER]
 [LEADER]1034
  Name=希爾德加露達
- Female=1
  Alias=惡魔侍女
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -31481,8 +31609,8 @@
 [/LEADER]
 [LEADER]1035
  Name=邦枝葵
- Female=1
  Alias=石矢魔的女王
+ Female=1
  Status=-1
  Power=20
  History=1
@@ -31506,8 +31634,8 @@
 [/LEADER]
 [LEADER]1036
  Name=晃E費拉利
- Female=1
  Alias=鮮紅的薔薇
+ Female=1
  Status=-1
  Power=20
  History=1
