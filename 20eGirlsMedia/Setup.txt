@@ -247,7 +247,7 @@
 [UNITCLASS]0
  Name=粉絲團
  AnimePath=unit-211
- WS=3
+ WS=70
  BS=2
  DEF=0
  I=3
@@ -256,9 +256,9 @@
  LevelWS=3
  LevelBS=4
  LevelI=3
- LevelHP=30
+ LevelHP=50
  LevelSP=5
- HP=100
+ HP=140
  Melee=0
  Range=0
  UnitCost=2
@@ -276,7 +276,7 @@
 [UNITCLASS]1
  Name=後援會
  AnimePath=unit-212
- WS=4
+ WS=70
  BS=2
  DEF=5
  I=3
@@ -285,9 +285,9 @@
  LevelWS=3
  LevelBS=3
  LevelI=3
- LevelHP=20
- LevelSP=4
- HP=100
+ LevelHP=50
+ LevelSP=5
+ HP=140
  Melee=0
  Range=1
  UnitCost=10
@@ -297,7 +297,7 @@
  UnitType=Irregular
  Morale=3
  Special=0
- SPCost=2
+ SPCost=1
  Upgrade1=2
  Upgrade2=3
  Upgrade3=-1
@@ -305,8 +305,8 @@
 [UNITCLASS]2
  Name=親衛隊
  AnimePath=unit-213
- WS=4
- BS=4
+ WS=70
+ BS=2
  DEF=10
  I=3
  IconIndex=67
@@ -314,9 +314,9 @@
  LevelWS=3
  LevelBS=3
  LevelI=3
- LevelHP=30
- LevelSP=4
- HP=100
+ LevelHP=50
+ LevelSP=5
+ HP=140
  Melee=0
  Range=1
  UnitCost=30
@@ -326,26 +326,26 @@
  UnitType=Irregular
  Morale=3
  Special=0
- SPCost=3
- Upgrade1=3
+ SPCost=1
+ Upgrade1=-1
  Upgrade2=-1
  Upgrade3=-1
 [/UNITCLASS]
 [UNITCLASS]3
  Name=美樹沙耶香
  AnimePath=unit-205
- WS=3
+ WS=80
  BS=3
  DEF=5
- I=3
+ I=4
  IconIndex=0
  Huge=0
  LevelWS=3
  LevelBS=3
  LevelI=3
- LevelHP=20
+ LevelHP=40
  LevelSP=4
- HP=100
+ HP=125
  Melee=0
  Range=1
  UnitCost=10
@@ -363,18 +363,18 @@
 [UNITCLASS]4
  Name=佐倉杏子
  AnimePath=unit-204
- WS=3
- BS=4
+ WS=80
+ BS=3
  DEF=10
- I=3
+ I=4
  IconIndex=0
  Huge=0
  LevelWS=3
  LevelBS=3
  LevelI=3
- LevelHP=20
+ LevelHP=40
  LevelSP=4
- HP=100
+ HP=125
  Melee=0
  Range=1
  UnitCost=15
@@ -392,7 +392,7 @@
 [UNITCLASS]5
  Name=曉美焰
  AnimePath=unit-207
- WS=3
+ WS=80
  BS=3
  DEF=10
  I=4
@@ -401,9 +401,9 @@
  LevelWS=3
  LevelBS=3
  LevelI=3
- LevelHP=20
+ LevelHP=40
  LevelSP=4
- HP=100
+ HP=125
  Melee=0
  Range=1
  UnitCost=100
@@ -421,18 +421,18 @@
 [UNITCLASS]6
  Name=菲特
  AnimePath=unit-202
- WS=4
- BS=4
+ WS=80
+ BS=3
  DEF=15
- I=3
+ I=4
  IconIndex=0
  Huge=0
  LevelWS=3
  LevelBS=3
  LevelI=3
- LevelHP=20
+ LevelHP=40
  LevelSP=3
- HP=100
+ HP=125
  Melee=0
  Range=1
  UnitCost=35
@@ -450,18 +450,18 @@
 [UNITCLASS]7
  Name=丘比
  AnimePath=unit-209
- WS=4
+ WS=90
  BS=2
  DEF=0
- I=4
+ I=6
  IconIndex=0
  Huge=0
  LevelWS=3
  LevelBS=4
  LevelI=3
- LevelHP=10
+ LevelHP=30
  LevelSP=4
- HP=100
+ HP=110
  Melee=3
  Range=0
  UnitCost=15
@@ -472,25 +472,25 @@
  Morale=3
  Special=0
  SPCost=2
- Upgrade1=8
- Upgrade2=9
- Upgrade3=10
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
 [/UNITCLASS]
 [UNITCLASS]8
  Name=葛羅莉雅．鷹
  AnimePath=big-unit-101
- WS=4
+ WS=90
  BS=2
  DEF=0
- I=5
+ I=6
  IconIndex=0
  Huge=0
  LevelWS=3
  LevelBS=4
  LevelI=3
- LevelHP=10
+ LevelHP=30
  LevelSP=4
- HP=100
+ HP=110
  Melee=3
  Range=0
  UnitCost=20
@@ -508,18 +508,18 @@
 [UNITCLASS]9
  Name=裴綻英
  AnimePath=big-unit-107
- WS=4
- BS=3
+ WS=90
+ BS=2
  DEF=5
- I=5
+ I=6
  IconIndex=0
  Huge=0
  LevelWS=3
  LevelBS=3
  LevelI=3
- LevelHP=10
+ LevelHP=30
  LevelSP=3
- HP=100
+ HP=110
  Melee=3
  Range=0
  UnitCost=30
@@ -537,18 +537,18 @@
 [UNITCLASS]10
  Name=鈴世
  AnimePath=big-unit-106
- WS=4
- BS=3
+ WS=90
+ BS=2
  DEF=5
- I=4
+ I=6
  IconIndex=0
  Huge=0
  LevelWS=3
  LevelBS=3
  LevelI=3
- LevelHP=20
+ LevelHP=30
  LevelSP=3
- HP=100
+ HP=110
  Melee=3
  Range=0
  UnitCost=30
@@ -566,18 +566,18 @@
 [UNITCLASS]11
  Name=巴麻美
  AnimePath=unit-206
- WS=2
- BS=3
+ WS=60
+ BS=7
  DEF=0
- I=2
+ I=3
  IconIndex=0
  Huge=0
  LevelWS=4
  LevelBS=2
  LevelI=4
- LevelHP=10
+ LevelHP=20
  LevelSP=3
- HP=80
+ HP=125
  Melee=-1
  Range=2
  UnitCost=30
@@ -585,7 +585,7 @@
  UnitSkill=Defenser
  UnitSkillLevel=1
  UnitType=Artillery
- Morale=2
+ Morale=3
  Special=0
  SPCost=4
  Upgrade1=12
@@ -595,8 +595,8 @@
 [UNITCLASS]12
  Name=女神圓
  AnimePath=unit-208
- WS=2
- BS=3
+ WS=60
+ BS=7
  DEF=0
  I=3
  IconIndex=0
@@ -604,9 +604,9 @@
  LevelWS=4
  LevelBS=2
  LevelI=3
- LevelHP=10
+ LevelHP=20
  LevelSP=2
- HP=100
+ HP=125
  Melee=-1
  Range=2
  UnitCost=45
@@ -624,18 +624,18 @@
 [UNITCLASS]13
  Name=奈葉
  AnimePath=unit-201
- WS=2
- BS=5
+ WS=60
+ BS=7
  DEF=0
- I=2
+ I=3
  IconIndex=0
  Huge=0
  LevelWS=4
  LevelBS=2
  LevelI=4
- LevelHP=10
+ LevelHP=20
  LevelSP=2
- HP=100
+ HP=125
  Melee=-1
  Range=2
  UnitCost=60
@@ -643,7 +643,7 @@
  UnitSkill=Shell
  UnitSkillLevel=1
  UnitType=Artillery
- Morale=3
+ Morale=4
  Special=0
  SPCost=4
  Upgrade1=-1
@@ -653,8 +653,8 @@
 [UNITCLASS]14
  Name=八神疾風
  AnimePath=unit-203
- WS=2
- BS=4
+ WS=60
+ BS=7
  DEF=0
  I=3
  IconIndex=0
@@ -662,9 +662,9 @@
  LevelWS=4
  LevelBS=2
  LevelI=3
- LevelHP=10
+ LevelHP=20
  LevelSP=2
- HP=100
+ HP=125
  Melee=-1
  Range=2
  UnitCost=45
@@ -672,7 +672,7 @@
  UnitSkill=Engineer
  UnitSkillLevel=1
  UnitType=Artillery
- Morale=3
+ Morale=4
  Special=0
  SPCost=4
  Upgrade1=-1
@@ -682,38 +682,38 @@
 [UNITCLASS]15
  Name=可蘿嵐
  AnimePath=big-unit-100
- WS=3
+ WS=100
  BS=1
- DEF=30
- I=1
+ DEF=15
+ I=5
  IconIndex=0
  Huge=0
  LevelWS=3
  LevelBS=4
  LevelI=4
- LevelHP=20
- LevelSP=5
+ LevelHP=10
+ LevelSP=2
  HP=100
  Melee=0
  Range=0
- UnitCost=5
+ UnitCost=50
  LevelCost=1
  UnitSkill=Shield
  UnitSkillLevel=1
  UnitType=Armor
- Morale=3
+ Morale=2
  Special=0
- SPCost=1
- Upgrade1=16
- Upgrade2=17
- Upgrade3=18
+ SPCost=6
+ Upgrade1=-1
+ Upgrade2=-1
+ Upgrade3=-1
 [/UNITCLASS]
 [UNITCLASS]16
  Name=朵拉
  AnimePath=big-unit-102
- WS=5
+ WS=100
  BS=5
- DEF=35
+ DEF=20
  I=5
  IconIndex=0
  Huge=0
@@ -730,7 +730,7 @@
  UnitSkill=Shield
  UnitSkillLevel=1
  UnitType=Armor
- Morale=6
+ Morale=2
  Special=0
  SPCost=6
  Upgrade1=19
@@ -740,10 +740,10 @@
 [UNITCLASS]17
  Name=依碧絲
  AnimePath=big-unit-103
- WS=5
+ WS=100
  BS=5
- DEF=85
- I=4
+ DEF=25
+ I=5
  IconIndex=0
  Huge=0
  LevelWS=2
@@ -759,7 +759,7 @@
  UnitSkill=Shield
  UnitSkillLevel=1
  UnitType=Armor
- Morale=5
+ Morale=2
  Special=0
  SPCost=6
  Upgrade1=19
@@ -769,9 +769,9 @@
 [UNITCLASS]18
  Name=蜜朗琪
  AnimePath=big-unit-108
- WS=5
+ WS=100
  BS=5
- DEF=45
+ DEF=25
  I=5
  IconIndex=0
  Huge=0
@@ -788,7 +788,7 @@
  UnitSkill=Shield
  UnitSkillLevel=1
  UnitType=Armor
- Morale=5
+ Morale=2
  Special=0
  SPCost=6
  Upgrade1=19
@@ -798,9 +798,9 @@
 [UNITCLASS]19
  Name=伍緹絲
  AnimePath=big-unit-104
- WS=5
+ WS=100
  BS=5
- DEF=65
+ DEF=25
  I=5
  IconIndex=0
  Huge=0
@@ -817,7 +817,7 @@
  UnitSkill=Shield
  UnitSkillLevel=1
  UnitType=Armor
- Morale=5
+ Morale=2
  Special=0
  SPCost=6
  Upgrade1=-1
@@ -827,16 +827,16 @@
 [UNITCLASS]20
  Name=三菱時子
  AnimePath=big-unit-105
- WS=5
+ WS=100
  BS=5
- DEF=55
+ DEF=30
  I=5
  IconIndex=0
  Huge=0
  LevelWS=2
  LevelBS=3
  LevelI=3
- LevelHP=20
+ LevelHP=10
  LevelSP=1
  HP=100
  Melee=1
@@ -846,7 +846,7 @@
  UnitSkill=Shield
  UnitSkillLevel=1
  UnitType=Armor
- Morale=4
+ Morale=2
  Special=0
  SPCost=6
  Upgrade1=-1
