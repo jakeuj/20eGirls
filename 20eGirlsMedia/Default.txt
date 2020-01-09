@@ -33246,7 +33246,7 @@
  Leader=曉美焰
  BattleTry=0
  Country=魔法少女
- Strength=100
+ Strength=110
  Stress=0
  UnitClass=5
  ExtraUnit=0
@@ -33259,7 +33259,7 @@
  Leader=女神圓
  BattleTry=0
  Country=魔法少女
- Strength=100
+ Strength=160
  Stress=0
  UnitClass=12
  ExtraUnit=0
@@ -33272,7 +33272,7 @@
  Leader=高町奈葉
  BattleTry=0
  Country=機動六課
- Strength=100
+ Strength=160
  Stress=0
  UnitClass=13
  ExtraUnit=0
@@ -33285,7 +33285,7 @@
  Leader=鹿目圓
  BattleTry=0
  Country=魔法少女
- Strength=100
+ Strength=125
  Stress=0
  UnitClass=12
  ExtraUnit=0
@@ -33298,7 +33298,7 @@
  Leader=巴麻美
  BattleTry=0
  Country=魔法少女
- Strength=100
+ Strength=125
  Stress=0
  UnitClass=11
  ExtraUnit=0
@@ -33311,7 +33311,7 @@
  Leader=佐倉杏子
  BattleTry=0
  Country=魔法少女
- Strength=100
+ Strength=110
  Stress=0
  UnitClass=4
  ExtraUnit=0
@@ -33324,7 +33324,7 @@
  Leader=美樹沙耶加
  BattleTry=0
  Country=魔法少女
- Strength=100
+ Strength=110
  Stress=0
  UnitClass=3
  ExtraUnit=0
@@ -33337,7 +33337,7 @@
  Leader=八神疾風
  BattleTry=0
  Country=機動六課
- Strength=100
+ Strength=125
  Stress=0
  UnitClass=14
  ExtraUnit=0
@@ -33350,7 +33350,7 @@
  Leader=菲特
  BattleTry=0
  Country=機動六課
- Strength=100
+ Strength=110
  Stress=0
  UnitClass=6
  ExtraUnit=0
@@ -33363,7 +33363,7 @@
  Leader=中島昴
  BattleTry=0
  Country=機動六課
- Strength=100
+ Strength=125
  Stress=0
  UnitClass=3
  ExtraUnit=0
@@ -33376,7 +33376,7 @@
  Leader=中島銀河
  BattleTry=0
  Country=機動六課
- Strength=100
+ Strength=135
  Stress=0
  UnitClass=3
  ExtraUnit=0
@@ -33389,7 +33389,7 @@
  Leader=薇塔
  BattleTry=0
  Country=機動六課
- Strength=100
+ Strength=135
  Stress=0
  UnitClass=6
  ExtraUnit=0
@@ -33402,7 +33402,7 @@
  Leader=高町薇薇歐
  BattleTry=0
  Country=機動六課
- Strength=100
+ Strength=145
  Stress=0
  UnitClass=13
  ExtraUnit=0
@@ -33415,7 +33415,7 @@
  Leader=琳芙絲
  BattleTry=0
  Country=機動六課
- Strength=100
+ Strength=110
  Stress=0
  UnitClass=0
  ExtraUnit=0
@@ -33428,7 +33428,7 @@
  Leader=琳芙絲II
  BattleTry=0
  Country=機動六課
- Strength=100
+ Strength=110
  Stress=0
  UnitClass=2
  ExtraUnit=0
@@ -33480,7 +33480,7 @@
  Leader=C.C
  BattleTry=0
  Country=黑色騎士團
- Strength=100
+ Strength=110
  Stress=0
  UnitClass=15
  ExtraUnit=0
@@ -33493,7 +33493,7 @@
  Leader=Caster
  BattleTry=0
  Country=聖杯戰爭
- Strength=100
+ Strength=110
  Stress=0
  UnitClass=15
  ExtraUnit=0
@@ -33506,7 +33506,7 @@
  Leader=Saber
  BattleTry=0
  Country=聖杯戰爭
- Strength=100
+ Strength=150
  Stress=0
  UnitClass=3
  ExtraUnit=0
@@ -33519,7 +33519,7 @@
  Leader=Rider
  BattleTry=0
  Country=聖杯戰爭
- Strength=100
+ Strength=110
  Stress=0
  UnitClass=7
  ExtraUnit=0
@@ -33532,7 +33532,7 @@
  Leader=遠坂凛
  BattleTry=0
  Country=聖杯戰爭
- Strength=100
+ Strength=90
  Stress=0
  UnitClass=11
  ExtraUnit=0
@@ -33545,7 +33545,7 @@
  Leader=依莉亞
  BattleTry=0
  Country=聖杯戰爭
- Strength=100
+ Strength=145
  Stress=2
  UnitClass=0
  ExtraUnit=0
@@ -33558,7 +33558,7 @@
  Leader=間桐櫻
  BattleTry=0
  Country=聖杯戰爭
- Strength=100
+ Strength=90
  Stress=0
  UnitClass=0
  ExtraUnit=0
@@ -33571,7 +33571,7 @@
  Leader=久宇舞彌
  BattleTry=0
  Country=聖杯戰爭
- Strength=100
+ Strength=110
  Stress=0
  UnitClass=0
  ExtraUnit=0
@@ -33584,7 +33584,7 @@
  Leader=愛麗絲菲爾
  BattleTry=0
  Country=聖杯戰爭
- Strength=100
+ Strength=110
  Stress=0
  UnitClass=0
  ExtraUnit=0
@@ -33597,7 +33597,7 @@
  Leader=米蕾
  BattleTry=0
  Country=黑色騎士團
- Strength=100
+ Strength=126
  Stress=0
  UnitClass=16
  ExtraUnit=0
@@ -33610,7 +33610,7 @@
  Leader=柯內莉亞
  BattleTry=0
  Country=黑色騎士團
- Strength=100
+ Strength=110
  Stress=0
  UnitClass=17
  ExtraUnit=0
@@ -33623,7 +33623,7 @@
  Leader=皇神樂耶
  BattleTry=0
  Country=黑色騎士團
- Strength=100
+ Strength=126
  Stress=0
  UnitClass=8
  ExtraUnit=0
@@ -33636,7 +33636,7 @@
  Leader=紅月卡蓮
  BattleTry=0
  Country=黑色騎士團
- Strength=100
+ Strength=110
  Stress=0
  UnitClass=18
  ExtraUnit=0
@@ -33649,7 +33649,7 @@
  Leader=娜娜莉
  BattleTry=0
  Country=黑色騎士團
- Strength=100
+ Strength=126
  Stress=0
  UnitClass=9
  ExtraUnit=0
@@ -33662,7 +33662,7 @@
  Leader=阿尼亞
  BattleTry=0
  Country=黑色騎士團
- Strength=100
+ Strength=110
  Stress=0
  UnitClass=19
  ExtraUnit=0
@@ -33675,7 +33675,7 @@
  Leader=蔣麗華
  BattleTry=0
  Country=黑色騎士團
- Strength=100
+ Strength=126
  Stress=0
  UnitClass=10
  ExtraUnit=0
@@ -33688,7 +33688,7 @@
  Leader=夏娜
  BattleTry=0
  Country=灼眼夏娜
- Strength=100
+ Strength=120
  Stress=0
  UnitClass=3
  ExtraUnit=0
@@ -33701,7 +33701,7 @@
  Leader=吉田一美
  BattleTry=0
  Country=灼眼夏娜
- Strength=100
+ Strength=120
  Stress=0
  UnitClass=11
  ExtraUnit=0
@@ -33714,7 +33714,7 @@
  Leader=威爾艾米娜
  BattleTry=0
  Country=灼眼夏娜
- Strength=100
+ Strength=120
  Stress=0
  UnitClass=2
  ExtraUnit=0
@@ -33727,7 +33727,7 @@
  Leader=黑卡蒂
  BattleTry=0
  Country=灼眼夏娜
- Strength=100
+ Strength=90
  Stress=0
  UnitClass=11
  ExtraUnit=0
@@ -33948,7 +33948,7 @@
  Leader=艾爾
  BattleTry=0
  Country=機動六課
- Strength=100
+ Strength=130
  Stress=0
  UnitClass=0
  ExtraUnit=0
@@ -34026,7 +34026,7 @@
  Leader=夏瑪爾
  BattleTry=0
  Country=機動六課
- Strength=100
+ Strength=115
  Stress=0
  UnitClass=1
  ExtraUnit=0
